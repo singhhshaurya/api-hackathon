@@ -1,0 +1,893 @@
+[
+    {
+        "title": "vAtavRuddhiH",
+        "synonyms": [
+            "वातवृद्धिः",
+            "(a) vātavṛddhiḥ",
+            "vAtavRuddhiH"
+        ],
+        "description": "It is characterized by roughness or hoarseness of voice, emaciation, blackish discoloration of body, twitching in various parts of body, desire for warmth, insomnia, reduced physical strength, hard stools. This may be explained by marked increase of vatadosha functions and consequent physiological and pathological ramifications."
+    },
+    {
+        "title": "vAtaprakopaH",
+        "synonyms": [
+            "वातप्रकोपः",
+            "(a) vātaprakopaḥ",
+            "vAtaprakopaH"
+        ],
+        "description": "It is characterized by abdominal pain and increased gaseous movements in abdomen. This may be explained by aggravation of vatadosha at its designated site and preparing to cause certain morbidity."
+    },
+    {
+        "title": "prANavAtakopaH",
+        "synonyms": [
+            "प्राणवातकोपः",
+            "prANavAtakopaH",
+            "prāṇavātakōpaḥ"
+        ],
+        "description": "the disorder is characterized by hikkā [hiccup], śvāsa [breathlessness/difficult breathing], cakṣurādīnāmupaghāta [impairment of sense organs viz. eye], pīnasa [cold, catarrh], ardita [facial paralysis], tr̥ṭ [thirst], kāsaḥ [cough]"
+    },
+    {
+        "title": "udAnavAtakopaH",
+        "synonyms": [
+            "udānavātakōpaḥ",
+            "उदानवातकोपः",
+            "udAnavAtakopaH"
+        ],
+        "description": "the disorder is characterized by kaṇṭharōdha [choking of throat/stopping or lowering voice], manōbhraṁśa [mental disturbance], chardiḥ [vomiting], arōcakaḥ [tastelessness], pīnasa [cold, catarrh], galagaṇḍaḥ [glandular swelling in jaw, neck and throat region /goitre], jatrūrdhvarōga [diseases of body above collar bone/diseases of head and neck]"
+    },
+    {
+        "title": "vyAnavAtakopaH",
+        "synonyms": [
+            "vyānavātakōpaḥ",
+            "व्यानवातकोपः",
+            "vyAnavAtakopaH"
+        ],
+        "description": "the disorder is characterized by puṁstvabhraṁśa [decrease in virility/semen], utsāhabhraṁśa [decrease/lack of enthusiasm/energy], balabhraṁśaḥ [diminution of physical strength], śōpha [oedema], cittōtplava [excitement], jvaraḥ [fever], sarvāṅgarōga [quadriplegia], nistōda [pricking type of pain], rōmaharṣa [horripilation], aṅgasuptatā [numbness of body parts], kuṣṭhaḥ [skin disease], visarpa [spreading cellulitis/erysipelas], sarvāṅgaga rōga [diseases affecting whole body]"
+    },
+    {
+        "title": "samAnavAtakopaH",
+        "synonyms": [
+            "samAnavAtakopaH",
+            "समानवातकोपः",
+            "samānavātakōpaḥ"
+        ],
+        "description": "the disorder is characterized by gulmaḥ [palpable glandular enlargment in abdomen/abdominal lump], agnisādaḥ [diminution of agni (digestive power)], atisāra [diarrhoea], śūla [colicky pain in the abdomen], grahaṇī [derangement of agni situated in grahaṇī], pakvāśayajarōga [diseases of/having origin in pakvāśaya], āmāśayajarōgaḥ [diseases of/having origin in āmāśaya]"
+    },
+    {
+        "title": "apAnavAtakopaH",
+        "synonyms": [
+            "अपानवातकोपः",
+            "apAnavAtakopaH",
+            "apānavātakōpaḥ"
+        ],
+        "description": "the disorder is characterized by pakvāśayāśrayarōgaḥ [diseases of pakvāśaya], mūtrapradōṣaḥ [disorders of mūtra/urinary system], śukrapradōṣaḥ [disorders of semen], arśaḥ [haemorrhoids], gudabhraṁśaḥ [rectal prolapse]"
+    },
+    {
+        "title": "vAtaprasaraNam",
+        "synonyms": [
+            "vAtaprasaraNam",
+            "(a) vātaprasaraḥ",
+            "वातप्रसरणम्"
+        ],
+        "description": "It is characterized by abnormal movements of vāta, abdominal distension and gurgling sound in the abdomen. This may be explained by spreading of vatadosha from place of accumulation to other parts or entire body."
+    },
+    {
+        "title": "vAtakShayaH",
+        "synonyms": [
+            "(a) vātakṣayaḥ",
+            "वातक्षयः",
+            "vAtakShayaH"
+        ],
+        "description": "It is characterized by sluggishness in activities, reduced talking, lack of interest in activities, loss of consciousness. This may be explained by marked decrease of vatadosha functions and consequent physiological and pathological ramifications."
+    },
+    {
+        "title": "atipralApaH (kEvalavAta)",
+        "synonyms": [
+            "atipralApaH (kEvalavAta)",
+            "(a) atipralāpaḥ                       (a) pralāpakaḥ",
+            "अतिप्रलापः (केवलवात)"
+        ],
+        "description": "It is characterised by irrelevant and irrational talk, mental confusion. This may be explained by: (a) Vitiation of Vata affecting motor and intellectual faculties."
+    },
+    {
+        "title": "anavasthitacittatvam (kEvalavAta)",
+        "synonyms": [
+            "anavasthitacittatvam (kEvalavAta)",
+            "(a) anavasthitacittatvam",
+            "अनवस्थितचित्तत्वम् (केवलवात)"
+        ],
+        "description": "It is characterised by difficulty to concentrate, fickleness, confusion. This may be explained by: (a) Vitiation of vata affecting the mind."
+    },
+    {
+        "title": "klamaH (kEvalavAta)",
+        "synonyms": [
+            "klamaH (kEvalavAta)",
+            "(a) klamaḥ",
+            "क्लमः (केवलवात)"
+        ],
+        "description": "It is characterised by feeling extreme exhaustion even without any physical effort, work. This may be explained by: (a) Vitiation of all the three dosha, seven elementary tissues and ojas."
+    },
+    {
+        "title": "kArShNyam (kEvalavAta)",
+        "synonyms": [
+            "(a) kārṣṇyam",
+            "कार्ष्ण्यम् (केवलवात)",
+            "kArShNyam (kEvalavAta)"
+        ],
+        "description": "It is characterised by discoloration or pigmentation of skin. This may be explained by: (a) Increased vatadosha."
+    },
+    {
+        "title": "kArSyam (kEvalavAta)",
+        "synonyms": [
+            "(a) kārśyam",
+            "kArSyam (kEvalavAta)",
+            "कार्श्यम् (केवलवात)"
+        ],
+        "description": "It is characterised by sudden or gradual loss of body weight, loss of muscle. This may be explained by: (a) Emaciation in the body due to vitiation of vāta."
+    },
+    {
+        "title": "grIvAstamBaH (kEvalavAta)",
+        "synonyms": [
+            "grIvAstamBaH (kEvalavAta)",
+            "ग्रीवास्तम्भः (केवलवात)",
+            "(a) grīvāstambhaḥ"
+        ],
+        "description": "It is characterised by pain, stiffness of the neck. This may be explained by: (a) Vitiation of vata causing stiffness of neck muscles."
+    },
+    {
+        "title": "gRudhrasI (kEvalavAta)",
+        "synonyms": [
+            "गृध्रसी (केवलवात)",
+            "gr̥dhrasī (kēvalavāta)",
+            "gRudhrasI (kEvalavAta)"
+        ],
+        "description": "the disorder is characterized by kramāt sphik-kaṭi-pr̥ṣṭha-ūru-jānu-jaṅghā-padēṣu stambhaḥ [gradual stiffness in gluteal region- low back- upper back- thigh- knee- calf muscles- feet], spandatē muhuḥ [constant/frequent throbbing/twiching sensation], sakthi-nigr̥hṇana [supression/holding down of thighs], jānusaṁdhi-sphuraṇam [twitching sensation in knee], jānusaṁdhi-stabdhatā [stiffness in knee joint], kaṭisaṁdhi-sphuraṇam [twitching sensation in waist], kaṭisaṁdhi-stabdhatā [stiffness of lowback], ūrusaṁdhi-sphuraṇam [twitching sensation in thigh], ūrusaṁdhi-stabdhatā [stiffness in thigh], tōdaḥ [pricking pain], dēha-pravakratā [bending/flexion of the body]"
+    },
+    {
+        "title": "nakhaBedaH (kEvalavAta)",
+        "synonyms": [
+            "nakhaBedaH (kEvalavAta)",
+            "(a) nakhabhedaḥ",
+            "नखभेदः (केवलवात)"
+        ],
+        "description": "It is characterised by whitish, mica coloured discoloration, brittleness of nails. This may be explained by: (a) Vitiated digestive and metabolic factors resulting in non absorption of nutrients leading to vitiation of vatadosha."
+    },
+    {
+        "title": "pAruShyam (kEvalavAta)",
+        "synonyms": [
+            "पारुष्यम् (केवलवात)",
+            "pAruShyam (kEvalavAta)",
+            "(a) pāruṣyam"
+        ],
+        "description": "It is characterised by roughness and thickness of skin may be associated with itching. This may be explained by: (a) Vitiated vatadosha."
+    },
+    {
+        "title": "mukhaSoShaH (kEvalavAta)",
+        "synonyms": [
+            "(a) mukhaśoṣaḥ",
+            "mukhaSoShaH (kEvalavAta)",
+            "मुखशोषः (केवलवात)"
+        ],
+        "description": "It is characterised by dryness of the tongue and may be associated with dryness of mouth, bitterness, heartburn. This may be explained by: (a) Vitiation of kapha, vata affecting the tongue."
+    },
+    {
+        "title": "mUtranigrahaH (kEvalavAta)",
+        "synonyms": [
+            "मूत्रनिग्रहः (केवलवात)",
+            "(a) mūtranigrahaḥ",
+            "mUtranigrahaH (kEvalavAta)"
+        ],
+        "description": "It is characterised by retention of urine, inability to urinate, abdominal pain. This may be explained by: (a) Retention of the urine due to vātadosha."
+    },
+    {
+        "title": "raukShyam (kEvalavAta)",
+        "synonyms": [
+            "raukShyam (kEvalavAta)",
+            "(a) raukṣyam",
+            "रौक्ष्यम् (केवलवात)"
+        ],
+        "description": "It is characterised by dryness, scaliness and cracking of extremities and face. This may be explained by: (a) Increased vata affecting skin"
+    },
+    {
+        "title": "vAk-sa~ggaH (kEvalavAta)",
+        "synonyms": [
+            "वाक्-सङ्गः (केवलवात)",
+            "vAk-sa~ggaH (kEvalavAta)",
+            "(a) vāk-saṅgaḥ"
+        ],
+        "description": "It is characterised by loss of speech clarity, lalling, strained speech, may be aggravated due to excess speech. This may be explained by: (a) Aggravagtion of vata affecting kapha and faculty of speech."
+    },
+    {
+        "title": "SukrakShayaH (kEvalavAta)",
+        "synonyms": [
+            "(a) śukrakṣayaḥ",
+            "SukrakShayaH (kEvalavAta)",
+            "शुक्रक्षयः (केवलवात)"
+        ],
+        "description": "It is characterised by decreased quantity and quality of semen, decreased sexual power, spermatorrhoea. This may be explained by: (a) Vitiation of all three dosha affecting male reproductive system."
+    },
+    {
+        "title": "arditaH",
+        "synonyms": [
+            "अर्दितः",
+            "arditaH",
+            "(a) arditaḥ"
+        ],
+        "description": "It is characterised by deviation of one side of the face, difficulty in speech, loss of wrinkling, non closure of eyes and lips and dribbling of saliva from the angles of mouth This may be explained by: (a) increased vatadosha affecting one half of the face."
+    },
+    {
+        "title": "ardita-pUrvarupam",
+        "synonyms": [
+            "अर्दित-पूर्वरुपम्",
+            "ardita-pUrvarupam",
+            "ardita-pūrvarupam"
+        ],
+        "description": "the disorder is characterized by rōmaharṣaḥ [horripilation], vēpathuḥ [shivering/tremors], āvilanētraḥ [turbid/muddy eyes], tvaci svāpaḥ [numbness in skin], tōdaḥ [pricking pain], manyāgrahaḥ [neck stiffness], hanugrahaḥ [lock jaw/catching sensation over jaw], ūrdhvavāyuḥ [upward movement of vāyu]"
+    },
+    {
+        "title": "asthiSoShaH",
+        "synonyms": [
+            "अस्थिशोषः",
+            "asthiSoShaH",
+            "(a) asthiśoṣaḥ"
+        ],
+        "description": "It is characterised by atrophy, weakness of bones; may lead to fractures. This may be explained by: (a) Weak digestive and metabolic factors, bone metabolism, malnutrition leading to severe aggravation of vata and decrease of kapha."
+    },
+    {
+        "title": "AdhmAnam",
+        "synonyms": [
+            "AdhmAnam",
+            "(a) ādhmānam",
+            "आध्मानम्"
+        ],
+        "description": "It is characterised by distension of abdomen, flatulance, gurlging sounds, heaviness may be associated with pain, dyspepsia, constipation and dysuria. This may be explained by: (a) Aggravation of Descending vata affecting the excretory functions."
+    },
+    {
+        "title": "UrdhvavAtaH",
+        "synonyms": [
+            "(a) ūrdhvavātaḥ",
+            "UrdhvavAtaH",
+            "ऊर्ध्ववातः"
+        ],
+        "description": "It is characterised by severe abdominal colicky pain, projectile vomiting with gastrointestinal contents. This may be explained by: (a) Reversal of Kindling vata, Descending vata functions."
+    },
+    {
+        "title": "gRudhrasI",
+        "synonyms": [
+            "गृध्रसी",
+            "(a) gṛdhrasī",
+            "gRudhrasI"
+        ],
+        "description": "It is characterised by moderate to severe pain, starting from acetabulum of hip bone, mainly travelling laterally to ankle joint and rarely radiating from the medial side of thigh. This may be explained by: (a) Vitiation of vata affecting nerves, tendons, muscles of leg; may be associated with vitiated kapha (resulting in mild pain)."
+    },
+    {
+        "title": "vAtikagRudhrasI",
+        "synonyms": [
+            "वातिकगृध्रसी",
+            "vātikagr̥dhrasī",
+            "vAtikagRudhrasI"
+        ],
+        "description": "the disorder is characterized by kramāt sphik-kaṭi-pr̥ṣṭha-ūru-jānu-jaṅghā-padēṣu stambhaḥ [gradual stiffness in gluteal region- low back- upper back- thigh- knee- calf muscles- feet], spandatē muhuḥ [constant/frequent throbbing/twiching sensation], sakthi-nigr̥hṇana [supression/holding down of thighs], jānusaṁdhi-sphuraṇam [twitching sensation in knee], jānusaṁdhi-stabdhatā [stiffness in knee joint], kaṭisaṁdhi-sphuraṇam [twitching sensation in waist], kaṭisaṁdhi-stabdhatā [stiffness of lowback], ūrusaṁdhi-sphuraṇam [twitching sensation in thigh], ūrusaṁdhi-stabdhatā [stiffness in thigh], tōdaḥ [pricking pain], dēha-pravakratā [bending/flexion of the body]"
+    },
+    {
+        "title": "pakShAghAta/pakShavadhaH",
+        "synonyms": [
+            "पक्षाघात/पक्षवधः",
+            "pakShAghAta/pakShavadhaH",
+            "(a) pakṣāghāta (a) pakṣavadhaḥ"
+        ],
+        "description": "It is characterised by loss of mobility or flaccidity of one side of the body. May be associated with difficulty in swallowing, speech, deranged cognitive functions, tactile sensation. This may be explained by: (a) obstruction to body channels or severe lack of nutrition leading to aggravation of vatadosha affecting motor, sensory and cognitive functions."
+    },
+    {
+        "title": "kaPAnvitapakShAghAtaH",
+        "synonyms": [
+            "kaPAnvitapakShAghAtaH",
+            "कफान्वितपक्षाघातः",
+            "kaphānvitapakṣāghātaḥ"
+        ],
+        "description": "the disorder is characterized by śaitya [cold on touch on affected side of body], śōtha [oedema], gurutva [heaviness]"
+    },
+    {
+        "title": "pittAnvitapakShAghAtaH",
+        "synonyms": [
+            "pittānvitapakṣāghātaḥ",
+            "पित्तान्वितपक्षाघातः",
+            "pittAnvitapakShAghAtaH"
+        ],
+        "description": "the disorder is characterized by dāhaḥ [burning sensation], santāpaḥ [burning sensation], mūrcchā [syncope/attacks of swooning]"
+    },
+    {
+        "title": "pa~gguH",
+        "synonyms": [
+            "पङ्गुः",
+            "(a) paṅguḥ",
+            "pa~gguH"
+        ],
+        "description": "It is characterised by flaccidity, loss of function in both lower limbs. This may be explained by: (a) obstruction to body channels or severe lack of nutrition leading to aggravation of vatadosha affecting motor functions."
+    },
+    {
+        "title": "manyAstamBaH",
+        "synonyms": [
+            "मन्यास्तम्भः",
+            "manyāstambhaḥ",
+            "manyAstamBaH"
+        ],
+        "description": "the disorder is characterized by manyāstambhaḥ [torticollis/stiffness of neck]"
+    },
+    {
+        "title": "kampaH/vepathuH",
+        "synonyms": [
+            "(a) kampaḥ",
+            "कम्पः/वेपथुः",
+            "kampaH/vepathuH"
+        ],
+        "description": "It is characterised by tremors, rigidity, and may be associated with dryness of the skin and insomnia. This may be explained by: (a) aggravation of vata affecting the motor system."
+    },
+    {
+        "title": "AvRuta-vAtaH/AvaraNavAta",
+        "synonyms": [
+            "AvRuta-vAtaH/AvaraNavAta",
+            "(a) āvaraṇa",
+            "आवृत-वातः/आवरणवात"
+        ],
+        "description": "It is characterised by hampering of the normal functioning of the dosha leading to local or systemic symptoms. This may be explained the occlusion of the free flowing and all-pervading Vata dosha or subtype of it by one another or by Pitta, Kapha, tissues, food and excreta."
+    },
+    {
+        "title": "koShThASritavAtakopaH",
+        "synonyms": [
+            "koShThASritavAtakopaH",
+            "kōṣṭhāśritavātakōpaḥ",
+            "कोष्ठाश्रितवातकोपः"
+        ],
+        "description": "the disorder is characterized by arśaḥ [hemorrhoids], gulmaḥ [palpable glandular enlargment in abdomen/abdominal lump], pārśvaśūlam [pain in sides of chest/flanks], bradhnaḥ [inguinal swelling/herniation], mūtranigrahaḥ [retention of urine], varca-nigrahaḥ [retention of faeces], hr̥drōgaḥ [diseases of heart]"
+    },
+    {
+        "title": "gudasthitavAtaH",
+        "synonyms": [
+            "gudasthitavAtaH",
+            "गुदस्थितवातः",
+            "gudasthitavātaḥ"
+        ],
+        "description": "the disorder is characterized by viḍgrahaḥ [retention of feces], mūtragrahaḥ [obstruction/retention in the passage of urine], vātagrahaḥ [retention of flatus], śūlam [sharp pain in anus], ādhmānam [abdominal distension], aśmarī [urolithiasis], śarkarā [mutiple gravely particles in urine], jaṅghārōgaḥ(rujā) [pain in calf muscles], jaṅghāśōṣaḥ [wasting of calf region], ūrurōgaḥ(rujā) [pain in thighs], ūruśōṣaḥ [wasting of thighs], trik-rōgaḥ(rujā) [pain in sacral iliac region of back], trik-śōṣaḥ [wasting of sacroiliac region of back], pādarōgaḥ(rujā) [pain in legs/feet], pādaśōṣaḥ [wasting of legs], pr̥ṣṭharōgaḥ(rujā) [pain in back], pr̥ṣṭhaśōṣaḥ [wasting of back]"
+    },
+    {
+        "title": "AmASayagatavAtaH",
+        "synonyms": [
+            "आमाशयगतवातः",
+            "āmāśayagatavātaḥ",
+            "AmASayagatavAtaH"
+        ],
+        "description": "the disorder is characterized by hr̥daya-ruk [pain in the pericordial region/angina pectoris], nābhi- ruk [pain in the umbilical region], pārśvaruk [pain in sides of chest/flanks], udararuk [pain in the abdomen], tr̥ṣṇā [thirst], udgāraḥ [eructation], visūcikā [loose motions and vomitings caused by ama], kāsaḥ [cough], kaṇṭha-śōṣaḥ [dryness in the throat], āsyaśōṣaḥ [dryness in mouth], śvāsaḥ [breathlessness/difficult breathing], vamathuḥ [vomiting], kaṇṭhōparōdhaḥ [choking sensation of throat/obstruction of throat], nābhērūrdhvavyādhayaḥ [diseases of above nabhi/umbilicus]"
+    },
+    {
+        "title": "pakvASayagatavAtaH",
+        "synonyms": [
+            "pakvāśayagatavātaḥ",
+            "पक्वाशयगतवातः",
+            "pakvASayagatavAtaH"
+        ],
+        "description": "the disorder is characterized by antrakūjanam [barborygmus/gurgling sound of intestines], śūlaḥ [colicky pain in the abdomen], āṭōpaḥ [gurgling sound of the intestines/barborygmus], mūtrakr̥cchram [dysuria], kr̥cchrapurīṣatvam [diffuculty in passing stool], ānāhaḥ [barborygmus with distention], trikavēdanām [pain in the sacroiliac region], malarōdhaḥ [constipation], aśmarī [urolithiasis], vardhma [herniation], arśas [haemorrhoids], trikagraham [stiffness of sacroiliac region], pr̥ṣṭhagraham [stiffness of back], kaṭigraham [stiffness of low back]"
+    },
+    {
+        "title": "SrotrAdIndriyagatavAtaH",
+        "synonyms": [
+            "श्रोत्रादीन्द्रियगतवातः",
+            "SrotrAdIndriyagatavAtaH",
+            "śrōtrādīndriyagatavātaḥ"
+        ],
+        "description": "the disorder is characterized by indriyavadham [impairment of the functions of sense organs]"
+    },
+    {
+        "title": "tvak^-gatavAtaH",
+        "synonyms": [
+            "tvak^-gatavātaḥ",
+            "त्वक्^-गतवातः",
+            "tvak^-gatavAtaH"
+        ],
+        "description": "the disorder is characterized by tvak-rūkṣatvam [dryness of skin], tvak- sphuṭitā [cracking of skin], tvak-suptatvam [numbness in skin], tvak-kr̥śatvam [thining of skin/skin atrophy], tvak- kr̥ṣṇatvam [blackening of skin], tudyatē/nistōdanam [pricking pain in skin], ātanyatē sarāgā [stretching and redness of skin], parvaruk [pain in small joints], cumacumāyanam [skin irritation as if application of mustard paste], tvagbhēdam [cracking of skin], vaivarṇyam [discolouration], paripōṭanam [scaling of skin]"
+    },
+    {
+        "title": "mAMsagatavAtakopa",
+        "synonyms": [
+            "mAMsagatavAtakopa",
+            "मांसगतवातकोप",
+            "māṁsagatavātakōpa"
+        ],
+        "description": "the disorder is characterized by gurvaṅgam [heavyness of the body], tudyatēऽtyarthaṁ daṇḍamuṣṭihataṁ tathā [excessive pain in the body as if beaten by a stick or with fist-cuffs], saruk śramitamatyartham [pain and excessive fatigue], karkaśa-granthiḥ [glandular swelling which is hard/firm/rough], tōdaḥ [pricking pain], śramam [exhaustion/fatigue], atiruk [severe pain], stabdham [stiffness], saśūla-granthiḥ [glandular swelling with pain]"
+    },
+    {
+        "title": "asthigatavAtaH",
+        "synonyms": [
+            "अस्थिगतवातः",
+            "asthigatavātaḥ",
+            "asthigatavAtaH"
+        ],
+        "description": "the disorder is characterized by asthiparvaṇāṁ bhēdaḥ [cracking type of pain in the bones and small joints], sandhiśūlam [pain in the joints], māṁsakṣayaḥ [extreme wasting of muscles/diminution of muscle mass], balakṣayaḥ [loss of physical strength or weakness], asvapnaḥ [insomnia/sleeplessness], santatā ruk [constant pain], sakthiśūlam [pain in thighs], sandhisaśūlam [pain in joints], asthiśūlam [pain in the bones], tīvraṁ balakṣayam [severe loss of physical strength], asthiśōṣaḥ [diminution of asthi/osteoenia/osteoporosis]"
+    },
+    {
+        "title": "majjAgatavAtaH",
+        "synonyms": [
+            "majjāgatavātaḥ",
+            "majjAgatavAtaH",
+            "मज्जागतवातः"
+        ],
+        "description": "the disorder is characterized by asthiparvaṇāṁ bhēdaḥ [cracking type of pain in the bones and small joints], sandhiśūlam [pain in the joints], māṁsakṣayaḥ [extreme wasting of muscles/diminution of muscle mass], balakṣayaḥ [loss of physical strength or weakness], asvapnaḥ [insomnia/sleeplessness], santatā ruk/rujam [constant pain], asthisauṣiryaḥ [porousness of bones], stabdhatā [stiffness]"
+    },
+    {
+        "title": "snAyugatavAtaH",
+        "synonyms": [
+            "snāyugatavātaḥ",
+            "स्नायुगतवातः",
+            "snAyugatavAtaH"
+        ],
+        "description": "the disorder is characterized by bāhyāyāmaḥ [external bending of body], antarāyāmaḥ [internal bending of body], khallī [shooting pain in extremities], kubjatvam [hump backed], sarvāṅgarōgaḥ [quadriplegia], ēkāṅgarōgaḥ [monoplegia], stambhaḥ [rigidity/stiffness], kampaḥ [tremors], śūlam [sharp pain], ākṣēpaṇam [convulsion], gr̥dhrasī [sciatica]"
+    },
+    {
+        "title": "sandhigatavAtaH",
+        "synonyms": [
+            "sandhigatavAtaH",
+            "सन्धिगतवातः",
+            "(a) sandhigatavātaḥ"
+        ],
+        "description": "It is characterised by pain, swelling, stiffness, hardening and restricted movements of the joint. This may be explained by: (a) Increased vata affecting the joint leading to degenerative changes."
+    },
+    {
+        "title": "bastigata-pratilomavAtaH/bastigata-viguNavAtaH",
+        "synonyms": [
+            "bastigata-pratilomavAtaH/bastigata-viguNavAtaH",
+            "बस्तिगत-प्रतिलोमवातः/बस्तिगत-विगुणवातः",
+            "bastigata-pratilōmavātaḥ/bastigata-viguṇavātaḥ"
+        ],
+        "description": "the disorder is characterized by vividhāḥ vikārāḥ [various disorders of urinary tract]"
+    },
+    {
+        "title": "vAtavyAdhi-upadravaH",
+        "synonyms": [
+            "vAtavyAdhi-upadravaH",
+            "vātavyādhi-upadravaḥ",
+            "वातव्याधि-उपद्रवः"
+        ],
+        "description": "the disorder is characterized by visarpaḥ [spreading cellulitis/erysipelas], dāhaḥ [burning sensation], ruk [pain], saṅgaḥ [obstruction/adherence], mūrchā [syncope/attacks of swooning], aruciḥ [tastelessness], agnimārdavam [diminution of agni (digestive power)], kṣīṇamāṁsam [depletion/diminution of māṁsa], kṣīṇabalam [loss of strength], pakṣavadhādayaḥ [paralysis etc]"
+    },
+    {
+        "title": "vAtavyAdhi^^ariShTa",
+        "synonyms": [
+            "वातव्याधि^^अरिष्ट",
+            "vAtavyAdhi^^ariShTa",
+            "vātavyādhi^^ariṣṭa"
+        ],
+        "description": "the disorder is characterized by śūnam [oedema], suptatvacam [numbness in skin], bhagnam [fractures], kampanipīḍitam [afflicted with trembling], ādhmānanipīḍitam [afflicted with abdominal distention], rujārtimantam [severe pain]"
+    },
+    {
+        "title": "pittasa~jcayaH",
+        "synonyms": [
+            "पित्तसञ्चयः",
+            "pittasa~jcayaH",
+            "(a) pittasañcayaḥ"
+        ],
+        "description": "It is characterized by yellowish discoloration of body and mild raised body temperature. This may be explained by accumulation of pittadosha at the designated site."
+    },
+    {
+        "title": "pittavRuddhiH",
+        "synonyms": [
+            "पित्तवृद्धिः",
+            "(a) pittavṛddhiḥ",
+            "pittavRuddhiH"
+        ],
+        "description": "It is characterized by yellowish discoloration of the body, increased body heat, desire for cold, reduced sleep, loss of consciousness, weakness of body and sense organs, yellowish discoloration of stool, urine and eyes. This may be explained by marked increase of pittadosha functions and consequent physiological and pathological ramifications."
+    },
+    {
+        "title": "pittaprakopaH",
+        "synonyms": [
+            "(a) pittaprakopaḥ",
+            "पित्तप्रकोपः",
+            "pittaprakopaH"
+        ],
+        "description": "It is characterized by sour eructation, excessive thirst and burning sensation. This may be explained by aggravation of pittadosha at its designated site and preparing to cause certain morbidity."
+    },
+    {
+        "title": "a~ggagandhaH (kEvalapitta)",
+        "synonyms": [
+            "(a) aṅga-durgandhaḥ",
+            "a~ggagandhaH (kEvalapitta)",
+            "अङ्गगन्धः (केवलपित्त)"
+        ],
+        "description": "It is characterised by foul smelling sweat from palm, sole, axilla and groin region. This may be explained by: (a) Predominance of vitiated pitta affecting the skin."
+    },
+    {
+        "title": "AsyavipAkaH (kEvalapitta)",
+        "synonyms": [
+            "AsyavipAkaH (kEvalapitta)",
+            "(a) āsyavipākaḥ                     (a) mukhpākaḥ",
+            "आस्यविपाकः (केवलपित्त)"
+        ],
+        "description": "It is characterised by ulcer in the mouth, tongue and spread towards oesophagus and stomach. This may be explained by: (a) Increased pittadosha affecting the mouth."
+    },
+    {
+        "title": "kakShA (kEvalapitta)",
+        "synonyms": [
+            "kakShA (kEvalapitta)",
+            "कक्षा (केवलपित्त)",
+            "kakṣā (kēvalapitta)"
+        ],
+        "description": "the disorder is characterized by sarvaśarīragāḥ visphōṭakāḥ [blisters all over body], sarāgajvaratarṣayuktāḥ sphōṭāḥ [reddish blisters with fever, thirst]"
+    },
+    {
+        "title": "pUtimukhatA (kEvalapitta)",
+        "synonyms": [
+            "pUtimukhatA (kEvalapitta)",
+            "पूतिमुखता (केवलपित्त)",
+            "(a) pūtimukhatā"
+        ],
+        "description": "It is characterised by putrid odour in the mouth. This may be explained by: (a) Vitiated kapha, pitta, blood affecting teeth and gums."
+    },
+    {
+        "title": "meDhrapAkaH (kEvalapitta)",
+        "synonyms": [
+            "मेढ्रपाकः (केवलपित्त)",
+            "meDhrapAkaH (kEvalapitta)",
+            "(a) meḍhrapākaḥ"
+        ],
+        "description": "It is characterised by painful swelling and redness of the penis may be associated with radiating pain to loin and thigh region. This may be explained by: (a) Aggravation of pitta affecting skin, muscle resulting in inflammation."
+    },
+    {
+        "title": "SoNitakledaH (kEvalapitta)",
+        "synonyms": [
+            "SoNitakledaH (kEvalapitta)",
+            "śōṇitaklēdaḥ (kēvalapitta)",
+            "शोणितक्लेदः (केवलपित्त)"
+        ],
+        "description": "the disorder is characterized by śōṇitasya kr̥ṣṇatā daurgandhyaḥ tanutvāni [blackish, bad smell and diluted rakta]"
+    },
+    {
+        "title": "raktasthitapittakopaH",
+        "synonyms": [
+            "raktasthitapittakopaH",
+            "raktasthitapittakōpaḥ",
+            "रक्तस्थितपित्तकोपः"
+        ],
+        "description": "the disorder is characterized by dāhaḥ [burning sensation], visarpaḥ [spreading cellulitis/erysipelas]"
+    },
+    {
+        "title": "mAMsasthitakaPakopaH",
+        "synonyms": [
+            "मांसस्थितकफकोपः",
+            "māṁsasthitakaphakōpaḥ",
+            "mAMsasthitakaPakopaH"
+        ],
+        "description": "the disorder is characterized by māṁsavakōthanam [putrifaction of māṁsa/muscle tissue]"
+    },
+    {
+        "title": "medasthitapittakopaH",
+        "synonyms": [
+            "mēdasthitapittakōpaḥ",
+            "मेदस्थितपित्तकोपः",
+            "medasthitapittakopaH"
+        ],
+        "description": "the disorder is characterized by sadāha-granthiḥ [eruptions having burning], svēdaḥ [perspiration], tr̥ṭ [thirst], vamanam [vomiting]"
+    },
+    {
+        "title": "asthisthitapittakopaH",
+        "synonyms": [
+            "asthisthitapittakopaH",
+            "asthisthitapittakōpaḥ",
+            "अस्थिस्थितपित्तकोपः"
+        ],
+        "description": "the disorder is characterized by bhr̥śaṁ dāham [excessive burning sensation]"
+    },
+    {
+        "title": "majjAsthitapittakopaH",
+        "synonyms": [
+            "majjAsthitapittakopaH",
+            "मज्जास्थितपित्तकोपः",
+            "majjāsthitapittakōpaḥ"
+        ],
+        "description": "the disorder is characterized by hāridranakhaḥ [yellow coloured nail], hāridranētratā [yellow coloured eyes]"
+    },
+    {
+        "title": "SukrasthitapittakopaH",
+        "synonyms": [
+            "SukrasthitapittakopaH",
+            "śukrasthitapittakōpaḥ",
+            "शुक्रस्थितपित्तकोपः"
+        ],
+        "description": "the disorder is characterized by pūtiśukram [putrid semen], pītāvabhāsaśukram [yellowish semen]"
+    },
+    {
+        "title": "tvaksthitapittakopaH",
+        "synonyms": [
+            "tvaksthitapittakopaH",
+            "tvaksthitapittakōpaḥ",
+            "त्वक्स्थितपित्तकोपः"
+        ],
+        "description": "the disorder is characterized by visphōṭaḥ [blisters], masūrikā [lentil shaped pustular eruptions on skin]"
+    },
+    {
+        "title": "snAyusthitapittakopaH",
+        "synonyms": [
+            "स्नायुस्थितपित्तकोपः",
+            "snāyusthitapittakōpaḥ",
+            "snAyusthitapittakopaH"
+        ],
+        "description": "the disorder is characterized by tr̥ṣam [thirst]"
+    },
+    {
+        "title": "koShThasthitapittakopaH",
+        "synonyms": [
+            "kōṣṭhasthitapittakōpaḥ",
+            "koShThasthitapittakopaH",
+            "कोष्ठस्थितपित्तकोपः"
+        ],
+        "description": "the disorder is characterized by madaḥ [intoxication], tr̥ṭ [thirst], dāhaḥ [burning sensation]"
+    },
+    {
+        "title": "sirAsthitapittakopaH",
+        "synonyms": [
+            "sirāsthitapittakōpaḥ",
+            "sirAsthitapittakopaH",
+            "सिरास्थितपित्तकोपः"
+        ],
+        "description": "the disorder is characterized by krōdhaḥ [anger], tāpaḥ [hotness], pralāpam [excess talking/irrelevant speech/incoherent speech]"
+    },
+    {
+        "title": "nirAmapittam",
+        "synonyms": [
+            "nirāmapittam",
+            "निरामपित्तम्",
+            "nirAmapittam"
+        ],
+        "description": "the disorder is characterized by ātāmram [copper coloured], pītam [yellow coloured], atyuṣṇam [excessively hot in nature], kaṭukarasaḥ [pungent taste], asthiram [unstable/mobile], vigandham [bad smell/smell of raw meat], rucipradam [offer ability to taste food], paktibalapradam [enhances digestion]"
+    },
+    {
+        "title": "sAmapittam",
+        "synonyms": [
+            "सामपित्तम्",
+            "sāmapittam",
+            "sAmapittam"
+        ],
+        "description": "the disorder is characterized by durgandham [foul smell], haritam [greenish], śyāvam [bluish black colour], amlam [sour taste], sthiram [stable/immobile], guruḥ [heaviness], amlikām [sour belching/eructation], hr̥ddāham [burning sensation in the precordial/cardiac region], kaṇṭhadāham [burning sensation in throat]"
+    },
+    {
+        "title": "pittaroga-ariShTaH",
+        "synonyms": [
+            "पित्तरोग-अरिष्टः",
+            "pittarōga-ariṣṭaḥ",
+            "pittaroga-ariShTaH"
+        ],
+        "description": "the disorder is characterized by haritābhā sirā [greenish coloured vessels], saṁvr̥tarōmakūpāḥ [covered by hair follicles]"
+    },
+    {
+        "title": "kaPasa~jcayaH",
+        "synonyms": [
+            "कफसञ्चयः",
+            "(a) kaphasañcayaḥ",
+            "kaPasa~jcayaH"
+        ],
+        "description": "It is characterized by heaviness of the body and lethargy. This may be explained by accumulation of kapha at the designated site."
+    },
+    {
+        "title": "kaPavRuddhiH",
+        "synonyms": [
+            "कफवृद्धिः",
+            "(a) kaphavṛddhiḥ",
+            "kaPavRuddhiH"
+        ],
+        "description": "It is characterized by whitish discoloration of body, feeling of cold, reduced mobility of the body, heaviness of the body, fatigue, feeling of drowsiness, excessive sleep, loosening of joints. This may be explained by marked increase of kaphadosha functions and consequent physiological and pathological ramifications."
+    },
+    {
+        "title": "kaPaprakopaH",
+        "synonyms": [
+            "kaPaprakopaH",
+            "कफप्रकोपः",
+            "(a) kaphaprakopaḥ"
+        ],
+        "description": "It is characterized by aversion to food and nausea. This may be explained by aggravation of kaphadosha at its designated site and preparing to cause certain morbidity."
+    },
+    {
+        "title": "kaPaprasaraH",
+        "synonyms": [
+            "(a) kaphaprasaraḥ",
+            "कफप्रसरः",
+            "kaPaprasaraH"
+        ],
+        "description": "It is characterized by tastelessness, indigestion, feeling of tiredness, vomiting. This may be explained by spreading of kaphadosha from the place of accumulation to other parts or entire body."
+    },
+    {
+        "title": "kaPakShayaH",
+        "synonyms": [
+            "कफक्षयः",
+            "(a) kaphakṣayaḥ",
+            "kaPakShayaH"
+        ],
+        "description": "It is characterized by dryness of body, burning sensation inside the body, laxity of joints, thirst, weakness, reduced sleep. This may be explained by marked decrease of pittadosha functions and consequent physiological and pathological ramifications."
+    },
+    {
+        "title": "Alasyam (kEvala-kapha)",
+        "synonyms": [
+            "(a) ālasyam",
+            "Alasyam (kEvala-kapha)",
+            "आलस्यम् (केवल-कफ)"
+        ],
+        "description": "It is characterised by unwillngness to take be physically active and avoiding engaging in mentally active activities. This may be explained by: (a) Excess kapha obstruting the mental faculties and pitta for intellect."
+    },
+    {
+        "title": "dhamanIpraticayaH (kEvala-kapha)",
+        "synonyms": [
+            "धमनीप्रतिचयः (केवल-कफ)",
+            "dhamanIpraticayaH (kEvala-kapha)",
+            "(a) dhamanīpraticayaḥ"
+        ],
+        "description": "It is characterised by dry skin, feeling of heaviness, cold extremities. This may be explained by: (a) Accumulation of kapha and medas in the vessels."
+    },
+    {
+        "title": "nidrAdhikyam (kEvala-kapha)",
+        "synonyms": [
+            "nidrAdhikyam (kEvala-kapha)",
+            "निद्राधिक्यम् (केवल-कफ)",
+            "(a) nidrādhikyam"
+        ],
+        "description": "It is characterised by excess, prolonged deep sleep. This may be explained by: (a) Deranged digestive and metabolic factors, increased kapha and decreased vata."
+    },
+    {
+        "title": "tvak-sthitakaPakopaH",
+        "synonyms": [
+            "त्वक्-स्थितकफकोपः",
+            "tvak-sthitakaphakōpaḥ",
+            "tvak-sthitakaPakopaH"
+        ],
+        "description": "the disorder is characterized by stambham [rigidity], śvētāvabhāsatā [whitish dis colouration]"
+    },
+    {
+        "title": "raktasthitakaPakopaH",
+        "synonyms": [
+            "रक्तस्थितकफकोपः",
+            "raktasthitakaphakōpaḥ",
+            "raktasthitakaPakopaH"
+        ],
+        "description": "the disorder is characterized by pāṇḍu [pallor/ anemia]"
+    },
+    {
+        "title": "mAMsasthitakaPakopaH",
+        "synonyms": [
+            "मांसस्थितकफकोपः",
+            "māṁsasthitakaphakōpaḥ",
+            "mAMsasthitakaPakopaH"
+        ],
+        "description": "the disorder is characterized by arbuda [tumor], apacī [disease consisting of enlargement of the glands of the neck], ārdracarmāvanaddhābhagātratām [feeling as if body is covered with raw hide (carma)], atigauravam [feeling of heavyness]"
+    },
+    {
+        "title": "medaHsthitakaPakopaH",
+        "synonyms": [
+            "mēdaḥsthitakaphakōpaḥ",
+            "medaHsthitakaPakopaH",
+            "मेदःस्थितकफकोपः"
+        ],
+        "description": "the disorder is characterized by sthūlatā [obesity], mēhaḥ [frequent and excessive micturition]"
+    },
+    {
+        "title": "asthisthitakaPakopaH",
+        "synonyms": [
+            "asthisthitakaphakōpaḥ",
+            "asthisthitakaPakopaH",
+            "अस्थिस्थितकफकोपः"
+        ],
+        "description": "the disorder is characterized by asthistabdhatvam [loss of movement]"
+    },
+    {
+        "title": "majjAsthitakaPakopaH",
+        "synonyms": [
+            "majjāsthitakaphakōpaḥ",
+            "majjAsthitakaPakopaH",
+            "मज्जास्थितकफकोपः"
+        ],
+        "description": "the disorder is characterized by śuklanētratvam [whitish eyes]"
+    },
+    {
+        "title": "SukrasthitakaPakopaH",
+        "synonyms": [
+            "शुक्रस्थितकफकोपः",
+            "śukrasthitakaphakōpaḥ",
+            "SukrasthitakaPakopaH"
+        ],
+        "description": "the disorder is characterized by śukrasañcayam [accumilation of semen inside]"
+    },
+    {
+        "title": "sirAsthitakaPakopaH",
+        "synonyms": [
+            "sirAsthitakaPakopaH",
+            "सिरास्थितकफकोपः",
+            "sirāsthitakaphakōpaḥ"
+        ],
+        "description": "the disorder is characterized by vibandham [obstructs the flow], sirāsthaḥ atigauravam [heaviness of siras/blood vessels], stabdhagātratām [stiffness of the body]"
+    },
+    {
+        "title": "snAyusthitakaPakopaH",
+        "synonyms": [
+            "स्नायुस्थितकफकोपः",
+            "snāyusthitakaphakōpaḥ",
+            "snAyusthitakaPakopaH"
+        ],
+        "description": "the disorder is characterized by sandhiśūnyatvam [feeling of hollowness in joints]"
+    },
+    {
+        "title": "koShThasthakaPakopaH",
+        "synonyms": [
+            "कोष्ठस्थकफकोपः",
+            "kōṣṭhasthakaphakōpaḥ",
+            "koShThasthakaPakopaH"
+        ],
+        "description": "the disorder is characterized by jaṭharōnnatiḥ [fullness and elevation of stomach/abdomen], arōcakaḥ [tastelessness], avipākaḥ [indigestion], kaphajāḥ gadāḥ [diseases caused by kapha]"
+    },
+    {
+        "title": "sAmakaPaH",
+        "synonyms": [
+            "sāmakaphaḥ",
+            "sAmakaPaH",
+            "सामकफः"
+        ],
+        "description": "the disorder is characterized by āvilaḥ [eyeball looks muddy/turbid], tantulaḥ [thready with filaments], styānaḥ [thick/dense], kaṇṭhadēśē avatiṣṭhatē [stagnates in the throat], durgandhaḥ [foul smell], kṣut-udgāra-vibandhakr̥t [loss of appetite and obstruct eructations]"
+    },
+    {
+        "title": "nirAmakaPaH",
+        "synonyms": [
+            "nirAmakaPaH",
+            "nirāmakaphaḥ",
+            "निरामकफः"
+        ],
+        "description": "the disorder is characterized by phēnavān [frothy], piṇḍitaḥ [lumpy/dense], pāṇḍu [pallor/pale], niḥsāraḥ [clear light substance], agandhaḥ [free from foul smell/not having smell], vaktraśuddhiḥ [cleanses oral cavity/having clean oral cavity]"
+    },
+    {
+        "title": "vaikRutakaPaH",
+        "synonyms": [
+            "वैकृतकफः",
+            "vaikr̥takaphaḥ",
+            "vaikRutakaPaH"
+        ],
+        "description": "the disorder is characterized by śaithilyam [looseness/laxity of body], kārśyam [emaciation], ālasyam [lethargy], klībatā [inability to perform sexual act/impotence], ajñānam [non cognizance], mōham [confusion/delirium]"
+    },
+    {
+        "title": "dhAtuvaiShamyam",
+        "synonyms": [
+            "dhAtuvaiShamyam",
+            "धातुवैषम्यम्",
+            "dhātuvaiṣamyam"
+        ],
+        "description": "disturbance of homeostasis leading to an abnormal or pathological or diseased state"
+    },
+    {
+        "title": "rasakShayaH",
+        "synonyms": [
+            "rasakShayaH",
+            "(a) rasakṣayaḥ",
+            "रसक्षयः"
+        ],
+        "description": "It is characterized by shaking, Intolerance to hearing loud noises, palpitation of heart, palpitation on little exertion, body pain, precordial pain, cardiac pain, tremors, absence of mind, feeling of emptiness in body, thirst, dryness, wasting, emaciation, palpitation, tiredness on little exertion, dyspnoea on exertion, dryness, fatigue in mind and body. (a) This may be explained by morbid decrease of circulating fluid."
+    },
+    {
+        "title": "rasavRuddhiH",
+        "synonyms": [
+            "(a) rasavṛddhiḥ",
+            "rasavRuddhiH",
+            "रसवृद्धिः"
+        ],
+        "description": "It is characterised by nausea, excessive salivation, tastelessness, distaste of mouth, obstruction in channels, aversion to eating sweet food, generalised body ache, white discolouration, coldness, obesity, lethargy, heaviness, exhaustion, tiredness, obstruction to flow of primary product of digested food, syncope, attacks of swooning, excessive sleep, drowsiness, lassitude, breathlessness, cough, loosening and dislocation of joints, flaccidity, laxity in body parts, diminution of digestive power, loss of appetite associated with gasping and bloating. (a) This may be explained by morbid increase of circulating fluid."
+    },
+    {
+        "title": "raktakShayaH",
+        "synonyms": [
+            "(a) raktakṣayaḥ",
+            "raktakShayaH",
+            "रक्तक्षयः"
+        ],
+        "description": "It is characterized by rough, dry , cracked, faded, lusterless skin, desire for sour taste, cold, laxity of vessels, tortuous vesselsm, pallor, tiredness, burning sensation over the feet and lassitude. (a) This may be explained by morbid decrease of blood."
+    },
+    {
+        "title": "raktavRuddhiH",
+        "synonyms": [
+            "(a) raktavṛddhiḥ",
+            "raktavRuddhiH",
+            "रक्तवृद्धिः"
+        ],
+        "description": "It is characterised by redness of the skin, body parts, reddish coloured eyes, the fullness of blood vessels, skin disease, spreading cellulitis, erysipelas, boils, eruptions, irregular or excessive menstruation, redness and inflammation of eyes, mouth, penis, anus, gums, splenomegaly, abdominal lump, abscess, blackish patches on the face, jaundice, polyarthritis, unconsciousness, confusion, urine with blood, bleeding, throbbing pain, anorexia and colic pain. (a) This may be explained by morbid incerease of blood."
+    }
+]
