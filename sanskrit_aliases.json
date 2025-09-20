@@ -1,0 +1,568 @@
+{
+    "vatavruddhih": [
+        "vatavruddhi",
+        "vata-vriddhi",
+        "vata increase",
+        "aggravation of vata",
+        "vata excess",
+        "vata aggravation"
+    ],
+    "vataprakopah": [
+        "vataprakopa",
+        "vata-prakopa",
+        "vata aggravation",
+        "aggravation of vata dosha",
+        "vata imbalance"
+    ],
+    "pranavatakopah": [
+        "pranavata-kopa",
+        "pranavata-kopah",
+        "prana-vata-prakopa",
+        "aggravation of prana vata (prana-vata)",
+        "prana-vata disturbance",
+        "upper-vata aggravation"
+    ],
+    "udanavatakopah": [
+        "udana-vata-kopa",
+        "udana-vataprkopa",
+        "udanavata-kopah",
+        "aggravation of udana vata",
+        "udana-vata disturbance",
+        "vata of upward function aggravated"
+    ],
+    "vyanavatakopah": [
+        "vyanavata-kopa",
+        "vyanavata-kopah",
+        "aggravation of vyana vata",
+        "vyanavata disturbance",
+        "circulatory/motor vata aggravation"
+    ],
+    "samanavatakopah": [
+        "samana-vata-kopa",
+        "samanavata-kopah",
+        "aggravation of samana vata",
+        "samana-vata disturbance",
+        "digestive-vata aggravation"
+    ],
+    "apanavatakopah": [
+        "apana-vata-kopa",
+        "apanavata-kopah",
+        "aggravation of apana vata",
+        "apana-vata disturbance",
+        "pelvic/expulsive vata aggravation"
+    ],
+    "vataprasaranam": [
+        "vata-prasaranam",
+        "vataprasaraṇa",
+        "vata-prasarana",
+        "spread/dissemination of vata",
+        "displacement/propagation of vata",
+        "vata spreading"
+    ],
+    "vatakshayah": [
+        "vata-kshaya",
+        "vatakshaya",
+        "vata depletion",
+        "vata wasting",
+        "loss/weakness due to vata (vata deficiency)"
+    ],
+    "atipralapah kevalavata": [
+        "atipralapa_kevalavata",
+        "atipralapa (kevalavata)",
+        "excessive delirium (vata-only)",
+        "excessive incoherent speech due to vata",
+        "hyper-delirium (vata)"
+    ],
+    "anavasthitacittatvam kevalavata": [
+        "anavasthita-cittatvam_kevalavata",
+        "anavasthita-citta (kevalavata)",
+        "unstable mind (vata-only)",
+        "restless/unstable mental state due to vata",
+        "anxious/unstable mind (vata)"
+    ],
+    "klamah kevalavata": [
+        "klama_kevalavata",
+        "klama (kevalavata)",
+        "fatigue/tiredness due to vata",
+        "vata-type exhaustion",
+        "weariness (vata)"
+    ],
+    "karshnyam kevalavata": [
+        "karshnya_kevalavata",
+        "karshnya (kevalavata)",
+        "emaciation/wasting due to vata",
+        "severe wasting (vata)",
+        "cachexia-like wasting (vata)"
+    ],
+    "karsyam kevalavata": [
+        "karsya_kevalavata",
+        "karsya (kevalavata)",
+        "wasting/leaning due to vata",
+        "emaciation (vata)"
+    ],
+    "grivastambah kevalavata": [
+        "griva-stambha_kevalavata",
+        "grivastambha (kevalavata)",
+        "neck stiffness (cervical rigidity) due to vata",
+        "cervical stiffness (vata)"
+    ],
+    "grudhrasi kevalavata": [
+        "grudhrasi_kevalavata",
+        "grudhrasi (kevalavata)",
+        "scapular/shoulder neuralgia (grudhrasi) — vata type",
+        "neuralgic pain along scapular region (vata)"
+    ],
+    "nakhabedah kevalavata": [
+        "nakhabheda_kevalavata",
+        "nakhabedha (kevalavata)",
+        "nail splitting / nail-bed pain due to vata",
+        "brittle nails (vata)"
+    ],
+    "parushyam kevalavata": [
+        "parushya_kevalavata",
+        "parushyam (kevalavata)",
+        "roughness/ dryness of skin due to vata",
+        "skin roughness (vata)"
+    ],
+    "mukhasoshah kevalavata": [
+        "mukha-sosha_kevalavata",
+        "mukhasosha (kevalavata)",
+        "dry mouth (xerostomia) due to vata",
+        "oral dryness (vata)"
+    ],
+    "mutranigrahah kevalavata": [
+        "mutra-nigraha_kevalavata",
+        "mutranigraha (kevalavata)",
+        "urinary retention due to vata",
+        "difficulty passing urine (vata retention)"
+    ],
+    "raukshyam kevalavata": [
+        "raukshya_kevalavata",
+        "raukshyam (kevalavata)",
+        "dryness (skin/hair/mucosa) due to vata",
+        "raukshya — dryness (vata)"
+    ],
+    "vak-sa~ggah kevalavata": [
+        "vak-sangha_kevalavata",
+        "vak-sangah (kevalavata)",
+        "speech arrest or speech obstruction due to vata",
+        "mutism/speech block (vata)"
+    ],
+    "sukrakshayah kevalavata": [
+        "sukra-kshaya_kevalavata",
+        "sukrakshaya (kevalavata)",
+        "reproductive/semen depletion due to vata",
+        "reproductive weakness (vata)"
+    ],
+    "arditah": [
+        "ardita",
+        "arditah",
+        "facial paralysis (Ardita)",
+        "Bell's palsy / facial nerve palsy (approx.)",
+        "facial palsy"
+    ],
+    "ardita-purvarupam": [
+        "ardita-purvarupa",
+        "ardita-purvarupam",
+        "prodromal/precursory symptoms of facial palsy",
+        "early signs of facial paralysis"
+    ],
+    "asthisoshah": [
+        "asthi-sosha",
+        "asthisosha",
+        "bone wasting (asthi shosha)",
+        "osteopenia/osteoporosis-like wasting",
+        "bone degeneration (vata)"
+    ],
+    "adhmanam": [
+        "adhmana",
+        "adhmanam",
+        "abdominal distension/bloating due to vata (adhmana)",
+        "colic/meteorism (vata)"
+    ],
+    "urdhvavatah": [
+        "urdhva-vata",
+        "urdhvavata",
+        "urdhva vata (vata affecting the head/upper body)",
+        "vata of upward functions — head/ear/eye symptoms"
+    ],
+    "grudhrasi": [
+        "grudhrasi",
+        "neuralgic pain in scapular/shoulder region (grudhrasi)",
+        "scapular neuralgia"
+    ],
+    "vatikagrudhrasi": [
+        "vatika-grudhrasi",
+        "vatika grudhrasi",
+        "vata-type grudhrasi (scapular neuralgia due to vata)",
+        "scapular neuralgia (vata)"
+    ],
+    "pakshaghata/pakshavadhah": [
+        "paksha-ghata",
+        "pakshaghata",
+        "paksha-vadha",
+        "hemiplegia (pakṣāghāta)",
+        "paralysis of one side (stroke) — hemiplegia",
+        "one-sided paralysis"
+    ],
+    "kapanvitapakshaghatah": [
+        "kapha-anvita-pakshaghata",
+        "kaphavitapakshaghata",
+        "hemiplegia with kapha involvement",
+        "kapha-type hemiplegia (pakshaghata with kapha)"
+    ],
+    "pittanvitapakshaghatah": [
+        "pitta-anvita-pakshaghata",
+        "pittavitapakshaghata",
+        "hemiplegia with pitta involvement",
+        "pitta-type hemiplegia"
+    ],
+    "pa~gguh": [
+        "pangu",
+        "pa~ngu",
+        "paNGgu",
+        "lame (pangu) — limp / paralysis causing lameness",
+        "hemiplegic gait / paralysis resulting in lameness"
+    ],
+    "manyastambah": [
+        "manya-stambha",
+        "manyastambha",
+        "neck stiffness (manya-stambha)",
+        "cervical rigidity/stiff neck"
+    ],
+    "kampah/vepathuh": [
+        "kampah",
+        "vepathu",
+        "kampah_vepathu",
+        "tremor (kampah)",
+        "shivering/shuddering (vepathu)",
+        "involuntary shaking/tremor"
+    ],
+    "avruta-vatah/avaranavata": [
+        "avaranavata",
+        "avruta-vata",
+        "avaraṇa-vata",
+        "obstructive/covered vata (avaranavata)",
+        "vata obstruction (avaraṇa) causing localized disease"
+    ],
+    "koshthasritavatakopah": [
+        "koshtha-srita-vata-kopa",
+        "koshthasrita-vata-kopa",
+        "vata localized to the gastrointestinal tract (koshtha) — GI vata aggravation",
+        "intestinal vata aggravation"
+    ],
+    "gudasthitavatah": [
+        "guda-sthita-vata",
+        "gudasthita-vata",
+        "vata located in the perineal region (guda) — perineal vata",
+        "anal/perineal vata disorder"
+    ],
+    "amasayagatavatah": [
+        "amashaya-gata-vata",
+        "amasayagata-vata",
+        "vata located in the stomach (amashaya) — gastric vata",
+        "stomach-vata disturbance"
+    ],
+    "pakvasayagatavatah": [
+        "pakvasaya-gata-vata",
+        "pakvasayagata-vata",
+        "vata located in the intestine (pakvashaya) — intestinal vata",
+        "intestinal vata disturbances"
+    ],
+    "srotradindriyagatavatah": [
+        "srotad-indriya-gata-vata",
+        "srotra-dindriya-gata-vata",
+        "vata lodged in sensory channels/sense organs",
+        "vata affecting sense organs (srotas/indriyas)"
+    ],
+    "tvak^-gatavatah": [
+        "tvak-gata-vata",
+        "tvakgatavata",
+        "vata located in the skin (tvak) — skin-vata disorders",
+        "cutaneous vata manifestations"
+    ],
+    "mamsagatavatakopa": [
+        "mamsa-gata-vata-kopa",
+        "mamsagatavata-kopa",
+        "vata in muscle tissue (mamsagata) — myopathic vata",
+        "muscle-vata disorders (muscle wasting/pain)"
+    ],
+    "asthigatavatah": [
+        "asthi-gata-vata",
+        "asthigatavata",
+        "vata in bone tissue (asthi) — bone-related vata disorders",
+        "bone pain/wasting (vata)"
+    ],
+    "majjagatavatah": [
+        "majja-gata-vata",
+        "majjagatavata",
+        "vata located in bone-marrow/nervous tissue (majja)",
+        "neuromarrow/nerve-related vata involvement"
+    ],
+    "snayugatavatah": [
+        "snayu-gata-vata",
+        "snayugatavata",
+        "vata in tendons/ligaments (snayu) — tendon/ligament pain or weakness",
+        "tendino-ligamentous vata disorder"
+    ],
+    "sandhigatavatah": [
+        "sandhi-gata-vata",
+        "sandhigatavata",
+        "vata in joints (sandhi) — joint pain/stiffness (arthralgia/degenerative changes)",
+        "vata-type joint disorder (sandhi-vata)"
+    ],
+    "amlapittam": [
+        "amlapitta",
+        "amlapittam",
+        "amla-pitta (acid dyspepsia)",
+        "acid reflux / hyperacidity / dyspepsia",
+        "GERD-like symptoms (amlapitta)"
+    ],
+    "vatavyadhi-upadravah": [
+        "vatavyadhi-upadrava",
+        "vatavyadhi-upadravah",
+        "complications/secondary conditions of vata diseases",
+        "vata-disease sequelae"
+    ],
+    "pittasa~jcayah": [
+        "pittasanjcaya",
+        "pitta-sanjcaya",
+        "pitta accumulation",
+        "accumulation of pitta",
+        "pitta congestion (pitta sanjaya)"
+    ],
+    "pittavruddhih": [
+        "pittavriddhi",
+        "pitta-vriddhi",
+        "pitta increase",
+        "aggravation of pitta",
+        "pitta excess"
+    ],
+    "pittaprakopah": [
+        "pitta-prakopa",
+        "pittaprakopa",
+        "pitta aggravation",
+        "aggravation of pitta dosha",
+        "pitta imbalance"
+    ],
+    "a~ggagandhah kevalapitta": [
+        "Aṅgagandhaḥ kevalapitta",
+        "body odor due to Pitta",
+        "foul body odor (Pitta type)"
+    ],
+    "asyavipakah kevalapitta": [
+        "Asyavipākaḥ kevalapitta",
+        "abnormal taste due to Pitta",
+        "taste disturbance (Pitta type)"
+    ],
+    "kaksha kevalapitta": [
+        "Kakṣaḥ kevalapitta",
+        "chest Pitta disorder",
+        "chest inflammation due to Pitta"
+    ],
+    "putimukhata kevalapitta": [
+        "Putimukhataḥ kevalapitta",
+        "halitosis (Pitta type)",
+        "mouth Pitta disturbance"
+    ],
+    "medhrapakah kevalapitta": [
+        "Medhrapākaḥ kevalapitta",
+        "genital inflammation (Pitta type)",
+        "reproductive Pitta disorder"
+    ],
+    "sonitakledah kevalapitta": [
+        "Soṇitakleḍaḥ kevalapitta",
+        "blood thickening disorder",
+        "hematologic Pitta aggravation"
+    ],
+    "raktasthitapittakopah": [
+        "Raktasthita-pittakopaḥ",
+        "blood-borne Pitta aggravation",
+        "Pitta disorder in blood"
+    ],
+    "mamsasthitakapakopah": [
+        "Māṃsasthita-kapakopaḥ",
+        "muscle Kapha aggravation",
+        "Kapha disorder in muscle"
+    ],
+    "medasthitapittakopah": [
+        "Medasthita-pittakopaḥ",
+        "fat-borne Pitta aggravation",
+        "Pitta disorder in adipose tissue"
+    ],
+    "asthisthitapittakopah": [
+        "Asthisthita-pittakopaḥ",
+        "bone-borne Pitta aggravation",
+        "Pitta disorder in bones"
+    ],
+    "majjasthitapittakopah": [
+        "Majjasthita-pittakopaḥ",
+        "marrow-borne Pitta aggravation",
+        "Pitta disorder in bone marrow"
+    ],
+    "sukrasthitapittakopah": [
+        "Śukrasthita-pittakopaḥ",
+        "semen-borne Pitta aggravation",
+        "reproductive Pitta disorder"
+    ],
+    "tvaksthitapittakopah": [
+        "Tvaksthita-pittakopaḥ",
+        "skin-borne Pitta aggravation",
+        "Pitta disorder in skin"
+    ],
+    "snayusthitapittakopah": [
+        "Snāyusthita-pittakopaḥ",
+        "tendon-borne Pitta aggravation",
+        "Pitta disorder in tendons"
+    ],
+    "koshthasthitapittakopah": [
+        "Koṣṭhasthita-pittakopaḥ",
+        "abdominal Pitta aggravation",
+        "digestive Pitta disorder"
+    ],
+    "sirasthitapittakopah": [
+        "Śirasthita-pittakopaḥ",
+        "head-borne Pitta aggravation",
+        "Pitta disorder in head"
+    ],
+    "niramapittam": [
+        "Nīrama-pittam",
+        "general Pitta imbalance",
+        "unassociated Pitta disorder"
+    ],
+    "samapittam": [
+        "Sāmapittam",
+        "Pitta imbalance with other doshas",
+        "associated Pitta disorder"
+    ],
+    "pittaroga-arishtah": [
+        "Pittaroga-āriṣṭaḥ",
+        "critical Pitta disorder",
+        "dangerous Pitta imbalance"
+    ],
+    "kapasa~jcayah": [
+        "Kapasañcayaḥ",
+        "Kapha accumulation",
+        "Kapha buildup"
+    ],
+    "kapavruddhih": [
+        "Kapavṛddhiḥ",
+        "Kapha increase",
+        "Kapha aggravation"
+    ],
+    "kapaprakopah": [
+        "Kapaprakopaḥ",
+        "Kapha aggravation",
+        "Kapha disorder"
+    ],
+    "kapaprasarah": [
+        "Kapaprasāraḥ",
+        "spread of Kapha",
+        "Kapha distribution disorder"
+    ],
+    "kapakshayah": [
+        "Kapakṣayaḥ",
+        "Kapha depletion",
+        "decrease of Kapha"
+    ],
+    "alasyam kevala-kapha": [
+        "Ālasyam kevala-kapha",
+        "lethargy (Kapha type)",
+        "sluggishness due to Kapha"
+    ],
+    "dhamanipraticayah kevala-kapha": [
+        "Dhamanipraticayaḥ kevala-kapha",
+        "arterial obstruction (Kapha type)",
+        "blood vessel Kapha disorder"
+    ],
+    "nidradhikyam kevala-kapha": [
+        "Nidrādhikyaṃ kevala-kapha",
+        "excess sleep (Kapha type)",
+        "hypersomnia due to Kapha"
+    ],
+    "tvak-sthitakapakopah": [
+        "Tvaksthita-kapakopaḥ",
+        "skin Kapha disorder",
+        "Kapha aggravation in skin"
+    ],
+    "raktasthitakapakopah": [
+        "Raktasthita-kapakopaḥ",
+        "blood Kapha aggravation",
+        "Kapha disorder in blood"
+    ],
+    "medahsthitakapakopah": [
+        "Medasthita-kapakopaḥ",
+        "fat Kapha aggravation",
+        "Kapha disorder in adipose tissue"
+    ],
+    "asthisthitakapakopah": [
+        "Asthisthita-kapakopaḥ",
+        "bone Kapha aggravation",
+        "Kapha disorder in bones"
+    ],
+    "majjasthitakapakopah": [
+        "Majjasthita-kapakopaḥ",
+        "marrow Kapha aggravation",
+        "Kapha disorder in marrow"
+    ],
+    "sukrasthitakapakopah": [
+        "Śukrasthita-kapakopaḥ",
+        "semen Kapha aggravation",
+        "Kapha reproductive disorder"
+    ],
+    "sirasthitakapakopah": [
+        "Śirasthita-kapakopaḥ",
+        "head Kapha aggravation",
+        "Kapha disorder in head"
+    ],
+    "snayusthitakapakopah": [
+        "Snāyusthita-kapakopaḥ",
+        "tendon Kapha aggravation",
+        "Kapha disorder in tendons"
+    ],
+    "koshthasthakapakopah": [
+        "Koṣṭhasthita-kapakopaḥ",
+        "abdominal Kapha aggravation",
+        "digestive Kapha disorder"
+    ],
+    "samakapah": [
+        "Sāmakapah",
+        "balanced Kapha",
+        "normal Kapha state"
+    ],
+    "niramakapah": [
+        "Nīramakapah",
+        "unassociated Kapha",
+        "Kapha imbalance without other doshas"
+    ],
+    "vaikrutakapah": [
+        "Vaikṛtakapah",
+        "distorted Kapha",
+        "pathological Kapha state"
+    ],
+    "dhatuvaishamyam": [
+        "Dhātuvaiśamyam",
+        "tissue imbalance",
+        "dosha imbalance in tissues"
+    ],
+    "rasakshayah": [
+        "Rasakṣayaḥ",
+        "depletion of plasma",
+        "Rasa dhatu depletion"
+    ],
+    "rasavruddhih": [
+        "Rasavruddhiḥ",
+        "increase of plasma",
+        "Rasa dhatu increase"
+    ],
+    "raktakshayah": [
+        "Raktakṣayaḥ",
+        "blood depletion",
+        "Rakta dhatu depletion"
+    ],
+    "raktavruddhih": [
+        "Raktavruddhiḥ",
+        "increase of blood",
+        "Rakta dhatu increase"
+    ]
+}
