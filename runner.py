@@ -1,4 +1,4 @@
-# from model import namaste_list
+# from model_initialiser import namaste_list
 final = []
 
 ctr = 0
