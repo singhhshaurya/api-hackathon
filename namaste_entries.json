@@ -179,8 +179,8 @@
         ],
         "description": "It is characterised by difficulty to concentrate, fickleness, confusion. This may be explained by: (a) Vitiation of vata affecting the mind."
     },
-    "AAB-3 ": {
-        "code": "AAB-3 ",
+    "AAB-3": {
+        "code": "AAB-3",
         "title": "a~ggamardah kevalavata",
         "synonyms": [
             "(a) aṅgamardaḥ",
@@ -189,8 +189,8 @@
         ],
         "description": ""
     },
-    "AAB-4 ": {
-        "code": "AAB-4 ",
+    "AAB-4": {
+        "code": "AAB-4",
         "title": "a~ggasushkata kevalavata",
         "synonyms": [
             "a~ggaSuShkatA (kEvalavAta)",
@@ -399,8 +399,8 @@
         ],
         "description": ""
     },
-    "AAB-25 ": {
-        "code": "AAB-25 ",
+    "AAB-25": {
+        "code": "AAB-25",
         "title": "kashayasyata kevalavata",
         "synonyms": [
             "कषायास्यता (केवलवात)",
@@ -509,8 +509,8 @@
         ],
         "description": "It is characterised by pain in the anal region radiating to rest of perineum and lower back. This may be explained by: (a) Severe vitiation of Descending vata affecting the anal region."
     },
-    "AAB-36 ": {
-        "code": "AAB-36 ",
+    "AAB-36": {
+        "code": "AAB-36",
         "title": "gulpa-grahah kevalavata",
         "synonyms": [
             "गुल्फ-ग्रहः (केवलवात)",
@@ -549,8 +549,8 @@
         ],
         "description": ""
     },
-    "AAB-40 ": {
-        "code": "AAB-40 ",
+    "AAB-40": {
+        "code": "AAB-40",
         "title": "januvisleshah kevalavata",
         "synonyms": [
             "जानुविश्लेषः (केवलवात)",
@@ -589,8 +589,8 @@
         ],
         "description": ""
     },
-    "AAB-44 ": {
-        "code": "AAB-44 ",
+    "AAB-44": {
+        "code": "AAB-44",
         "title": "tvaksunyata kevalavata",
         "synonyms": [
             "tvakSUnyatA (kEvalavAta)",
@@ -599,8 +599,8 @@
         ],
         "description": ""
     },
-    "AAB-45 ": {
-        "code": "AAB-45 ",
+    "AAB-45": {
+        "code": "AAB-45",
         "title": "todah kevalavata",
         "synonyms": [
             "तोदः (केवलवात)",
@@ -629,8 +629,8 @@
         ],
         "description": ""
     },
-    "AAB-48 ": {
-        "code": "AAB-48 ",
+    "AAB-48": {
+        "code": "AAB-48",
         "title": "dantasaithilyam kevalavata",
         "synonyms": [
             "dantaSaithilyam (kEvalavAta)",
@@ -9526,8 +9526,8 @@
         ],
         "description": ""
     },
-    "ED-10 ": {
-        "code": "ED-10 ",
+    "ED-10": {
+        "code": "ED-10",
         "title": "visarpah",
         "synonyms": [
             "विसर्पः",
@@ -10005,8 +10005,8 @@
         ],
         "description": ""
     },
-    "ED-18 ": {
-        "code": "ED-18 ",
+    "ED-18": {
+        "code": "ED-18",
         "title": "sonitakledah",
         "synonyms": [
             "SoNitakledaH",
@@ -10095,8 +10095,8 @@
         ],
         "description": "the disorder is characterized by mūrcchā [syncope/attacks of swooning], pralāpa [excess talking/irrelevant speech/incoherent speech], tr̥ṣṇā [thirst], atyartha atyartha antardāhḥ [severe internal symptoms of burning]"
     },
-    "ED-20.7 ": {
-        "code": "ED-20.7 ",
+    "ED-20.7": {
+        "code": "ED-20.7",
         "title": "marmabighatajadahah",
         "synonyms": [
             "(a) marmābhighātajadāhaḥ",
@@ -10242,8 +10242,8 @@
         ],
         "description": ""
     },
-    "EE-3.4 ": {
-        "code": "EE-3.4 ",
+    "EE-3.4": {
+        "code": "EE-3.4",
         "title": "vataja-arsah",
         "synonyms": [
             "(a) vātaja-arśaḥ                      (a) śuṣka-arśaḥ",
@@ -10252,8 +10252,8 @@
         ],
         "description": ""
     },
-    "EE-3.5 ": {
-        "code": "EE-3.5 ",
+    "EE-3.5": {
+        "code": "EE-3.5",
         "title": "pittaja-arsah",
         "synonyms": [
             "(a) pittaja-arśaḥ",
@@ -10262,8 +10262,8 @@
         ],
         "description": ""
     },
-    "EE-3.6 ": {
-        "code": "EE-3.6 ",
+    "EE-3.6": {
+        "code": "EE-3.6",
         "title": "kapaja-arsah",
         "synonyms": [
             "कफज-अर्शः",
@@ -10272,8 +10272,8 @@
         ],
         "description": ""
     },
-    "EE-3.7 ": {
-        "code": "EE-3.7 ",
+    "EE-3.7": {
+        "code": "EE-3.7",
         "title": "raktaja-arsah",
         "synonyms": [
             "(a) raktaja-arśaḥ                    (a) ārdra-arśaḥ",
@@ -10318,8 +10318,8 @@
         ],
         "description": ""
     },
-    "EE-3.10 ": {
-        "code": "EE-3.10 ",
+    "EE-3.10": {
+        "code": "EE-3.10",
         "title": "sahaja-arsah",
         "synonyms": [
             "sahaja-arSaH",
@@ -10346,8 +10346,8 @@
         ],
         "description": ""
     },
-    "EE-3.13 ": {
-        "code": "EE-3.13 ",
+    "EE-3.13": {
+        "code": "EE-3.13",
         "title": "nabija-arsah",
         "synonyms": [
             "nABija-arSaH",
@@ -10564,8 +10564,8 @@
         ],
         "description": ""
     },
-    "EF-2.2 ": {
-        "code": "EF-2.2 ",
+    "EF-2.2": {
+        "code": "EF-2.2",
         "title": "kapajapramehah",
         "synonyms": [
             "(a) kaphajapramehaḥ",
@@ -10574,8 +10574,8 @@
         ],
         "description": ""
     },
-    "EF-2.2.1 ": {
-        "code": "EF-2.2.1 ",
+    "EF-2.2.1": {
+        "code": "EF-2.2.1",
         "title": "udakamehah",
         "synonyms": [
             "उदकमेहः",
@@ -10584,8 +10584,8 @@
         ],
         "description": ""
     },
-    "EF-2.2.2 ": {
-        "code": "EF-2.2.2 ",
+    "EF-2.2.2": {
+        "code": "EF-2.2.2",
         "title": "ikshuvalikamehah",
         "synonyms": [
             "(a) ikṣuvālikāmehaḥ",
@@ -10594,8 +10594,8 @@
         ],
         "description": ""
     },
-    "EF-2.2.3 ": {
-        "code": "EF-2.2.3 ",
+    "EF-2.2.3": {
+        "code": "EF-2.2.3",
         "title": "sandramehah",
         "synonyms": [
             "sAndramehaH",
@@ -10604,8 +10604,8 @@
         ],
         "description": ""
     },
-    "EF-2.2.4 ": {
-        "code": "EF-2.2.4 ",
+    "EF-2.2.4": {
+        "code": "EF-2.2.4",
         "title": "sandraprasadamehah",
         "synonyms": [
             "सान्द्रप्रसादमेहः",
@@ -10614,8 +10614,8 @@
         ],
         "description": ""
     },
-    "EF-2.2.5 ": {
-        "code": "EF-2.2.5 ",
+    "EF-2.2.5": {
+        "code": "EF-2.2.5",
         "title": "suklamehah",
         "synonyms": [
             "SuklamehaH",
@@ -10624,8 +10624,8 @@
         ],
         "description": ""
     },
-    "EF-2.2.6 ": {
-        "code": "EF-2.2.6 ",
+    "EF-2.2.6": {
+        "code": "EF-2.2.6",
         "title": "sukramehah",
         "synonyms": [
             "SukramehaH",
@@ -10634,8 +10634,8 @@
         ],
         "description": ""
     },
-    "EF-2.2.7 ": {
-        "code": "EF-2.2.7 ",
+    "EF-2.2.7": {
+        "code": "EF-2.2.7",
         "title": "sitamehah",
         "synonyms": [
             "SItamehaH",
@@ -10644,8 +10644,8 @@
         ],
         "description": ""
     },
-    "EF-2.2.8 ": {
-        "code": "EF-2.2.8 ",
+    "EF-2.2.8": {
+        "code": "EF-2.2.8",
         "title": "sanairmehah",
         "synonyms": [
             "शनैर्मेहः",
@@ -10654,8 +10654,8 @@
         ],
         "description": ""
     },
-    "EF-2.2.9 ": {
-        "code": "EF-2.2.9 ",
+    "EF-2.2.9": {
+        "code": "EF-2.2.9",
         "title": "sikatamehah",
         "synonyms": [
             "sikatAmehaH",
@@ -10664,8 +10664,8 @@
         ],
         "description": ""
     },
-    "EF-2.2.10 ": {
-        "code": "EF-2.2.10 ",
+    "EF-2.2.10": {
+        "code": "EF-2.2.10",
         "title": "lalamehah",
         "synonyms": [
             "lAlAmehaH",
@@ -10674,8 +10674,8 @@
         ],
         "description": ""
     },
-    "EF-2.2.11 ": {
-        "code": "EF-2.2.11 ",
+    "EF-2.2.11": {
+        "code": "EF-2.2.11",
         "title": "suramehah",
         "synonyms": [
             "सुरामेहः",
@@ -10684,8 +10684,8 @@
         ],
         "description": ""
     },
-    "EF-2.2.12 ": {
-        "code": "EF-2.2.12 ",
+    "EF-2.2.12": {
+        "code": "EF-2.2.12",
         "title": "lavanamehah",
         "synonyms": [
             "लवणमेहः",
@@ -10694,8 +10694,8 @@
         ],
         "description": ""
     },
-    "EF-2.2.13 ": {
-        "code": "EF-2.2.13 ",
+    "EF-2.2.13": {
+        "code": "EF-2.2.13",
         "title": "pishtamehah",
         "synonyms": [
             "(a) piṣṭamehaḥ",
@@ -10704,8 +10704,8 @@
         ],
         "description": ""
     },
-    "EF-2.2.14 ": {
-        "code": "EF-2.2.14 ",
+    "EF-2.2.14": {
+        "code": "EF-2.2.14",
         "title": "penamehah",
         "synonyms": [
             "PenamehaH",
@@ -10714,8 +10714,8 @@
         ],
         "description": ""
     },
-    "EF-2.3 ": {
-        "code": "EF-2.3 ",
+    "EF-2.3": {
+        "code": "EF-2.3",
         "title": "pittaja-pramehah",
         "synonyms": [
             "पित्तज-प्रमेहः",
@@ -10724,8 +10724,8 @@
         ],
         "description": ""
     },
-    "EF-2.3.1 ": {
-        "code": "EF-2.3.1 ",
+    "EF-2.3.1": {
+        "code": "EF-2.3.1",
         "title": "ksharamehah",
         "synonyms": [
             "kShAramehaH",
@@ -10734,8 +10734,8 @@
         ],
         "description": ""
     },
-    "EF-2.3.2 ": {
-        "code": "EF-2.3.2 ",
+    "EF-2.3.2": {
+        "code": "EF-2.3.2",
         "title": "kalamehah/krushnamehah",
         "synonyms": [
             "kAlamehaH/kRuShNamehaH",
@@ -10744,8 +10744,8 @@
         ],
         "description": ""
     },
-    "EF-2.3.3 ": {
-        "code": "EF-2.3.3 ",
+    "EF-2.3.3": {
+        "code": "EF-2.3.3",
         "title": "nilamehah",
         "synonyms": [
             "(a) nīlamehaḥ",
@@ -10764,8 +10764,8 @@
         ],
         "description": "It is characterised by passing of blood in the urine. This may be explained by: (a) Vitiation of pitta and blood affecting urinary tract."
     },
-    "EF-2.3.5 ": {
-        "code": "EF-2.3.5 ",
+    "EF-2.3.5": {
+        "code": "EF-2.3.5",
         "title": "ma~jjishthamehah",
         "synonyms": [
             "ma~jjiShThAmehaH",
@@ -10774,8 +10774,8 @@
         ],
         "description": ""
     },
-    "EF-2.3.6 ": {
-        "code": "EF-2.3.6 ",
+    "EF-2.3.6": {
+        "code": "EF-2.3.6",
         "title": "haridramehah",
         "synonyms": [
             "(a) hāridramehaḥ",
@@ -10784,8 +10784,8 @@
         ],
         "description": ""
     },
-    "EF-2.3.7 ": {
-        "code": "EF-2.3.7 ",
+    "EF-2.3.7": {
+        "code": "EF-2.3.7",
         "title": "amlamehah",
         "synonyms": [
             "अम्लमेहः",
@@ -10794,8 +10794,8 @@
         ],
         "description": ""
     },
-    "EF-2.4 ": {
-        "code": "EF-2.4 ",
+    "EF-2.4": {
+        "code": "EF-2.4",
         "title": "vatajapramehah",
         "synonyms": [
             "vAtajapramehaH",
@@ -10804,8 +10804,8 @@
         ],
         "description": ""
     },
-    "EF-2.4.1 ": {
-        "code": "EF-2.4.1 ",
+    "EF-2.4.1": {
+        "code": "EF-2.4.1",
         "title": "vasamehah",
         "synonyms": [
             "vasAmehaH",
@@ -10814,8 +10814,8 @@
         ],
         "description": ""
     },
-    "EF-2.4.2 ": {
-        "code": "EF-2.4.2 ",
+    "EF-2.4.2": {
+        "code": "EF-2.4.2",
         "title": "majjamehah",
         "synonyms": [
             "majjAmehaH",
@@ -10824,8 +10824,8 @@
         ],
         "description": ""
     },
-    "EF-2.4.3 ": {
-        "code": "EF-2.4.3 ",
+    "EF-2.4.3": {
+        "code": "EF-2.4.3",
         "title": "hastimehah",
         "synonyms": [
             "हस्तिमेहः",
@@ -10844,8 +10844,8 @@
         ],
         "description": "It is characterised by Increased thirst, increased urination, sweet urine, debility. This may be explained by: (a) Increased quantity of urine is due to the association of corrupted element with the watery element of the body, while the turbidity of urine is due to the specific conjunction of dosha and primary structural components of the body."
     },
-    "EF-2.4.5 ": {
-        "code": "EF-2.4.5 ",
+    "EF-2.4.5": {
+        "code": "EF-2.4.5",
         "title": "sarpirmehah",
         "synonyms": [
             "sarpirmehaH",
@@ -10854,8 +10854,8 @@
         ],
         "description": ""
     },
-    "EF-2.5 ": {
-        "code": "EF-2.5 ",
+    "EF-2.5": {
+        "code": "EF-2.5",
         "title": "prameha-pidaka",
         "synonyms": [
             "(a) prameha-piḍakā",
@@ -11094,8 +11094,8 @@
         ],
         "description": "It is characterized by excess aggravation of vata, severe localized and, or generalised body pains, weight loss, extra growth of bone and teeth, deformities in nail and nail bed, deformities in hairs and moustache, splitting pain in bone and toothache. This may be explained by derangement of channels (functional or anatomical or both) enriching bone tissue elements."
     },
-    "EG-2 ": {
-        "code": "EG-2 ",
+    "EG-2": {
+        "code": "EG-2",
         "title": "adhyasthih",
         "synonyms": [
             "adhyasthiH",
@@ -11123,8 +11123,8 @@
         ],
         "description": "It is characterized by inability to perform sexual act, impotence, lack of sexual arousal, birth of diseased offspring, progeny, birth of impotent offspring, birth of offspring with reduced lifespan, birth of offspring with deformities, infertility, abortion, miscarriage, delayed ejaculation, blood tinged semen, no semen on ejaculation. This may be explained by derangement of channels (functional or anatomical or both) enriching seminal fluid."
     },
-    "EH-2 ": {
-        "code": "EH-2 ",
+    "EH-2": {
+        "code": "EH-2",
         "title": "majjaparipakah",
         "synonyms": [
             "(a) majjāparipākaḥ",
@@ -11480,8 +11480,8 @@
         ],
         "description": "the disorder is characterized by mūtrapurīṣagandhiḥ rētasaḥ [semen posses odour of urine and faeces]"
     },
-    "EI-4 ": {
-        "code": "EI-4 ",
+    "EI-4": {
+        "code": "EI-4",
         "title": "sukarogah",
         "synonyms": [
             "(a) śūkarogaḥ",
@@ -11770,8 +11770,8 @@
         ],
         "description": ""
     },
-    "EI-6.2 ": {
-        "code": "EI-6.2 ",
+    "EI-6.2": {
+        "code": "EI-6.2",
         "title": "vataja-vruddhih",
         "synonyms": [
             "vAtaja-vRuddhiH",
@@ -11780,8 +11780,8 @@
         ],
         "description": ""
     },
-    "EI-6.3 ": {
-        "code": "EI-6.3 ",
+    "EI-6.3": {
+        "code": "EI-6.3",
         "title": "pittaja-vruddhih",
         "synonyms": [
             "(a) pittaja-vṛddhiḥ",
@@ -11790,8 +11790,8 @@
         ],
         "description": ""
     },
-    "EI-6.4 ": {
-        "code": "EI-6.4 ",
+    "EI-6.4": {
+        "code": "EI-6.4",
         "title": "kapaja-vruddhih",
         "synonyms": [
             "kaPaja-vRuddhiH",
@@ -11800,8 +11800,8 @@
         ],
         "description": ""
     },
-    "EI-6.5 ": {
-        "code": "EI-6.5 ",
+    "EI-6.5": {
+        "code": "EI-6.5",
         "title": "raktaja-vruddhih",
         "synonyms": [
             "रक्तज-वृद्धिः",
@@ -11810,8 +11810,8 @@
         ],
         "description": ""
     },
-    "EI-6.6 ": {
-        "code": "EI-6.6 ",
+    "EI-6.6": {
+        "code": "EI-6.6",
         "title": "medoja-vruddhih",
         "synonyms": [
             "(a) medoja-vṛddhiḥ",
@@ -11820,8 +11820,8 @@
         ],
         "description": ""
     },
-    "EI-6.7 ": {
-        "code": "EI-6.7 ",
+    "EI-6.7": {
+        "code": "EI-6.7",
         "title": "mutraja-vruddhih",
         "synonyms": [
             "mUtraja-vRuddhiH",
@@ -11840,8 +11840,8 @@
         ],
         "description": "It is characterised by protrusion of an organ or a part of the organ through an abnormal opening from the abdominal cavity to outside. This may be explained by: (a) Laxity of abdominal muscles due to excess pitta, vata."
     },
-    "EI-6.9 ": {
-        "code": "EI-6.9 ",
+    "EI-6.9": {
+        "code": "EI-6.9",
         "title": "anda-vruddhih",
         "synonyms": [
             "अण्ड-वृद्धिः",
@@ -11888,8 +11888,8 @@
         ],
         "description": ""
     },
-    "EJ-2.2 ": {
-        "code": "EJ-2.2 ",
+    "EJ-2.2": {
+        "code": "EJ-2.2",
         "title": "vataja-asmari",
         "synonyms": [
             "वातज-अश्मरी",
@@ -11898,8 +11898,8 @@
         ],
         "description": ""
     },
-    "EJ-2.3 ": {
-        "code": "EJ-2.3 ",
+    "EJ-2.3": {
+        "code": "EJ-2.3",
         "title": "pittaja-asmari",
         "synonyms": [
             "(a) pittaja-aśmarī",
@@ -11908,8 +11908,8 @@
         ],
         "description": ""
     },
-    "EJ-2.4 ": {
-        "code": "EJ-2.4 ",
+    "EJ-2.4": {
+        "code": "EJ-2.4",
         "title": "kapaja-asmari",
         "synonyms": [
             "(a) kaphaja-aśmarī",
@@ -11918,8 +11918,8 @@
         ],
         "description": ""
     },
-    "EJ-2.5 ": {
-        "code": "EJ-2.5 ",
+    "EJ-2.5": {
+        "code": "EJ-2.5",
         "title": "sukrasmari",
         "synonyms": [
             "(a) śukrāśmarī",
@@ -12002,8 +12002,8 @@
         ],
         "description": ""
     },
-    "EJ-3.2 ": {
-        "code": "EJ-3.2 ",
+    "EJ-3.2": {
+        "code": "EJ-3.2",
         "title": "mutrajatharah",
         "synonyms": [
             "(a) mūtrajaṭharaḥ",
@@ -12012,8 +12012,8 @@
         ],
         "description": ""
     },
-    "EJ-3.3 ": {
-        "code": "EJ-3.3 ",
+    "EJ-3.3": {
+        "code": "EJ-3.3",
         "title": "mutrotsa~ggah",
         "synonyms": [
             "(a) mūtrotsaṅgaḥ",
@@ -12032,8 +12032,8 @@
         ],
         "description": "It is characterised by passage of urine in less quantity. This may be explained by: (a) Increase of vata."
     },
-    "EJ-3.5 ": {
-        "code": "EJ-3.5 ",
+    "EJ-3.5": {
+        "code": "EJ-3.5",
         "title": "mutratitah",
         "synonyms": [
             "(a) mūtrātītaḥ",
@@ -12061,8 +12061,8 @@
         ],
         "description": "It is characterised by Involuntary flow of urine. This may be explained by: (a) Vitiation of vata, excess pitta affecting urinary bladder."
     },
-    "EJ-3.8 ": {
-        "code": "EJ-3.8 ",
+    "EJ-3.8": {
+        "code": "EJ-3.8",
         "title": "ushnavatah/ushnamarutah",
         "synonyms": [
             "(a) uṣṇavātaḥ                         (a) uṣṇamāruta",
@@ -12081,8 +12081,8 @@
         ],
         "description": "It is characterised by dribbling of urine. This may be explained by: (a) Vitiated vata affecting the urinary bladder."
     },
-    "EJ-3.10 ": {
-        "code": "EJ-3.10 ",
+    "EJ-3.10": {
+        "code": "EJ-3.10",
         "title": "mutragranthih/raktagranthih",
         "synonyms": [
             "mUtragranthiH/raktagranthiH",
@@ -12101,8 +12101,8 @@
         ],
         "description": "It is characterised by abnormal uncontrolled emission of semen with erotic thoughts or during passing of urine. This may be explained by: (a) Vitiated vata pushing semen along with urine."
     },
-    "EJ-3.12 ": {
-        "code": "EJ-3.12 ",
+    "EJ-3.12": {
+        "code": "EJ-3.12",
         "title": "vid-vighatah",
         "synonyms": [
             "viD-vighAtaH",
@@ -12111,8 +12111,8 @@
         ],
         "description": ""
     },
-    "EJ-3.13 ": {
-        "code": "EJ-3.13 ",
+    "EJ-3.13": {
+        "code": "EJ-3.13",
         "title": "bastikundalah",
         "synonyms": [
             "बस्तिकुण्डलः",
@@ -12612,8 +12612,8 @@
         ],
         "description": ""
     },
-    "EK-4.2 ": {
-        "code": "EK-4.2 ",
+    "EK-4.2": {
+        "code": "EK-4.2",
         "title": "vataja-udararogah",
         "synonyms": [
             "(a) vātaja-udararogaḥ",
@@ -12622,8 +12622,8 @@
         ],
         "description": ""
     },
-    "EK-4.3 ": {
-        "code": "EK-4.3 ",
+    "EK-4.3": {
+        "code": "EK-4.3",
         "title": "pittaja-udararogah",
         "synonyms": [
             "(a) pittaja-udararogaḥ",
@@ -12632,8 +12632,8 @@
         ],
         "description": ""
     },
-    "EK-4.4 ": {
-        "code": "EK-4.4 ",
+    "EK-4.4": {
+        "code": "EK-4.4",
         "title": "kapaja-udararogah",
         "synonyms": [
             "(a) kaphaja-udararogaḥ",
@@ -12642,8 +12642,8 @@
         ],
         "description": ""
     },
-    "EK-4.5 ": {
-        "code": "EK-4.5 ",
+    "EK-4.5": {
+        "code": "EK-4.5",
         "title": "sannipataja-udararogah",
         "synonyms": [
             "sAnnipAtaja-udararogaH",
@@ -12662,8 +12662,8 @@
         ],
         "description": "It is characterised by enlargement of liver, may be associated with anorexia, nausea, vomiting, weakness, blackish discolouration of skin, breathlessness. This may be explained by: (a) Vitiation of blood and pitta affecting the liver."
     },
-    "EK-4.7 ": {
-        "code": "EK-4.7 ",
+    "EK-4.7": {
+        "code": "EK-4.7",
         "title": "baddhagudodarah",
         "synonyms": [
             "बद्धगुदोदरः",
@@ -12672,8 +12672,8 @@
         ],
         "description": ""
     },
-    "EK-4.8 ": {
-        "code": "EK-4.8 ",
+    "EK-4.8": {
+        "code": "EK-4.8",
         "title": "cidrodarah/kshatodaram",
         "synonyms": [
             "(a) chidrodaraḥ,                    (a) kṣatodaram                      (a) kṣatodaraḥ",
@@ -12691,8 +12691,8 @@
         ],
         "description": ""
     },
-    "EK-4.10 ": {
-        "code": "EK-4.10 ",
+    "EK-4.10": {
+        "code": "EK-4.10",
         "title": "ajatodakah",
         "synonyms": [
             "अजातोदकः",
@@ -12831,8 +12831,8 @@
         ],
         "description": "the disorder is characterized by svairyōniṁ yuñjati lakṣaṇaiḥ malāḥ [mixed features], dāhārtā bhavēt [burning pain], śūlārtā bhavēt [colicy pain], śvētavāhinī [whitish discharge], picchilavāhinī [slimy menstrual flow], sarvaliṅgasamutthānā [clinical features of all types of dōṣa], dōṣaisvōpadravakarairvyāpatsā [complications]"
     },
-    "EL-2.5 ": {
-        "code": "EL-2.5 ",
+    "EL-2.5": {
+        "code": "EL-2.5",
         "title": "acarana",
         "synonyms": [
             "अचरणा",
@@ -12841,8 +12841,8 @@
         ],
         "description": ""
     },
-    "EL-2.6 ": {
-        "code": "EL-2.6 ",
+    "EL-2.6": {
+        "code": "EL-2.6",
         "title": "atyananda",
         "synonyms": [
             "(a) atyānandā",
@@ -12860,8 +12860,8 @@
         ],
         "description": ""
     },
-    "EL-2.8 ": {
-        "code": "EL-2.8 ",
+    "EL-2.8": {
+        "code": "EL-2.8",
         "title": "antarmukhi",
         "synonyms": [
             "(a) antarmukhī",
@@ -12948,8 +12948,8 @@
         ],
         "description": ""
     },
-    "EL-2.17 ": {
-        "code": "EL-2.17 ",
+    "EL-2.17": {
+        "code": "EL-2.17",
         "title": "prasramsini/prasravini",
         "synonyms": [
             "प्रस्रंसिणी/प्रस्राविणी",
@@ -12967,8 +12967,8 @@
         ],
         "description": ""
     },
-    "EL-2.19 ": {
-        "code": "EL-2.19 ",
+    "EL-2.19": {
+        "code": "EL-2.19",
         "title": "palini/andali",
         "synonyms": [
             "फलिनी/अण्डली",
@@ -12996,8 +12996,8 @@
         ],
         "description": ""
     },
-    "EL-2.22 ": {
-        "code": "EL-2.22 ",
+    "EL-2.22": {
+        "code": "EL-2.22",
         "title": "vamini",
         "synonyms": [
             "vAminI",
@@ -13025,8 +13025,8 @@
         ],
         "description": "\"It is characterised by Inability to conceive may be due to primary or secondary amenorrhoea or other ovulation defects. This may be explained by: (a) Decrease or defects in primary product of digested food, vitiated pitta, vitiated kapha causing obstruction and vitiated vata casing irregular menstrual cycles."
     },
-    "EL-2.25 ": {
-        "code": "EL-2.25 ",
+    "EL-2.25": {
+        "code": "EL-2.25",
         "title": "shandhi/khandita",
         "synonyms": [
             "षण्ढी/खण्डिता",
@@ -13035,8 +13035,8 @@
         ],
         "description": ""
     },
-    "EL-2.26 ": {
-        "code": "EL-2.26 ",
+    "EL-2.26": {
+        "code": "EL-2.26",
         "title": "sucimukhi/sucivaktra",
         "synonyms": [
             "सूचीमुखि/सूचीवक्त्रा",
@@ -13417,8 +13417,8 @@
         ],
         "description": "the disorder is characterized by garbhakōṣasaṅgaḥ [retention of sac], aparāsaṅgaḥ [retention of placenta], makkallaḥ [puerperal sepsis], yōnisaṁvr̥tiḥ/yōnisaṁvaraṇam [constriction of vaginal orifice], kukṣisaṁgaḥ [gripping in flanks]"
     },
-    "EL-9 ": {
-        "code": "EL-9 ",
+    "EL-9": {
+        "code": "EL-9",
         "title": "sutikarogah",
         "synonyms": [
             "sUtikArogaH",
@@ -13857,8 +13857,8 @@
         ],
         "description": ""
     },
-    "EM-4 ": {
-        "code": "EM-4 ",
+    "EM-4": {
+        "code": "EM-4",
         "title": "atattvabinivesah/mahagadah",
         "synonyms": [
             "(a) atattvābhiniveśaḥ,         (a) mahāgadaḥ",
@@ -13997,8 +13997,8 @@
         ],
         "description": "the disorder is characterized by atiśītārtaṁ [suffering with sever coldness], kṣīṇaṁ [debilitated], tailaprabhānanam [who has an oily radiance on his face]"
     },
-    "EM-6 ": {
-        "code": "EM-6 ",
+    "EM-6": {
+        "code": "EM-6",
         "title": "madah",
         "synonyms": [
             "madaH",
@@ -14125,8 +14125,8 @@
         ],
         "description": ""
     },
-    "EM-7.2 ": {
-        "code": "EM-7.2 ",
+    "EM-7.2": {
+        "code": "EM-7.2",
         "title": "vatajamurcca",
         "synonyms": [
             "vAtajamUrcCA",
@@ -14135,8 +14135,8 @@
         ],
         "description": ""
     },
-    "EM-7.3 ": {
-        "code": "EM-7.3 ",
+    "EM-7.3": {
+        "code": "EM-7.3",
         "title": "pittajamurcca",
         "synonyms": [
             "(a) pittaja mūrcchā",
@@ -14145,8 +14145,8 @@
         ],
         "description": ""
     },
-    "EM-7.4 ": {
-        "code": "EM-7.4 ",
+    "EM-7.4": {
+        "code": "EM-7.4",
         "title": "kapajamurcca",
         "synonyms": [
             "(a) kaphaja mūrcchā",
@@ -14155,8 +14155,8 @@
         ],
         "description": ""
     },
-    "EM-7.5 ": {
-        "code": "EM-7.5 ",
+    "EM-7.5": {
+        "code": "EM-7.5",
         "title": "sannipatajamurcca",
         "synonyms": [
             "(a) sannipataja mūrcchā",
@@ -14165,8 +14165,8 @@
         ],
         "description": ""
     },
-    "EM-7.6 ": {
-        "code": "EM-7.6 ",
+    "EM-7.6": {
+        "code": "EM-7.6",
         "title": "raktajamurcca",
         "synonyms": [
             "raktajamUrcCA",
@@ -14175,8 +14175,8 @@
         ],
         "description": ""
     },
-    "EM-7.7 ": {
-        "code": "EM-7.7 ",
+    "EM-7.7": {
+        "code": "EM-7.7",
         "title": "madyajamurcca",
         "synonyms": [
             "मद्यजमूर्च्छा",
@@ -14185,8 +14185,8 @@
         ],
         "description": ""
     },
-    "EM-7.8 ": {
-        "code": "EM-7.8 ",
+    "EM-7.8": {
+        "code": "EM-7.8",
         "title": "vishajamurcca",
         "synonyms": [
             "(a) vishaja mūrcchā",
@@ -14195,8 +14195,8 @@
         ],
         "description": ""
     },
-    "EM-7.9 ": {
-        "code": "EM-7.9 ",
+    "EM-7.9": {
+        "code": "EM-7.9",
         "title": "glanijamurcca",
         "synonyms": [
             "glAnijamUrcCA",
@@ -14452,8 +14452,8 @@
         ],
         "description": ""
     },
-    "F-6 ": {
-        "code": "F-6 ",
+    "F-6": {
+        "code": "F-6",
         "title": "krumija-sirorogah",
         "synonyms": [
             "(a) kṛmija-śirorogaḥ",
@@ -14462,8 +14462,8 @@
         ],
         "description": ""
     },
-    "F-7 ": {
-        "code": "F-7 ",
+    "F-7": {
+        "code": "F-7",
         "title": "anantavatah",
         "synonyms": [
             "anantavAtaH",
@@ -14482,8 +14482,8 @@
         ],
         "description": "It is characterised by episodic, severe headache involving one half of the head.May be associated with nausea and vomiting. This may be explained by: (a) aggravated vatadosha, pittadosha causing pain in one part of the head."
     },
-    "F-9 ": {
-        "code": "F-9 ",
+    "F-9": {
+        "code": "F-9",
         "title": "suryavartah",
         "synonyms": [
             "सूर्यावर्तः",
@@ -14492,8 +14492,8 @@
         ],
         "description": ""
     },
-    "F-10 ": {
-        "code": "F-10 ",
+    "F-10": {
+        "code": "F-10",
         "title": "sa~gkhakah",
         "synonyms": [
             "Sa~gkhakaH",
@@ -14502,8 +14502,8 @@
         ],
         "description": ""
     },
-    "F-11 ": {
-        "code": "F-11 ",
+    "F-11": {
+        "code": "F-11",
         "title": "sirahkampah",
         "synonyms": [
             "(a) śiraḥkampaḥ",
@@ -14512,8 +14512,8 @@
         ],
         "description": ""
     },
-    "F-12 ": {
-        "code": "F-12 ",
+    "F-12": {
+        "code": "F-12",
         "title": "kshayajasirorogah",
         "synonyms": [
             "क्षयजशिरोरोगः",
@@ -14664,8 +14664,8 @@
         ],
         "description": ""
     },
-    "FA-6 ": {
-        "code": "FA-6 ",
+    "FA-6": {
+        "code": "FA-6",
         "title": "kapalarbudah",
         "synonyms": [
             "कपालर्बुदः",
@@ -14674,8 +14674,8 @@
         ],
         "description": ""
     },
-    "FA-7 ": {
-        "code": "FA-7 ",
+    "FA-7": {
+        "code": "FA-7",
         "title": "kapalavidradhih",
         "synonyms": [
             "कपालविद्रधिः",
@@ -14768,8 +14768,8 @@
         ],
         "description": ""
     },
-    "GA-8 ": {
-        "code": "GA-8 ",
+    "GA-8": {
+        "code": "GA-8",
         "title": "abighataja-oshthaprakopah/kshataja-oshthaprakopah",
         "synonyms": [
             "aBighAtaja-oShThaprakopaH/kShataja-oShThaprakopaH",
@@ -14787,8 +14787,8 @@
         ],
         "description": ""
     },
-    "GA-10 ": {
-        "code": "GA-10 ",
+    "GA-10": {
+        "code": "GA-10",
         "title": "jalarbudah",
         "synonyms": [
             "(a) jalārbudaḥ",
@@ -14806,8 +14806,8 @@
         ],
         "description": ""
     },
-    "GB-1 ": {
-        "code": "GB-1 ",
+    "GB-1": {
+        "code": "GB-1",
         "title": "sitadah",
         "synonyms": [
             "SItAdaH",
@@ -14816,8 +14816,8 @@
         ],
         "description": ""
     },
-    "GB-2 ": {
-        "code": "GB-2 ",
+    "GB-2": {
+        "code": "GB-2",
         "title": "dantapupputah",
         "synonyms": [
             "dantapuppuTaH",
@@ -14836,8 +14836,8 @@
         ],
         "description": "It is characterised by foul smelling breath, loose teeth with pain, swollen gums, bleeding, discharge of pus. This may be explained by: (a) Vitiated blood affecting the roots of teeth."
     },
-    "GB-4 ": {
-        "code": "GB-4 ",
+    "GB-4": {
+        "code": "GB-4",
         "title": "saushirah",
         "synonyms": [
             "शौषिरः",
@@ -14846,8 +14846,8 @@
         ],
         "description": ""
     },
-    "GB-5 ": {
-        "code": "GB-5 ",
+    "GB-5": {
+        "code": "GB-5",
         "title": "mahasaushirah",
         "synonyms": [
             "महाशौषिरः",
@@ -14885,8 +14885,8 @@
         ],
         "description": ""
     },
-    "GB-9 ": {
-        "code": "GB-9 ",
+    "GB-9": {
+        "code": "GB-9",
         "title": "vardhanah/adhidantah",
         "synonyms": [
             "vardhanaH/adhidantaH",
@@ -14895,8 +14895,8 @@
         ],
         "description": ""
     },
-    "GB-10 ": {
-        "code": "GB-10 ",
+    "GB-10": {
+        "code": "GB-10",
         "title": "adhimamsah",
         "synonyms": [
             "(a) adhimāṃsaḥ",
@@ -14905,8 +14905,8 @@
         ],
         "description": ""
     },
-    "GB-11 ": {
-        "code": "GB-11 ",
+    "GB-11": {
+        "code": "GB-11",
         "title": "karalah",
         "synonyms": [
             "karAlaH",
@@ -14915,8 +14915,8 @@
         ],
         "description": ""
     },
-    "GB-12 ": {
-        "code": "GB-12 ",
+    "GB-12": {
+        "code": "GB-12",
         "title": "dantanadi",
         "synonyms": [
             "दन्तनाडी",
@@ -15028,8 +15028,8 @@
         ],
         "description": "It is characterised by yellow crust at the root of the teeth, the crust is sometimes too hard to detach from the teeth. This may be explained by: (a) It is caused due to vitiated dosha accumulating over the teeth"
     },
-    "GC-6 ": {
-        "code": "GC-6 ",
+    "GC-6": {
+        "code": "GC-6",
         "title": "kapalika",
         "synonyms": [
             "kapAlikA",
@@ -15127,8 +15127,8 @@
         ],
         "description": "the disorder is characterized by gurvī (jihvā)/guru [heaviness of tongue], bahalā/bahulācitā(jihvā) [excessive thickness of tongue], śālmalikaṇṭakābhaḥ māṁsōdgamaḥ/śālmalikaṇṭakābhaḥmāṁsōcchrayaḥ [tongue resembling projection like the thorn of śālmali]"
     },
-    "GD-4 ": {
-        "code": "GD-4 ",
+    "GD-4": {
+        "code": "GD-4",
         "title": "alasah/alasah",
         "synonyms": [
             "अलसः/अलासः",
@@ -15147,8 +15147,8 @@
         ],
         "description": "It is characterised by cystic swelling either above or below the tongue. This may be explained by: (a) Vitiated all three dosha localising near the base of the tongue."
     },
-    "GD-6 ": {
-        "code": "GD-6 ",
+    "GD-6": {
+        "code": "GD-6",
         "title": "adhijihva",
         "synonyms": [
             "अधिजिह्वा",
@@ -15206,8 +15206,8 @@
         ],
         "description": "It is characterised by pain, swelling and redness in the palate. This may be explained by: (a) Vitiation of kapha, blood, muscles in palate region."
     },
-    "GE-5 ": {
-        "code": "GE-5 ",
+    "GE-5": {
+        "code": "GE-5",
         "title": "kaccapah kaccapi",
         "synonyms": [
             "कच्छपः (कच्छपी)",
@@ -15216,8 +15216,8 @@
         ],
         "description": ""
     },
-    "GE-6 ": {
-        "code": "GE-6 ",
+    "GE-6": {
+        "code": "GE-6",
         "title": "talu-arbudah",
         "synonyms": [
             "(a) tālu-arbudaḥ",
@@ -15226,8 +15226,8 @@
         ],
         "description": ""
     },
-    "GE-7 ": {
-        "code": "GE-7 ",
+    "GE-7": {
+        "code": "GE-7",
         "title": "mamsasa~gghatah/talusamhatih",
         "synonyms": [
             "mAMsasa~gghAtaH/tAlusaMhatiH",
@@ -15236,8 +15236,8 @@
         ],
         "description": ""
     },
-    "GE-8 ": {
-        "code": "GE-8 ",
+    "GE-8": {
+        "code": "GE-8",
         "title": "talupupputah",
         "synonyms": [
             "(a) tālupuppuṭaḥ",
@@ -15255,8 +15255,8 @@
         ],
         "description": ""
     },
-    "GE-10 ": {
-        "code": "GE-10 ",
+    "GE-10": {
+        "code": "GE-10",
         "title": "talupakah/talusothah",
         "synonyms": [
             "तालुपाकः/तालुशोथः",
@@ -15265,8 +15265,8 @@
         ],
         "description": ""
     },
-    "GE-11 ": {
-        "code": "GE-11 ",
+    "GE-11": {
+        "code": "GE-11",
         "title": "talupidaka/talupitika",
         "synonyms": [
             "(a) tālupiḍakā,                       (a) tālupiṭikā",
@@ -15275,8 +15275,8 @@
         ],
         "description": ""
     },
-    "GE-12 ": {
-        "code": "GE-12 ",
+    "GE-12": {
+        "code": "GE-12",
         "title": "taluvidradhih",
         "synonyms": [
             "tAluvidradhiH",
@@ -15368,8 +15368,8 @@
         ],
         "description": "It is characterised by swelling in the throat, irritation. This may be explained by: (a) Vitiated kapha localising the throat."
     },
-    "GF-3 ": {
-        "code": "GF-3 ",
+    "GF-3": {
+        "code": "GF-3",
         "title": "valayah",
         "synonyms": [
             "(a) valayaḥ",
@@ -15425,8 +15425,8 @@
         ],
         "description": ""
     },
-    "GF-9 ": {
-        "code": "GF-9 ",
+    "GF-9": {
+        "code": "GF-9",
         "title": "galavidradhih",
         "synonyms": [
             "गलविद्रधिः",
@@ -15435,8 +15435,8 @@
         ],
         "description": ""
     },
-    "GF-10 ": {
-        "code": "GF-10 ",
+    "GF-10": {
+        "code": "GF-10",
         "title": "galaughah",
         "synonyms": [
             "(a) galaughaḥ",
@@ -15445,8 +15445,8 @@
         ],
         "description": ""
     },
-    "GF-11 ": {
-        "code": "GF-11 ",
+    "GF-11": {
+        "code": "GF-11",
         "title": "svaraghnam",
         "synonyms": [
             "(a) svaraghnam",
@@ -15455,8 +15455,8 @@
         ],
         "description": ""
     },
-    "GF-12 ": {
-        "code": "GF-12 ",
+    "GF-12": {
+        "code": "GF-12",
         "title": "mamsatanah",
         "synonyms": [
             "(a) māṃsatānaḥ",
@@ -15465,8 +15465,8 @@
         ],
         "description": ""
     },
-    "GF-13 ": {
-        "code": "GF-13 ",
+    "GF-13": {
+        "code": "GF-13",
         "title": "vidari kanthagata",
         "synonyms": [
             "vidArI (kaNThagata)",
@@ -15504,8 +15504,8 @@
         ],
         "description": "It is characterised by non suppurated swelling at the root of the tongue and beginning of the throat, stable or immobile, painless and reddish swelling, abscess with pus in throat. This may be explained by: (a) Vitiated three dosha affecting the throat."
     },
-    "GF-16 ": {
-        "code": "GF-16 ",
+    "GF-16": {
+        "code": "GF-16",
         "title": "gandalaji",
         "synonyms": [
             "gaNDAlajI",
@@ -15524,8 +15524,8 @@
         ],
         "description": "It is characterised by string of hard, glossy, painless nodular or elongated skin coloured swollen glands around the neck, throat which slowly suppurate and form fistulous tracts. This may be explained by: (a) Vitiation of kapha, blood, muscle tissue in throat region."
     },
-    "GF-18 ": {
-        "code": "GF-18 ",
+    "GF-18": {
+        "code": "GF-18",
         "title": "asadhya gandamala",
         "synonyms": [
             "asAdhya gaNDamAlA",
@@ -15534,8 +15534,8 @@
         ],
         "description": ""
     },
-    "GF-19 ": {
-        "code": "GF-19 ",
+    "GF-19": {
+        "code": "GF-19",
         "title": "galagandah",
         "synonyms": [
             "galagaNDaH",
@@ -15594,8 +15594,8 @@
         ],
         "description": "the disorder is characterized by gala sandhi śōphaḥ [swelling in the joint of throat], cibuka śōphaḥ [swelling in the chin], gala śōphaḥ [swelling in the throat], dāhaḥ [burning sensation], rāga [redness/congestion], ugraśvasana [difficult in expiration or laboured breathing], bhr̥śārti [excruciating pain], hanyāt galē valayākr̥ti [fatal if surrounds the throat as ring]"
     },
-    "GG ": {
-        "code": "GG ",
+    "GG": {
+        "code": "GG",
         "title": "sarvasara mukharogah",
         "synonyms": [
             "sarvasara mukharogaH",
@@ -15830,8 +15830,8 @@
         ],
         "description": "It is characterised by swelling over medial canthus with pus discharge and foul smell. Inability to rotate the eyeball due to papules in the inner lower eyelid associated with flow of tears continuously. This may be explained by: (a) Vitiated dosha obstructing lacrymal passage."
     },
-    "HA-2 ": {
-        "code": "HA-2 ",
+    "HA-2": {
+        "code": "HA-2",
         "title": "upanahah",
         "synonyms": [
             "(a) upanāhaḥ",
@@ -15895,8 +15895,8 @@
         ],
         "description": ""
     },
-    "HA-4 ": {
-        "code": "HA-4 ",
+    "HA-4": {
+        "code": "HA-4",
         "title": "parvanika",
         "synonyms": [
             "पर्वणिका",
@@ -15905,8 +15905,8 @@
         ],
         "description": ""
     },
-    "HA-5 ": {
-        "code": "HA-5 ",
+    "HA-5": {
+        "code": "HA-5",
         "title": "alaji",
         "synonyms": [
             "(a) alajī",
@@ -15915,8 +15915,8 @@
         ],
         "description": ""
     },
-    "HA-6 ": {
-        "code": "HA-6 ",
+    "HA-6": {
+        "code": "HA-6",
         "title": "krumigranthih",
         "synonyms": [
             "कृमिग्रन्थिः",
@@ -15934,8 +15934,8 @@
         ],
         "description": ""
     },
-    "HB-1 ": {
-        "code": "HB-1 ",
+    "HB-1": {
+        "code": "HB-1",
         "title": "utsa~ggini",
         "synonyms": [
             "उत्सङ्गिनी",
@@ -15973,8 +15973,8 @@
         ],
         "description": ""
     },
-    "HB-5 ": {
-        "code": "HB-5 ",
+    "HB-5": {
+        "code": "HB-5",
         "title": "arsovartma",
         "synonyms": [
             "अर्शोवर्त्म",
@@ -16002,8 +16002,8 @@
         ],
         "description": "It is characterised by hard and spindle shaped swelling, pain, redness at the root of eyelashes may be associated with pus discharge. This may be explained by: (a) Vitiation of blood affecting the eyelid."
     },
-    "HB-8 ": {
-        "code": "HB-8 ",
+    "HB-8": {
+        "code": "HB-8",
         "title": "bahalavartma",
         "synonyms": [
             "bahalavartma",
@@ -16022,8 +16022,8 @@
         ],
         "description": "It is characterised by hard swelling and redness in eyelids, itching may be associated with crusting at the eyelid margins or base of the eyelashes, flaking of skin on eyelids, falling of eye lashes. This may be explained by: (a) Aggravated kapha, vata affecting skin, blood and muscle tissue."
     },
-    "HB-10 ": {
-        "code": "HB-10 ",
+    "HB-10": {
+        "code": "HB-10",
         "title": "vartmakardamah",
         "synonyms": [
             "(a) vartmakardamaḥ",
@@ -16032,8 +16032,8 @@
         ],
         "description": ""
     },
-    "HB-11 ": {
-        "code": "HB-11 ",
+    "HB-11": {
+        "code": "HB-11",
         "title": "klishtavartma",
         "synonyms": [
             "kliShTavartma",
@@ -16052,8 +16052,8 @@
         ],
         "description": "It is characterised by blackish discoloration of eyelid with swelling and pain. This may be explained by: (a) Vitiation of all the three dosha."
     },
-    "HB-13 ": {
-        "code": "HB-13 ",
+    "HB-13": {
+        "code": "HB-13",
         "title": "praklinnavartma/kapotklishta-vartma",
         "synonyms": [
             "(a) praklinnavartma (a) kaphotkliṣṭa-vartma",
@@ -16062,8 +16062,8 @@
         ],
         "description": ""
     },
-    "HB-14 ": {
-        "code": "HB-14 ",
+    "HB-14": {
+        "code": "HB-14",
         "title": "apariklinnavartma/klishta-vartma",
         "synonyms": [
             "(a) apariklinnavartma",
@@ -16072,8 +16072,8 @@
         ],
         "description": ""
     },
-    "HB-15 ": {
-        "code": "HB-15 ",
+    "HB-15": {
+        "code": "HB-15",
         "title": "vatahata-vartma",
         "synonyms": [
             "vAtahata-vartma",
@@ -16131,8 +16131,8 @@
         ],
         "description": ""
     },
-    "HB-21 ": {
-        "code": "HB-21 ",
+    "HB-21": {
+        "code": "HB-21",
         "title": "ku~jcanah",
         "synonyms": [
             "कुञ्चनः",
@@ -16150,8 +16150,8 @@
         ],
         "description": ""
     },
-    "HB-23 ": {
-        "code": "HB-23 ",
+    "HB-23": {
+        "code": "HB-23",
         "title": "pittottklishtah",
         "synonyms": [
             "pittottkliShTaH",
@@ -16160,8 +16160,8 @@
         ],
         "description": ""
     },
-    "HB-24 ": {
-        "code": "HB-24 ",
+    "HB-24": {
+        "code": "HB-24",
         "title": "utklishtavartma",
         "synonyms": [
             "utkliShTavartma",
@@ -16180,8 +16180,8 @@
         ],
         "description": "It is characterised by adherence of eyelids associated with itching, swelling and redness, congestion. This may be explained by: (a) Kapha and blood affecting the eyelid."
     },
-    "HB-26 ": {
-        "code": "HB-26 ",
+    "HB-26": {
+        "code": "HB-26",
         "title": "sikata-vartma",
         "synonyms": [
             "(a) sikatā-vartma                  (a) vartmaśarkarā",
@@ -16238,8 +16238,8 @@
         ],
         "description": "It is characterised by muscular growth from the inner canthus towards cornea leadind to loss of vision if it reaches the pupil. This may be explained by: (a) Vitiated dosha causing muscular growth over the sclera."
     },
-    "HD-2 ": {
-        "code": "HD-2 ",
+    "HD-2": {
+        "code": "HD-2",
         "title": "suklarma",
         "synonyms": [
             "(a) śuklārma",
@@ -16248,8 +16248,8 @@
         ],
         "description": ""
     },
-    "HD-3 ": {
-        "code": "HD-3 ",
+    "HD-3": {
+        "code": "HD-3",
         "title": "lohitarma/kshatarma",
         "synonyms": [
             "लोहितार्म/क्षतार्म",
@@ -16258,8 +16258,8 @@
         ],
         "description": ""
     },
-    "HD-4 ": {
-        "code": "HD-4 ",
+    "HD-4": {
+        "code": "HD-4",
         "title": "adhimamsajarma",
         "synonyms": [
             "adhimAMsajArma",
@@ -16268,8 +16268,8 @@
         ],
         "description": ""
     },
-    "HD-5 ": {
-        "code": "HD-5 ",
+    "HD-5": {
+        "code": "HD-5",
         "title": "snayvarma",
         "synonyms": [
             "snAyvarma",
@@ -16296,8 +16296,8 @@
         ],
         "description": ""
     },
-    "HD-8 ": {
-        "code": "HD-8 ",
+    "HD-8": {
+        "code": "HD-8",
         "title": "pishtakah",
         "synonyms": [
             "पिष्टकः",
@@ -16344,8 +16344,8 @@
         ],
         "description": "It is characterised by disease of cornea affecting vision. This may be explained by: (a) Vitiated dosha affecting the eye."
     },
-    "HE-1 ": {
-        "code": "HE-1 ",
+    "HE-1": {
+        "code": "HE-1",
         "title": "savranasukrah/kshatasuklah",
         "synonyms": [
             "(a) savraṇaśukraḥ",
@@ -16382,8 +16382,8 @@
         ],
         "description": ""
     },
-    "HE-3 ": {
-        "code": "HE-3 ",
+    "HE-3": {
+        "code": "HE-3",
         "title": "pakatyayah/sirasa~ggah",
         "synonyms": [
             "(a) pākātyayaḥ",
@@ -16402,8 +16402,8 @@
         ],
         "description": "It is characterised by prolapse or protrusion of the uveal tissue through a weak point in the eyeball resembling head of a housefly. May be associated with pain, warm, slimy coppery tears. This may be explained by: (a) The three vitiated dosha, blood and fatty tissue."
     },
-    "HE-5 ": {
-        "code": "HE-5 ",
+    "HE-5": {
+        "code": "HE-5",
         "title": "sirasukrah",
         "synonyms": [
             "सिराशुक्रः",
@@ -16543,8 +16543,8 @@
         ],
         "description": "It is characterised by shrinkage of eyeball, may be associated with pain, ulceration, adhesion of eyelids, loss of vision. This may be explained by: (a) Aggravation of vatadosha affecting the eyeball."
     },
-    "HF-6 ": {
-        "code": "HF-6 ",
+    "HF-6": {
+        "code": "HF-6",
         "title": "vataparyayah",
         "synonyms": [
             "वातपर्यायः",
@@ -16563,8 +16563,8 @@
         ],
         "description": "It is characterised by dryness of eyes, decreased lacrimation, reduced stickness of eyes. This may be explained by: (a) All the three dosha mainly, vata affecting the eye."
     },
-    "HF-8 ": {
-        "code": "HF-8 ",
+    "HF-8": {
+        "code": "HF-8",
         "title": "anyatovatah",
         "synonyms": [
             "अन्यतोवातः",
@@ -16573,8 +16573,8 @@
         ],
         "description": ""
     },
-    "HF-9 ": {
-        "code": "HF-9 ",
+    "HF-9": {
+        "code": "HF-9",
         "title": "amladhyushitah/amloshita",
         "synonyms": [
             "अम्लाध्युषितः/अम्लोषित",
@@ -16583,8 +16583,8 @@
         ],
         "description": ""
     },
-    "HF-10 ": {
-        "code": "HF-10 ",
+    "HF-10": {
+        "code": "HF-10",
         "title": "sirotpatah/sirotpata",
         "synonyms": [
             "sirotpAtaH/SirotpAta",
@@ -16621,8 +16621,8 @@
         ],
         "description": ""
     },
-    "HG-1 ": {
-        "code": "HG-1 ",
+    "HG-1": {
+        "code": "HG-1",
         "title": "timirah",
         "synonyms": [
             "timiraH",
@@ -16803,8 +16803,8 @@
         ],
         "description": ""
     },
-    "HG-2.4 ": {
-        "code": "HG-2.4 ",
+    "HG-2.4": {
+        "code": "HG-2.4",
         "title": "slaishmika-kacah",
         "synonyms": [
             "SlaiShmika-kAcaH",
@@ -16813,8 +16813,8 @@
         ],
         "description": ""
     },
-    "HG-2.5 ": {
-        "code": "HG-2.5 ",
+    "HG-2.5": {
+        "code": "HG-2.5",
         "title": "sannipatika-kacah",
         "synonyms": [
             "sAnnipAtika-kAcaH",
@@ -16832,8 +16832,8 @@
         ],
         "description": ""
     },
-    "HG-3 ": {
-        "code": "HG-3 ",
+    "HG-3": {
+        "code": "HG-3",
         "title": "li~gganasah",
         "synonyms": [
             "li~gganASaH",
@@ -17006,8 +17006,8 @@
         ],
         "description": "It is characterised by loss of vision during night. This may be explained by: (a) Vitiated kapha affecting the vision."
     },
-    "HG-7 ": {
-        "code": "HG-7 ",
+    "HG-7": {
+        "code": "HG-7",
         "title": "ushnavidagdhadrushtih/vidagdhoshnah",
         "synonyms": [
             "(a) uṣṇavidagdhadṛṣṭiḥ  (a) vidagdhoṣṇaḥ  (a) vidagdhoṣṇaḥ",
@@ -17016,8 +17016,8 @@
         ],
         "description": ""
     },
-    "HG-8 ": {
-        "code": "HG-8 ",
+    "HG-8": {
+        "code": "HG-8",
         "title": "dhumadarsi/dhumarah",
         "synonyms": [
             "dhUmadarSI/dhUmaraH",
@@ -17026,8 +17026,8 @@
         ],
         "description": ""
     },
-    "HG-9 ": {
-        "code": "HG-9 ",
+    "HG-9": {
+        "code": "HG-9",
         "title": "hrasvajadyam",
         "synonyms": [
             "hrasvajADyam",
@@ -17036,8 +17036,8 @@
         ],
         "description": ""
     },
-    "HG-10 ": {
-        "code": "HG-10 ",
+    "HG-10": {
+        "code": "HG-10",
         "title": "nakulandhyam",
         "synonyms": [
             "(a) nakulāndhyam",
@@ -17046,8 +17046,8 @@
         ],
         "description": ""
     },
-    "HG-11 ": {
-        "code": "HG-11 ",
+    "HG-11": {
+        "code": "HG-11",
         "title": "gambira/drushtih",
         "synonyms": [
             "(a) gambhīrā-dṛṣṭiḥ",
@@ -17056,8 +17056,8 @@
         ],
         "description": ""
     },
-    "HG-12 ": {
-        "code": "HG-12 ",
+    "HG-12": {
+        "code": "HG-12",
         "title": "vidagdhamladrushtih",
         "synonyms": [
             "विदग्धाम्लदृष्टिः",
@@ -17271,8 +17271,8 @@
         ],
         "description": "It is characterised by watery discharge from the nose may be associated with loss of smell. This may be explained by: (a) Vitiation of the kaphadosha and vatadosha."
     },
-    "I-6 ": {
-        "code": "I-6 ",
+    "I-6": {
+        "code": "I-6",
         "title": "apinasah",
         "synonyms": [
             "apInasaH",
@@ -17281,8 +17281,8 @@
         ],
         "description": ""
     },
-    "I-7 ": {
-        "code": "I-7 ",
+    "I-7": {
+        "code": "I-7",
         "title": "ghranapakah/nasapakah",
         "synonyms": [
             "ghrANapAkaH/nAsApAkaH",
@@ -17291,8 +17291,8 @@
         ],
         "description": ""
     },
-    "I-8 ": {
-        "code": "I-8 ",
+    "I-8": {
+        "code": "I-8",
         "title": "nasasvayathuh",
         "synonyms": [
             "(a) nāsāśvayathuḥ",
@@ -17337,8 +17337,8 @@
         ],
         "description": ""
     },
-    "I-9 ": {
-        "code": "I-9 ",
+    "I-9": {
+        "code": "I-9",
         "title": "nasarbudah",
         "synonyms": [
             "नासार्बुदः",
@@ -17410,8 +17410,8 @@
         ],
         "description": ""
     },
-    "I-10 ": {
-        "code": "I-10 ",
+    "I-10": {
+        "code": "I-10",
         "title": "puyaraktam/puyasonitam",
         "synonyms": [
             "पूयरक्तम्/पूयशोणितम्",
@@ -17439,8 +17439,8 @@
         ],
         "description": ""
     },
-    "I-13 ": {
-        "code": "I-13 ",
+    "I-13": {
+        "code": "I-13",
         "title": "diptah",
         "synonyms": [
             "दीप्तः",
@@ -17449,8 +17449,8 @@
         ],
         "description": ""
     },
-    "I-14 ": {
-        "code": "I-14 ",
+    "I-14": {
+        "code": "I-14",
         "title": "bramsathuh",
         "synonyms": [
             "(a) bhraṃśathuḥ",
@@ -17525,8 +17525,8 @@
         ],
         "description": "It is characterised by dry nose, nasal obstruction, crusting, scabs in nose. This may be explained by: (a) increased vata inside the nasal cavity."
     },
-    "I-18 ": {
-        "code": "I-18 ",
+    "I-18": {
+        "code": "I-18",
         "title": "brusakshavah",
         "synonyms": [
             "(a) bhṛśakṣavaḥ",
@@ -17544,8 +17544,8 @@
         ],
         "description": ""
     },
-    "J-1 ": {
-        "code": "J-1 ",
+    "J-1": {
+        "code": "J-1",
         "title": "vatajakarnarogah/vatajakarnasula",
         "synonyms": [
             "वातजकर्णरोगः/वातजकर्णशूल",
@@ -17554,8 +17554,8 @@
         ],
         "description": ""
     },
-    "J-2 ": {
-        "code": "J-2 ",
+    "J-2": {
+        "code": "J-2",
         "title": "pittajakarnarogah",
         "synonyms": [
             "(a) pittajakarṇarogaḥ",
@@ -17564,8 +17564,8 @@
         ],
         "description": ""
     },
-    "J-3 ": {
-        "code": "J-3 ",
+    "J-3": {
+        "code": "J-3",
         "title": "kapajakarnarogah",
         "synonyms": [
             "कफजकर्णरोगः",
@@ -17574,8 +17574,8 @@
         ],
         "description": ""
     },
-    "J-4 ": {
-        "code": "J-4 ",
+    "J-4": {
+        "code": "J-4",
         "title": "sannipatajakarnarogah/sannipatika-karnasulah",
         "synonyms": [
             "सान्निपातजकर्णरोगः/सन्निपातिक-कर्णशूलः",
@@ -17584,8 +17584,8 @@
         ],
         "description": ""
     },
-    "J-5 ": {
-        "code": "J-5 ",
+    "J-5": {
+        "code": "J-5",
         "title": "raktajakarnarogah/raktajakarnasula",
         "synonyms": [
             "raktajakarNarogaH/raktajakarNaSUla",
@@ -17604,8 +17604,8 @@
         ],
         "description": "It is characterised by itching sensation in the ear. This may be explained by: (a) Increased kapha localising in ear."
     },
-    "J-7 ": {
-        "code": "J-7 ",
+    "J-7": {
+        "code": "J-7",
         "title": "karna-kshvedah",
         "synonyms": [
             "कर्ण-क्ष्वेडः",
@@ -17634,8 +17634,8 @@
         ],
         "description": "It is characterised by ringing sounds in ear may be continuous or intermittent. This may be explained by: (a) Vata affecting the channels carrying the sound."
     },
-    "J-10 ": {
-        "code": "J-10 ",
+    "J-10": {
+        "code": "J-10",
         "title": "karnapakah",
         "synonyms": [
             "(a) karṇapākaḥ",
@@ -17644,8 +17644,8 @@
         ],
         "description": ""
     },
-    "J-11 ": {
-        "code": "J-11 ",
+    "J-11": {
+        "code": "J-11",
         "title": "karna-pratinahah",
         "synonyms": [
             "कर्ण-प्रतिनाहः",
@@ -17738,8 +17738,8 @@
         ],
         "description": "It is characterised by pain in the ear, purulent discharge from ear. This may be explained by: (a) Any of the three dosha localising in the ear."
     },
-    "J-15 ": {
-        "code": "J-15 ",
+    "J-15": {
+        "code": "J-15",
         "title": "karnarbudah",
         "synonyms": [
             "karNArbudaH",
@@ -17811,8 +17811,8 @@
         ],
         "description": ""
     },
-    "J-16 ": {
-        "code": "J-16 ",
+    "J-16": {
+        "code": "J-16",
         "title": "karnarsah",
         "synonyms": [
             "(a) karṇārśaḥ",
@@ -17857,8 +17857,8 @@
         ],
         "description": ""
     },
-    "J-17 ": {
-        "code": "J-17 ",
+    "J-17": {
+        "code": "J-17",
         "title": "krumikarnakah",
         "synonyms": [
             "kRumikarNakaH",
@@ -17867,8 +17867,8 @@
         ],
         "description": ""
     },
-    "J-18 ": {
-        "code": "J-18 ",
+    "J-18": {
+        "code": "J-18",
         "title": "putikarnah",
         "synonyms": [
             "pUtikarNaH",
@@ -17924,8 +17924,8 @@
         ],
         "description": ""
     },
-    "JA-1 ": {
-        "code": "JA-1 ",
+    "JA-1": {
+        "code": "JA-1",
         "title": "utpatah",
         "synonyms": [
             "उत्पातः",
@@ -17961,8 +17961,8 @@
         ],
         "description": ""
     },
-    "JA-5 ": {
-        "code": "JA-5 ",
+    "JA-5": {
+        "code": "JA-5",
         "title": "paripotakah",
         "synonyms": [
             "परिपोटकः",
@@ -17999,8 +17999,8 @@
         ],
         "description": ""
     },
-    "JA-9 ": {
-        "code": "JA-9 ",
+    "JA-9": {
+        "code": "JA-9",
         "title": "tantrikah",
         "synonyms": [
             "(a) tantrikaḥ",
@@ -18110,8 +18110,8 @@
         ],
         "description": ""
     },
-    "K-1 ": {
-        "code": "K-1 ",
+    "K-1": {
+        "code": "K-1",
         "title": "nijavranah",
         "synonyms": [
             "निजव्रणः",
@@ -18420,8 +18420,8 @@
         ],
         "description": "the disorder is characterized by śōpha [oedema]"
     },
-    "K-8 ": {
-        "code": "K-8 ",
+    "K-8": {
+        "code": "K-8",
         "title": "vrana-upadravah",
         "synonyms": [
             "व्रण-उपद्रवः",
@@ -18476,8 +18476,8 @@
         ],
         "description": ""
     },
-    "K-14 ": {
-        "code": "K-14 ",
+    "K-14": {
+        "code": "K-14",
         "title": "nadivranah",
         "synonyms": [
             "(a) nāḍīvraṇaḥ",
@@ -19842,8 +19842,8 @@
         ],
         "description": ""
     },
-    "LF-1 ": {
-        "code": "LF-1 ",
+    "LF-1": {
+        "code": "LF-1",
         "title": "amasopacedah",
         "synonyms": [
             "(a) āmaśophachedaḥ",
@@ -20172,8 +20172,8 @@
         ],
         "description": ""
     },
-    "MA ": {
-        "code": "MA ",
+    "MA": {
+        "code": "MA",
         "title": "nadikalpana-vyapat",
         "synonyms": [
             "nADIkalpana-vyApat",
@@ -20422,8 +20422,8 @@
         ],
         "description": "the disorder is characterized by chardiḥ [vomiting], jaḍatā [dullness/ frigidity/inactiveness], nidrānvita [sleepiness], lālāluḥ [excessive salivation], śūn vaktra [swollen face], śūnākṣa [swollen eyes], ślēṣmarōgavān [clinical features of kapha disease]"
     },
-    "MD-1 ": {
-        "code": "MD-1 ",
+    "MD-1": {
+        "code": "MD-1",
         "title": "dantodgamah",
         "synonyms": [
             "dantodgamaH",
@@ -20462,8 +20462,8 @@
         ],
         "description": ""
     },
-    "MD-5 ": {
-        "code": "MD-5 ",
+    "MD-5": {
+        "code": "MD-5",
         "title": "ahiputana/ahiputanakah",
         "synonyms": [
             "ahipUtanA/ahipUtanakaH",
@@ -20492,8 +20492,8 @@
         ],
         "description": "It is characterised by redness and swelling in anal region. This may be explained by: (a) Vitiated pitta localising in the anal region."
     },
-    "MD-8 ": {
-        "code": "MD-8 ",
+    "MD-8": {
+        "code": "MD-8",
         "title": "talukantakah",
         "synonyms": [
             "तालुकण्टकः",
@@ -20502,8 +20502,8 @@
         ],
         "description": ""
     },
-    "MD-9 ": {
-        "code": "MD-9 ",
+    "MD-9": {
+        "code": "MD-9",
         "title": "viccinnah",
         "synonyms": [
             "vicCinnaH",
@@ -20572,8 +20572,8 @@
         ],
         "description": ""
     },
-    "MD-16 ": {
-        "code": "MD-16 ",
+    "MD-16": {
+        "code": "MD-16",
         "title": "mahapadmah",
         "synonyms": [
             "महापद्मः",
@@ -20582,8 +20582,8 @@
         ],
         "description": ""
     },
-    "MD-17 ": {
-        "code": "MD-17 ",
+    "MD-17": {
+        "code": "MD-17",
         "title": "pakka-rogah",
         "synonyms": [
             "(a) phakka-rogaḥ",
@@ -20612,8 +20612,8 @@
         ],
         "description": "the disorder is characterized by vibandhaḥ [constipation], vamathuḥ [vomiting], standaṁśa [biting of the breast], āntrakūjan [barborygmus/ gurgling sound of intestines], ādhmān [abdominal distension], pr̥ṣṭha naman [bending the back], jaṭharōnnamanaiḥ [elevating the abdomen]"
     },
-    "MD-20 ": {
-        "code": "MD-20 ",
+    "MD-20": {
+        "code": "MD-20",
         "title": "bala-hrudayaruk",
         "synonyms": [
             "(a) hṛdayaruk",
@@ -20622,8 +20622,8 @@
         ],
         "description": ""
     },
-    "MD-21 ": {
-        "code": "MD-21 ",
+    "MD-21": {
+        "code": "MD-21",
         "title": "bala-guhyaruk",
         "synonyms": [
             "(a) guhyaruk",
@@ -20862,8 +20862,8 @@
         ],
         "description": "the disorder is characterized by hr̥llāsaḥ [nausea], āsya sṁsravaṇam [salivation], arōcakaḥ [tastelessness], avipākaḥ [indigestion], jvaraḥ [fever], mūrcchā [syncope/attacks of swooning], jr̥mbhā [yawning], kṣavathuḥ [sneezing], ānāhaḥ [barborygmus with distention], aṁgamarda [gheneralized bodyache], chardiḥ [vomiting], kārśya [emaciation], pāruṣyam [roughness/dryness], pīnasa [cold, catarrh]"
     },
-    "NB-2.2 ": {
-        "code": "NB-2.2 ",
+    "NB-2.2": {
+        "code": "NB-2.2",
         "title": "udaradah/udaraveshtah",
         "synonyms": [
             "udarAdaH/udarAveShTaH",
@@ -20972,8 +20972,8 @@
         ],
         "description": "the disorder is characterized by śirōrōga [diseases of head], hr̥drōga [diseases of heart], vamathu [vomiting], pratiśyāyaḥ [cold, catarrh]"
     },
-    "NB-3 ": {
-        "code": "NB-3 ",
+    "NB-3": {
+        "code": "NB-3",
         "title": "purishajakrumih",
         "synonyms": [
             "(a) purīṣajakṛmiḥ",
@@ -21161,8 +21161,8 @@
         ],
         "description": "the disorder is characterized by antardāhaḥ yukta sphōṭāḥ [blisters with internal burning sensation], kakṣābhāgēṣu sphōṭāḥ [blisters in axilla], jvaraḥ [fever], dīptapāvakasannibhaḥ sphōṭāḥ(agnyābhā) [blisters resemble blazing of fire], māṁsa dāraṇa (dāruṇa) sphōṭāḥ [blisters burrowing muscle]"
     },
-    "O-2 ": {
-        "code": "O-2 ",
+    "O-2": {
+        "code": "O-2",
         "title": "ajagallika",
         "synonyms": [
             "(a) ajagallikā",
@@ -21171,8 +21171,8 @@
         ],
         "description": ""
     },
-    "O-3 ": {
-        "code": "O-3 ",
+    "O-3": {
+        "code": "O-3",
         "title": "anusayi",
         "synonyms": [
             "anuSayI",
@@ -21181,8 +21181,8 @@
         ],
         "description": ""
     },
-    "O-4 ": {
-        "code": "O-4 ",
+    "O-4": {
+        "code": "O-4",
         "title": "andhalaji/antralaji",
         "synonyms": [
             "andhAlajI/antrAlajI",
@@ -21191,8 +21191,8 @@
         ],
         "description": ""
     },
-    "O-5 ": {
-        "code": "O-5 ",
+    "O-5": {
+        "code": "O-5",
         "title": "avapidakah",
         "synonyms": [
             "अवपीडकः",
@@ -21221,8 +21221,8 @@
         ],
         "description": "It is characterised by multiple opening lesion and excessive soddening in the scalp. This may be explained by: (a) Vitiated kapha and blood localising over the scalp."
     },
-    "O-8 ": {
-        "code": "O-8 ",
+    "O-8": {
+        "code": "O-8",
         "title": "indraviddha",
         "synonyms": [
             "indraviddhA",
@@ -21231,8 +21231,8 @@
         ],
         "description": ""
     },
-    "O-9 ": {
-        "code": "O-9 ",
+    "O-9": {
+        "code": "O-9",
         "title": "utkothah",
         "synonyms": [
             "उत्कोठः",
@@ -21251,8 +21251,8 @@
         ],
         "description": "It is characterised by reddish raised circular rashes with itching. This may be explained by: (a) Vitiation of pittadosha and kaphadosha."
     },
-    "O-11 ": {
-        "code": "O-11 ",
+    "O-11": {
+        "code": "O-11",
         "title": "irivellika",
         "synonyms": [
             "irivellikA",
@@ -21271,8 +21271,8 @@
         ],
         "description": ""
     },
-    "O-13 ": {
-        "code": "O-13 ",
+    "O-13": {
+        "code": "O-13",
         "title": "kaccapika",
         "synonyms": [
             "(a) kacchapikā",
@@ -21281,8 +21281,8 @@
         ],
         "description": ""
     },
-    "O-14 ": {
-        "code": "O-14 ",
+    "O-14": {
+        "code": "O-14",
         "title": "kadarah",
         "synonyms": [
             "कदरः",
@@ -21291,8 +21291,8 @@
         ],
         "description": ""
     },
-    "O-15 ": {
-        "code": "O-15 ",
+    "O-15": {
+        "code": "O-15",
         "title": "kunakhah",
         "synonyms": [
             "(a) kunakhaḥ",
@@ -21301,8 +21301,8 @@
         ],
         "description": ""
     },
-    "O-16 ": {
-        "code": "O-16 ",
+    "O-16": {
+        "code": "O-16",
         "title": "gandhanama/gandhamala",
         "synonyms": [
             "(a) gandhanāmā, (a) gandhamālā",
@@ -21311,8 +21311,8 @@
         ],
         "description": ""
     },
-    "O-17 ": {
-        "code": "O-17 ",
+    "O-17": {
+        "code": "O-17",
         "title": "gardabika",
         "synonyms": [
             "(a) gardabhikā",
@@ -21371,8 +21371,8 @@
         ],
         "description": "the disorder is characterized by tvak savarṇa kīlaḥ [Skin coloured nail like projection], grathita kīlaḥ [knotted nail like projection over skin surface], snigdha kīlaḥ [unctuous nail like projection]"
     },
-    "O-20 ": {
-        "code": "O-20 ",
+    "O-20": {
+        "code": "O-20",
         "title": "cipyam/akshata/upanakha",
         "synonyms": [
             "चिप्यम्/अक्षता/उपनख",
@@ -21391,8 +21391,8 @@
         ],
         "description": "It is characterised by congential blackish, reddish painless circular lesion. This may be explained by: (a) Vitiated kaphadosha and blood."
     },
-    "O-22 ": {
-        "code": "O-22 ",
+    "O-22": {
+        "code": "O-22",
         "title": "jalagardabah",
         "synonyms": [
             "(a) jālagardabhaḥ",
@@ -21411,8 +21411,8 @@
         ],
         "description": "It is characterised by appearance of black spots on the body, painless. This may be explained by: (a) Vitiation of all the three dosha."
     },
-    "O-24 ": {
-        "code": "O-24 ",
+    "O-24": {
+        "code": "O-24",
         "title": "nyaccah",
         "synonyms": [
             "(a) nyacchaḥ",
@@ -21431,8 +21431,8 @@
         ],
         "description": "It is characterised by obstruction of urethral meatus with the non retractable foreskin. This may be explained by: (a) Associated with local pain, dysuria, dribbling of urine."
     },
-    "O-26 ": {
-        "code": "O-26 ",
+    "O-26": {
+        "code": "O-26",
         "title": "nilika",
         "synonyms": [
             "नीलिका",
@@ -21461,8 +21461,8 @@
         ],
         "description": "It is characterised by the complete, partial loss of sensation of any organ of the body and feeling of smoothness and restricted movements. This may be explained by: (a) Vitiation of vata, kapha affecting whole body"
     },
-    "O-29 ": {
-        "code": "O-29 ",
+    "O-29": {
+        "code": "O-29",
         "title": "padminikantakah",
         "synonyms": [
             "पद्मिनीकण्टकः",
@@ -21471,8 +21471,8 @@
         ],
         "description": ""
     },
-    "O-30 ": {
-        "code": "O-30 ",
+    "O-30": {
+        "code": "O-30",
         "title": "parivartika",
         "synonyms": [
             "(a) parivartikā",
@@ -21531,8 +21531,8 @@
         ],
         "description": "the disorder is characterized by avēdanā maṇḍalaḥ gātrēṣu [painless round lesions in the body], māṣavat maṇḍalaḥ [lesion that appear like māṣa (black gram)], kr̥ṣṇa maṇḍalaḥ [blackish coloured lesion], utsanna maṇḍalaḥ [elevated from the skin surface]"
     },
-    "O-34 ": {
-        "code": "O-34 ",
+    "O-34": {
+        "code": "O-34",
         "title": "yavaprakhya",
         "synonyms": [
             "yavaprakhyA",
@@ -21561,8 +21561,8 @@
         ],
         "description": "It is characterised by appearance of multiple small prickly eruptions all over the skin. This may be explained by: (a) It is caused due to increased pitta."
     },
-    "O-37 ": {
-        "code": "O-37 ",
+    "O-37": {
+        "code": "O-37",
         "title": "la~jcanam",
         "synonyms": [
             "लाञ्छनम्",
@@ -21591,8 +21591,8 @@
         ],
         "description": "It is characterised by falling of hair in the form of patches from scalp, beard and eyebrows leaving shiny patches. This may be explained by: (a) Aggravated vatadosha and pittadosha affecting the hair roots."
     },
-    "O-40 ": {
-        "code": "O-40 ",
+    "O-40": {
+        "code": "O-40",
         "title": "varahadamshtrakah",
         "synonyms": [
             "(a) varāhadaṃṣṭrakaḥ",
@@ -21601,8 +21601,8 @@
         ],
         "description": ""
     },
-    "O-41 ": {
-        "code": "O-41 ",
+    "O-41": {
+        "code": "O-41",
         "title": "valmikah",
         "synonyms": [
             "valmIkaH",
@@ -21661,8 +21661,8 @@
         ],
         "description": ""
     },
-    "O-43 ": {
-        "code": "O-43 ",
+    "O-43": {
+        "code": "O-43",
         "title": "vidarika",
         "synonyms": [
             "विदारिका",
@@ -21671,8 +21671,8 @@
         ],
         "description": ""
     },
-    "O-44 ": {
-        "code": "O-44 ",
+    "O-44": {
+        "code": "O-44",
         "title": "vivruta",
         "synonyms": [
             "विवृता",
@@ -21681,8 +21681,8 @@
         ],
         "description": ""
     },
-    "O-45 ": {
-        "code": "O-45 ",
+    "O-45": {
+        "code": "O-45",
         "title": "viddha",
         "synonyms": [
             "viddhA",
@@ -21791,8 +21791,8 @@
         ],
         "description": "the disorder is characterized by jvaraḥ [fever], alpaprapākavān [tendency for mild suppuration], kaṭhina sphōṭa [hard vesicles], chardiḥ [vomiting], tandrā [drowsiness/lassitude], tr̥ṣṇā [thirst], dāhaḥ [burning sensation], pralāpa [excess talking/irrelevant speech/incoherent speech], madhyē nimnōnnatō antē [lesions depressed in centre and raised in the periphery], mūrcchā [syncope/attacks of swooning], mōhaḥ [confusion/delirium], rāga [redness/congestion], rujā [pain], vēpathuḥ [shivering/tremors]"
     },
-    "O-47 ": {
-        "code": "O-47 ",
+    "O-47": {
+        "code": "O-47",
         "title": "vrushanakaccuh",
         "synonyms": [
             "vRuShaNakacCUH",
@@ -21801,8 +21801,8 @@
         ],
         "description": ""
     },
-    "O-48 ": {
-        "code": "O-48 ",
+    "O-48": {
+        "code": "O-48",
         "title": "sarkararbudah",
         "synonyms": [
             "SarkarArbudaH",
@@ -21811,8 +21811,8 @@
         ],
         "description": ""
     },
-    "O-49 ": {
-        "code": "O-49 ",
+    "O-49": {
+        "code": "O-49",
         "title": "sanniruddhagudah",
         "synonyms": [
             "sanniruddhagudaH",
@@ -21821,8 +21821,8 @@
         ],
         "description": ""
     },
-    "O-50 ": {
-        "code": "O-50 ",
+    "O-50": {
+        "code": "O-50",
         "title": "syavapindika",
         "synonyms": [
             "(a) śyāvapiṇḍikā",
@@ -21851,8 +21851,8 @@
         ],
         "description": "It is characterised by feeling of nausea, water brash and distress in the cardiac area. This may be explained by: (a) Decreased digestive fever, increased salty kapha and vata."
     },
-    "O-53 ": {
-        "code": "O-53 ",
+    "O-53": {
+        "code": "O-53",
         "title": "glanih",
         "synonyms": [
             "glAniH",
@@ -22391,8 +22391,8 @@
         ],
         "description": "the disorder is characterized by skandhasya bhaṅgaḥ [paralysis of the muscles in the shoulder girdle]"
     },
-    "PC ": {
-        "code": "PC ",
+    "PC": {
+        "code": "PC",
         "title": "sthavaravishah",
         "synonyms": [
             "(a) sthāvaraviṣaḥ",
@@ -22481,8 +22481,8 @@
         ],
         "description": "the disorder is characterized by phēnāgamaḥ [frothing from mouth], viḍbhēdaḥ [altered stools/ loose motions], gurujihvatā [heaviness of the tongue]"
     },
-    "PC-9 ": {
-        "code": "PC-9 ",
+    "PC-9": {
+        "code": "PC-9",
         "title": "dhatu-vishah",
         "synonyms": [
             "(a) dhātu-viṣaḥ",
@@ -22781,8 +22781,8 @@
         ],
         "description": "the disorder is characterized by jvaraḥ [fever], dāhaḥ [burning sensation], hikkā [hiccup], ānāhaḥ [barborygmus with distention], śukra-saṁkṣayam [loss of śukra/ semen], śōphaḥ [oedema], atisāraḥ [diarrhoea], mūrcchā [syncope/attacks of swooning], hr̥drōgaḥ [diseases of heart], jaṭharaḥ [abdominal distention], unmādaḥ [insanity], vēpathuḥ [shivering/tremors]"
     },
-    "PE ": {
-        "code": "PE ",
+    "PE": {
+        "code": "PE",
         "title": "ja~ggamavishah",
         "synonyms": [
             "ja~ggamaviShaH",
@@ -24311,8 +24311,8 @@
         ],
         "description": "It is characterised by altered appetite, weakness, emaciation, lack of concentration. This may be explained by: (a) Vitiation of Vata, leading to decreased body strength."
     },
-    "Q-2 ": {
-        "code": "Q-2 ",
+    "Q-2": {
+        "code": "Q-2",
         "title": "atimatraharah/aharatiyogah",
         "synonyms": [
             "atimAtrAhAraH/AhArAtiyogaH",
@@ -24321,8 +24321,8 @@
         ],
         "description": ""
     },
-    "Q-3 ": {
-        "code": "Q-3 ",
+    "Q-3": {
+        "code": "Q-3",
         "title": "viruddhannabojanam/viruddhaharah",
         "synonyms": [
             "viruddhAnnaBojanam/viruddhAhAraH",
@@ -24331,8 +24331,8 @@
         ],
         "description": ""
     },
-    "Q-4 ": {
-        "code": "Q-4 ",
+    "Q-4": {
+        "code": "Q-4",
         "title": "ja~ggalamamsatyupayogah",
         "synonyms": [
             "जाङ्गलमांसात्युपयोगः",
@@ -24351,8 +24351,8 @@
         ],
         "description": "the disorder is characterized by bāḍham uṣṇam [extreme hot], jaḍatākaram [dullness/ frigidity/inactiveness], laghu [light in nature], śākhāvātaharam [relives vāta in śākha], sāmlalavaṇam [salty and sour]"
     },
-    "Q-6 ": {
-        "code": "Q-6 ",
+    "Q-6": {
+        "code": "Q-6",
         "title": "ushnavirya-dravyatiyogah/agneya-dravyatiyogah",
         "synonyms": [
             "uShNavIrya-dravyAtiyogaH/Agneya-dravyAtiyogaH",
@@ -24361,8 +24361,8 @@
         ],
         "description": ""
     },
-    "Q-7 ": {
-        "code": "Q-7 ",
+    "Q-7": {
+        "code": "Q-7",
         "title": "navaguda-atyupayogah",
         "synonyms": [
             "(a) navaguḍa-atyupayogaḥ",
@@ -24371,8 +24371,8 @@
         ],
         "description": ""
     },
-    "Q-8 ": {
-        "code": "Q-8 ",
+    "Q-8": {
+        "code": "Q-8",
         "title": "salidhanya-atiyogah",
         "synonyms": [
             "शालिधान्य-अतियोगः",
@@ -24381,8 +24381,8 @@
         ],
         "description": ""
     },
-    "Q-9 ": {
-        "code": "Q-9 ",
+    "Q-9": {
+        "code": "Q-9",
         "title": "tailasevana-atiyogah",
         "synonyms": [
             "(a) tailasevana-atiyogaḥ",
@@ -24401,8 +24401,8 @@
         ],
         "description": ""
     },
-    "Q-11 ": {
-        "code": "Q-11 ",
+    "Q-11": {
+        "code": "Q-11",
         "title": "dadhi-mithyopayogah",
         "synonyms": [
             "dadhi-mithyopayogaH",
@@ -24411,8 +24411,8 @@
         ],
         "description": ""
     },
-    "Q-12 ": {
-        "code": "Q-12 ",
+    "Q-12": {
+        "code": "Q-12",
         "title": "rasatiyogah",
         "synonyms": [
             "(a) rasātiyogaḥ",
@@ -24481,8 +24481,8 @@
         ],
         "description": "the disorder is characterized by āsyaśōṣaḥ [dryness in mouth], hr̥dayapīḍanam [pain in the pericordial region/ angina pectoris], udarādhmāpanam/udarādhmānam/ādhmānam [abdominal distention], vācaṁ nigr̥hṇāti/vākyagrahaḥ [chocked voice], srōtāṁsi avabadhnāti/srōtōbandham/srōtōrōdhaḥ [obstruction to flow of srōtas], śyāvatvam [brownish discolouration], puṁstvam upahanti / pauruṣabhraṁśaḥ [impotence/loss of sexual vigor], viṣṭabhya jarāṁ gacchati [early aging], vātam avagr̥hṇāti / vātasaṅgaḥ [obstuction to flow of vāyu], mūtram avagr̥hṇāti / mūtrasaṅgaḥ [urinary retention], purīṣam avagr̥hṇāti / viṭsaṅgaḥ [constipation], rētāṁsi avagr̥hṇāti [obstruction to flow of semen], karśayati/kārśyam [emaciation], glapayati [fatigue in mind and body], tarṣayati/tr̥ṣṇā/tr̥ṭ [thirst], stambhayati/stambhaḥ [stiffness], pakṣavadhaḥ/pakṣāghātaḥ [hemiplegia/ hemiparesis], grahaḥ [rigidity], apatānakaḥ [spasmodic contractions /convulsions of body], arditaḥ [facial paralysis], hr̥tpīḍā/hr̥druk [precordial pain/cardiac pain], manyāstambhaḥ [torticollis/stiffness of neck], gātrasphuraṇam [flickering/ twitching in various parts of body], cumucumāyanam [skin irritation as if application of mustard paste], ākuñcanam [contractions], ākṣēpaṇam / ākṣēpakaḥ [convulsion], śukrōparōdham [obstruction to flow of semen], viṣṭambhaḥ [constipation/fullness in the abdomen], malagrahaḥ [constipation]"
     },
-    "R ": {
-        "code": "R ",
+    "R": {
+        "code": "R",
         "title": "viharavaishamyam",
         "synonyms": [
             "vihAravaiShamyam",
@@ -24511,8 +24511,8 @@
         ],
         "description": "It is characterised by loss of sleep, heaviness of head, body pain. This may be explained by: (a) It is caused due to increased vata."
     },
-    "RA-2 ": {
-        "code": "RA-2 ",
+    "RA-2": {
+        "code": "RA-2",
         "title": "akalasayanam",
         "synonyms": [
             "(a) akālaśayanam",
@@ -24531,8 +24531,8 @@
         ],
         "description": ""
     },
-    "RA-4 ": {
-        "code": "RA-4 ",
+    "RA-4": {
+        "code": "RA-4",
         "title": "divasvapna-upadravah",
         "synonyms": [
             "(a) divāsvapna-upadravaḥ",
@@ -24541,8 +24541,8 @@
         ],
         "description": ""
     },
-    "RB ": {
-        "code": "RB ",
+    "RB": {
+        "code": "RB",
         "title": "rutucarya-vaishamyam",
         "synonyms": [
             "ऋतुचर्या-वैषम्यम्",
@@ -24551,8 +24551,8 @@
         ],
         "description": ""
     },
-    "RB-1 ": {
-        "code": "RB-1 ",
+    "RB-1": {
+        "code": "RB-1",
         "title": "rutu-apacarah",
         "synonyms": [
             "Rutu-apacAraH",
@@ -24741,8 +24741,8 @@
         ],
         "description": ""
     },
-    "RE-1 ": {
-        "code": "RE-1 ",
+    "RE-1": {
+        "code": "RE-1",
         "title": "vyavayamithyayogah/mithyavyavaya",
         "synonyms": [
             "vyavAyamithyAyogaH/mithyAvyavAya",
@@ -24751,8 +24751,8 @@
         ],
         "description": ""
     },
-    "RE-2 ": {
-        "code": "RE-2 ",
+    "RE-2": {
+        "code": "RE-2",
         "title": "vyavayatiyogah",
         "synonyms": [
             "vyavAyAtiyogaH",
@@ -24761,8 +24761,8 @@
         ],
         "description": ""
     },
-    "RF ": {
-        "code": "RF ",
+    "RF": {
+        "code": "RF",
         "title": "vyayama-vaishamyam",
         "synonyms": [
             "व्यायाम-वैषम्यम्",
@@ -24771,8 +24771,8 @@
         ],
         "description": ""
     },
-    "RF-1 ": {
-        "code": "RF-1 ",
+    "RF-1": {
+        "code": "RF-1",
         "title": "ativyayamah/vyayamatiyogah",
         "synonyms": [
             "(a) ativyāyāmaḥ,                      (a) vyāyāmātiyogaḥ",
@@ -24781,8 +24781,8 @@
         ],
         "description": ""
     },
-    "RF-2 ": {
-        "code": "RF-2 ",
+    "RF-2": {
+        "code": "RF-2",
         "title": "avyayamah",
         "synonyms": [
             "अव्यायामः",
@@ -27867,8 +27867,8 @@
         ],
         "description": ""
     },
-    "VE-1.1 ": {
-        "code": "VE-1.1 ",
+    "VE-1.1": {
+        "code": "VE-1.1",
         "title": "brahmakayah",
         "synonyms": [
             "brahmakAyaH",
@@ -27877,8 +27877,8 @@
         ],
         "description": ""
     },
-    "VE-1.2 ": {
-        "code": "VE-1.2 ",
+    "VE-1.2": {
+        "code": "VE-1.2",
         "title": "mahendrakayah",
         "synonyms": [
             "mAhendrakAyaH",
@@ -27887,8 +27887,8 @@
         ],
         "description": ""
     },
-    "VE-1.3 ": {
-        "code": "VE-1.3 ",
+    "VE-1.3": {
+        "code": "VE-1.3",
         "title": "varunakayah",
         "synonyms": [
             "(a) vāruṇakāyaḥ (a) vāruṇasattvaṃ",
@@ -27897,8 +27897,8 @@
         ],
         "description": ""
     },
-    "VE-1.4 ": {
-        "code": "VE-1.4 ",
+    "VE-1.4": {
+        "code": "VE-1.4",
         "title": "kauberakayah",
         "synonyms": [
             "(a) kaubērakāyaḥ (a) kauberasattvaṃ",
@@ -27907,8 +27907,8 @@
         ],
         "description": ""
     },
-    "VE-1.5 ": {
-        "code": "VE-1.5 ",
+    "VE-1.5": {
+        "code": "VE-1.5",
         "title": "gandharvakayah",
         "synonyms": [
             "(a) gandharvakāyaḥ (a) gāndharvasattvaṃ",
@@ -27917,8 +27917,8 @@
         ],
         "description": ""
     },
-    "VE-1.6 ": {
-        "code": "VE-1.6 ",
+    "VE-1.6": {
+        "code": "VE-1.6",
         "title": "yamyakayah",
         "synonyms": [
             "yAmyakAyaH",
@@ -27927,8 +27927,8 @@
         ],
         "description": ""
     },
-    "VE-1.7 ": {
-        "code": "VE-1.7 ",
+    "VE-1.7": {
+        "code": "VE-1.7",
         "title": "rushikayah",
         "synonyms": [
             "RuShikAyaH",
@@ -27937,8 +27937,8 @@
         ],
         "description": ""
     },
-    "VE-2 ": {
-        "code": "VE-2 ",
+    "VE-2": {
+        "code": "VE-2",
         "title": "rajasikakayah",
         "synonyms": [
             "(a) rājasikakāya",
@@ -27947,8 +27947,8 @@
         ],
         "description": ""
     },
-    "VE-2.1 ": {
-        "code": "VE-2.1 ",
+    "VE-2.1": {
+        "code": "VE-2.1",
         "title": "asurakayah",
         "synonyms": [
             "AsurakAyaH",
@@ -27957,8 +27957,8 @@
         ],
         "description": ""
     },
-    "VE-2.2 ": {
-        "code": "VE-2.2 ",
+    "VE-2.2": {
+        "code": "VE-2.2",
         "title": "sarpakayah",
         "synonyms": [
             "(a) sarpakāyaḥ (a) sarpasattvaṃ",
@@ -27967,8 +27967,8 @@
         ],
         "description": ""
     },
-    "VE-2.3 ": {
-        "code": "VE-2.3 ",
+    "VE-2.3": {
+        "code": "VE-2.3",
         "title": "sakunikayah",
         "synonyms": [
             "SAkunikAyaH",
@@ -27977,8 +27977,8 @@
         ],
         "description": ""
     },
-    "VE-2.4 ": {
-        "code": "VE-2.4 ",
+    "VE-2.4": {
+        "code": "VE-2.4",
         "title": "rakshasakayah",
         "synonyms": [
             "राक्षसकायः",
@@ -27987,8 +27987,8 @@
         ],
         "description": ""
     },
-    "VE-2.5 ": {
-        "code": "VE-2.5 ",
+    "VE-2.5": {
+        "code": "VE-2.5",
         "title": "paisacakayah",
         "synonyms": [
             "paiSAcakAyaH",
@@ -27997,8 +27997,8 @@
         ],
         "description": ""
     },
-    "VE-2.6 ": {
-        "code": "VE-2.6 ",
+    "VE-2.6": {
+        "code": "VE-2.6",
         "title": "pretakayah",
         "synonyms": [
             "(a) prētakāyaḥ/(a) pretasattvaṃ",
@@ -28007,8 +28007,8 @@
         ],
         "description": ""
     },
-    "VE-3 ": {
-        "code": "VE-3 ",
+    "VE-3": {
+        "code": "VE-3",
         "title": "tamasakayah",
         "synonyms": [
             "tAmasakAyaH",
@@ -28017,8 +28017,8 @@
         ],
         "description": ""
     },
-    "VE-3.1 ": {
-        "code": "VE-3.1 ",
+    "VE-3.1": {
+        "code": "VE-3.1",
         "title": "pasavakayah",
         "synonyms": [
             "(a) pāśavakāyaḥ (a) pāśavasattvaṃ",
@@ -28027,8 +28027,8 @@
         ],
         "description": ""
     },
-    "VE-3.2 ": {
-        "code": "VE-3.2 ",
+    "VE-3.2": {
+        "code": "VE-3.2",
         "title": "matsyakayah",
         "synonyms": [
             "मत्स्यकायः",
@@ -28037,8 +28037,8 @@
         ],
         "description": ""
     },
-    "VE-3.3 ": {
-        "code": "VE-3.3 ",
+    "VE-3.3": {
+        "code": "VE-3.3",
         "title": "vanaspatyakayah",
         "synonyms": [
             "वानस्पत्यकायः",
