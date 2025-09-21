@@ -1,4 +1,4 @@
-import json
+import json, # Mapper class from main
 
 with open("tm2_data_main.json", "r", encoding="utf-8") as f:
     icd_list = json.load(f)
