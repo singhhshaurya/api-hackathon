@@ -1,4 +1,4 @@
-final2 = []
+# import mapper, namaste_data_mapped from initialiser.
 
 
 def fetch_namaste_entry(namaste_code):
