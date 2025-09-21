@@ -1,11 +1,8 @@
-# from model_initialiser import namaste_list
-final = []
+final2 = []
 
 ctr = 0
-for nam in namaste_list:
-    ctr += 1
-    res = mapper.map_single(nam)
-    final.append({res['namaste_title']:[]}) 
-    for i in range(len(res['top_k'])):
-        final[-1][res['namaste_title']].append([res['top_k'][i]['code'], res['top_k'][i]['title'], res['top_k'][i]['sim_agg']])
+for namaste_entry in namaste_list:
+    top_matches = mapper.map_entry(namaste_entry)
+    final2.append({namaste_entry['title']:top_matches})
     print(ctr, 'done')
+    ctr += 1
