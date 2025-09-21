@@ -1,4 +1,3 @@
-# newer model - faster
 from typing import List, Dict
 from sentence_transformers import SentenceTransformer, util
 import numpy as np
@@ -86,6 +85,7 @@ class Mapper:
         # Encode Namaste variants
         namaste_texts = self._build_namaste_variants(namaste_entry)
         namaste_emb = self.model.encode(namaste_texts, convert_to_tensor=True)
+        namaste_emb = namaste_emb / namaste_emb.norm(p=2, dim=-1, keepdim=True)
 
         results = []
         for icd, icd_emb in zip(self.icd_entries, self.icd_embeddings):
@@ -101,3 +101,4 @@ class Mapper:
         # Sort top_k
         results = sorted(results, key=lambda x: x['similarity'], reverse=True)[:top_k]
         return results
+
