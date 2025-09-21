@@ -91,7 +91,7 @@ class Mapper:
         for icd, icd_emb in zip(self.icd_entries, self.icd_embeddings):
             # Compute cosine similarity
             sim_matrix = util.cos_sim(namaste_emb, icd_emb).cpu().numpy()
-            score = float(np.max(sim_matrix))
+            score = float(np.max(sim_matrix))-0.15
             results.append({
                 "icd_code": icd['code'],
                 "title":icd['title'],
