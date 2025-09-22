@@ -1,22 +1,22 @@
-from typing import List, Dict
+
 from sentence_transformers import SentenceTransformer, util
 import numpy as np
 import re
 import unidecode
 
 class Mapper:
-    def __init__(self, alias_map: Dict[str, List[str]], icd_entries: List[Dict], model_name: str = "all-MiniLM-L6-v2"):
+    def __init__(self, alias_map, icd_entries, model_name="all-MiniLM-L6-v2"):
         self.model = SentenceTransformer(model_name)
         self.alias_map = alias_map
         self.icd_entries = icd_entries
-        # Precompute ICD embeddings
-        self.icd_embeddings = []
+
+        self.icd_embeddings = []         # Precompute ICD embeddings
         for icd in icd_entries:
             icd_texts = self._build_icd_variants(icd)
             emb = self.model.encode(icd_texts, convert_to_tensor=True)
             self.icd_embeddings.append(emb)
 
-    def normalize_text(self, text: str) -> str:
+    def normalize_text(self, text):
         """
         Normalize text: remove diacritics, lowercase, strip punctuation.
         """
@@ -60,28 +60,28 @@ class Mapper:
             return tokens
         return words
         
-    def _build_namaste_variants(self, entry: Dict) -> List[str]:
+    def _build_namaste_variants(self, entry):
         variants = []
-        # title
-        title_norm = self.normalize_text(entry.get('title', ''))
+        
+        title_norm = self.normalize_text(entry.get('title', '')) # title
         variants.append(title_norm)
-        # synonyms
-        for syn in entry.get('synonyms', []):
+        
+        for syn in entry.get('synonyms', []): # synonyms
             variants.append(self.normalize_text(syn))
-        # aliases
-        if title_norm in self.alias_map:
+        
+        if title_norm in self.alias_map: # aliases
             for alias in self.alias_map[title_norm]:
                 variants.append(self.normalize_text(alias))
         return variants
 
-    def _build_icd_variants(self, icd: Dict) -> List[str]:
+    def _build_icd_variants(self, icd):
         variants = []
         variants.append(self.normalize_text(icd.get('title', '')))
         for syn in icd.get('synonyms', []):
             variants.append(self.normalize_text(syn))
         return variants
 
-    def map_entry(self, namaste_entry: Dict, top_k: int = 3) -> List[Dict]:
+    def map_entry(self, namaste_entry, top_k=3):
         # Encode Namaste variants
         namaste_texts = self._build_namaste_variants(namaste_entry)
         namaste_emb = self.model.encode(namaste_texts, convert_to_tensor=True)
