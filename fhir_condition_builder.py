@@ -43,8 +43,6 @@ def make_fhir_condition(
         "code": namaste_code,
         "display": namaste_display
     })
-
-    # add ICD entries as codings; include mappingCategory as an extension on each candidate
     extensions = []  # we'll also collect per-candidate extensions to attach globally if needed
     for idx, m in enumerate(mappings):
         score = float(m.get("similarity", 0.0))
@@ -56,8 +54,6 @@ def make_fhir_condition(
             "code": icd_code,
             "display": icd_display
         })
-        # per-candidate extension metadata (kept outside coding because FHIR coding.extensions are per-coding --
-        # we include a readable summary here and also attach a simpler global extension)
         extensions.append({
             "candidateIndex": idx,
             "system": ICD11_SYSTEM,
@@ -67,7 +63,6 @@ def make_fhir_condition(
             "mappingCategory": cat
         })
 
-    # Build the FHIR-like Condition resource
     condition = {
         "resourceType": "Condition",
         "id": resource_id,
