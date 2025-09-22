@@ -1,8 +1,8 @@
-# import mapper, namaste_data_mapped from initialiser.
+from model_initialiser import mapper, namaste_data_mapped
 import json
 from datetime import date
 
-# print(namaste_data_mapped)
+
 concept_map_index = {}
 
 concept_map = {
@@ -48,21 +48,17 @@ def add_to_concept_map(namaste_entry, top_matches):
     return entry
     
 
-
-
 def fetch_namaste_entry(namaste_code):
     if code in namaste_data_mapped:
         return namaste_data_mapped[namaste_code]
     else:
         return None
     
-# fetch_namaste_entry("AAB-51")
 
 def namaste_to_icd(namaste_code):
     # fetch namaste entry first.
     if namaste_code in concept_map_index:
         index = concept_map_index[namaste_code]
-        print("DORA")
         return concept_map['group'][0]['element'][index]
         
     namaste_entry = fetch_namaste_entry(namaste_code)
