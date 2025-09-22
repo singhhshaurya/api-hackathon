@@ -1,16 +1,15 @@
-
 from sentence_transformers import SentenceTransformer, util
 import numpy as np
 import re
-import unidecode
+import unicodedata
 
 class Mapper:
     def __init__(self, alias_map, icd_entries, model_name="all-MiniLM-L6-v2"):
         self.model = SentenceTransformer(model_name)
         self.alias_map = alias_map
         self.icd_entries = icd_entries
-
-        self.icd_embeddings = []         # Precompute ICD embeddings
+        # Precompute ICD embeddings
+        self.icd_embeddings = []
         for icd in icd_entries:
             icd_texts = self._build_icd_variants(icd)
             emb = self.model.encode(icd_texts, convert_to_tensor=True)
@@ -38,7 +37,7 @@ class Mapper:
         - Optionally joins medical phrases with underscores
         """
         STOPWORDS = {"due", "to", "of", "and", "or", "the", "a", "an", "with", "in"}
-        text = normalize_text(text)
+        text = self.normalize_text(text)
         
         words = text.split()
         words = [w for w in words if w not in STOPWORDS]
@@ -60,18 +59,20 @@ class Mapper:
             return tokens
         return words
         
-    def _build_namaste_variants(self, entry):
+    def _build_namaste_variants(self, entry): # prepares different text variations for one NAMASTE entry (Sanskrit/English/aliases), so that embeddings are more robust.
         variants = []
-        
-        title_norm = self.normalize_text(entry.get('title', '')) # title
-        variants.append(title_norm)
-        
-        for syn in entry.get('synonyms', []): # synonyms
-            variants.append(self.normalize_text(syn))
-        
-        if title_norm in self.alias_map: # aliases
+        # title
+        title_norm = self.normalize_text(entry.get('title', ''))
+        variants += self.tokenize(entry.get('title', ''))
+        # synonyms
+        for syn in entry.get('synonyms', []):
+            #variants.append(self.normalize_text(syn))
+            variants += self.tokenize(syn)
+        # aliases
+        if title_norm in self.alias_map:
             for alias in self.alias_map[title_norm]:
-                variants.append(self.normalize_text(alias))
+                # variants.append(self.normalize_text(alias))
+                variants += self.tokenize(alias)
         return variants
 
     def _build_icd_variants(self, icd):
@@ -81,24 +82,22 @@ class Mapper:
             variants.append(self.normalize_text(syn))
         return variants
 
-    def map_entry(self, namaste_entry, top_k=3):
+    def map_entry(self, namaste_entry, top_k = 3):
         # Encode Namaste variants
         namaste_texts = self._build_namaste_variants(namaste_entry)
-        namaste_emb = self.model.encode(namaste_texts, convert_to_tensor=True)
+        namaste_emb = self.model.encode(namaste_texts, convert_to_tensor=True) # one unified NAMASTE embedding that represents all its variants.
         namaste_emb = namaste_emb / namaste_emb.norm(p=2, dim=-1, keepdim=True)
 
         results = []
         for icd, icd_emb in zip(self.icd_entries, self.icd_embeddings):
             # Compute cosine similarity
             sim_matrix = util.cos_sim(namaste_emb, icd_emb).cpu().numpy()
-            score = float(np.max(sim_matrix))-0.15
+            score = float(np.max(sim_matrix))
             results.append({
                 "icd_code": icd['code'],
                 "title":icd['title'],
                 "similarity": score
             })
 
-        # Sort top_k
         results = sorted(results, key=lambda x: x['similarity'], reverse=True)[:top_k]
         return results
-
