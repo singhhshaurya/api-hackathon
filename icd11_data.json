@@ -1,0 +1,5205 @@
+[
+    {
+        "code": "SK00",
+        "title": "Cephalalgia disorder (TM2)",
+        "synonyms": [
+            "(a) śiraḥśūla",
+            " (b) Maṇṭaikkuttiyal",
+            " (c) Ṣudā‘",
+            "(a) śiroruk",
+            "Heaviness of head disorder (TM2)",
+            "(b) Maṇṭai kaṇappu",
+            "Scalp pain disorder (TM2)",
+            "(b) Maṇṭai cūlai",
+            "Aiya aggravation and headache disorder (TM2)",
+            "(b) Cilēṭṭuma talai nōkkāṭu",
+            "Mukkuṟṟam aggravation and headache disorder (TM2)",
+            "(b) Caṉṉivāta nōkkāṭu",
+            "Vaḷi aggravation and headache disorder (TM2)",
+            "(b) Vātattalai nōkkāṭu",
+            "Cluster headache disorder (TM2)",
+            "(b) Oru talaiyiṉ vartam",
+            "Circumferential headache disorder (TM2)",
+            "(c) Bayḍa-o-Khūdha",
+            "Organic Headache (TM2)",
+            "Helmet Headache (TM2)",
+            "Catarrhal headache disorder (TM2)",
+            "(c) Ṣudā‘ Nazlī",
+            "Headache due to weakness of brain disorder (TM2)",
+            "(c) Ṣudā‘ Ḍu‘f Dimāghī",
+            "Occipital headache due to hypertension disorder (TM2)",
+            "(b) SIratta pitta nōkkāṭu",
+            "Head disorder due to depletion of fundamental structural components disorder (TM2)",
+            "(a) kṣayajaśirorogaḥ",
+            "Temporal headache disorder (TM2)",
+            "(a) śaṅkhakaḥ",
+            "Throbbing headache disorder (TM2)",
+            "(c) Ṣudā‘ Ḍarabānī",
+            "Headache due to smell disorder (TM2)",
+            "(c) Ṣudā‘ Shammī",
+            "Trigeminal neuralgia disorder (TM2)",
+            "(a) anantavātaḥ",
+            "Referred headache due to the involvement of the liver disorder (TM2)",
+            "(c) Ṣudā‘ Shirkī Kabidī",
+            "Referred headache due to the involvement of the peritoneum disorder (TM2)",
+            "(c) Ṣudā‘ Marāqī",
+            "Referred headache due to the involvement of the stomach disorder (TM2)",
+            "(c) Ṣudā‘ Shirkī Mi‘dī",
+            "Headache due to derangement of Ṣafrā’ disorder (TM2)",
+            "(c) Ṣudā‘ Ṣafrāwī",
+            "Headache due to derangement of Balgham disorder (TM2)",
+            "(c) Ṣudā‘ Balghamī",
+            "Inflammatory headache disorder (TM2)",
+            "(c) Ṣudā‘ Waramī",
+            "Headache due to external Bukhārāt disorder (TM2)",
+            "(c) Ṣudā‘ Bukhārī Khārijī",
+            "Headache due to excessive coldness disorder (TM2)",
+            "(c) Ṣudā‘ Bārid",
+            "Headache due to excessive hotness disorder (TM2)",
+            "(c) Ṣudā‘ Ḥārr",
+            "Headache due to external Rīḥ disorder (TM2)",
+            "(c) Ṣudā‘ Rīḥī Khārijī",
+            "Headache due to derangement of Dam disorder (TM2)",
+            "(c) Ṣudā‘ Damawī",
+            "Headache due to derangement of Sawdā’ disorder (TM2)",
+            "(c) Ṣudā‘ Sawdāwī",
+            "Headache due to internal Bukhārāt disorder (TM2)",
+            "(c) Ṣudā‘ Bukhārī Dākhilī",
+            "Headache due to internal Rīḥ disorder (TM2)",
+            "(c) Ṣudā‘ Rīḥī Dākhilī",
+            "Sunshine induced cephalalgia disorder (TM2)",
+            "(a) sūryāvartaḥ",
+            "Headache due to infestation disorder (TM2)",
+            "(a) kṛmija-śirorogaḥ"
+        ]
+    },
+    {
+        "code": "SK01",
+        "title": "Migraine disorder (TM2)",
+        "synonyms": [
+            "(a) ardhāvabhedakaḥ (c) Shaqīqa",
+            "(b) Kapāla aẕaṟkuṇam",
+            "Acute migraine disorder (TM2)",
+            "(c) Shaqīqa Ḥārra",
+            "Migraine due to hot humours (TM2)",
+            "Chronic migraine disorder (TM2)",
+            "(c) Shaqīqa Bārida",
+            "Migraine due to cold humours (TM2)"
+        ]
+    },
+    {
+        "code": "SK0Y",
+        "title": "Other specified headache disorders (TM2)",
+        "synonyms": [
+            "Splitting pain of forehead disorder (TM2)",
+            "(a) lalāṭabhedaḥ"
+        ]
+    },
+    {
+        "code": "SK0Z",
+        "title": "Headache disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SK10",
+        "title": "Vertigo and giddiness disorder (TM2)",
+        "synonyms": [
+            "(a) bhramaḥ (b) Aẕal kiṟukiṟuppu (c) Sadr-o-Duwār",
+            "Vertigo and giddiness due to Balgham disorder (TM2)",
+            "(c) Sadr-o-Duwār Dimāghī Balghamī",
+            "Vertigo and giddiness due to Dam disorder (TM2)",
+            "(c) Sadr-o-Duwār Dimāghī Damawī",
+            "Vertigo and giddiness due to Ṣafrā’ disorder (TM2)",
+            "(c) Sadr-o-Duwār Dimāghī Ṣafrāwī",
+            "Vertigo and giddiness due to Sawdā’ disorder (TM2)",
+            "(c) Sadr-o-Duwār Dimāghī Sawdāwī",
+            "Secondary vertigo and giddiness disorder (TM2)",
+            "(c) Sadr-o-Duwār Shirkī"
+        ]
+    },
+    {
+        "code": "SK1Y",
+        "title": "Other specified nervous system disorders (TM2)",
+        "synonyms": []
+    },
+    {
+        "code": "SK1Z",
+        "title": "Nervous system disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SK20",
+        "title": "Facial palsy disorder (TM2)",
+        "synonyms": [
+            "(a) arditaḥ (b) Uraka vātam (c) Laqwa",
+            "Deviation of one side of face due to spasm of muscles disorder (TM2)",
+            "(c) Laqwa Tashannujī",
+            "Deviation of one side of face due to flaccidity of muscles disorder (TM2)",
+            "(c) Laqwa Istirkhā’ī"
+        ]
+    },
+    {
+        "code": "SK21",
+        "title": "Paraplegia disorder (TM2)",
+        "synonyms": [
+            "(a) paṅguḥ (c) Fālij Asfal",
+            "lameness (bilateral) / lower limb paralysis (TM2)",
+            "(a) pāṅgulyam (c) Fālij Aṭrāfī"
+        ]
+    },
+    {
+        "code": "SK22",
+        "title": "Hemiplegia disorder (TM2)",
+        "synonyms": [
+            "(a) pakṣāghāta (b) Pakṣavātam (c) Fālij",
+            "(a) pakṣavadhaḥ",
+            "Incomplete hemiplegia disorder (TM2)",
+            "(b) Pakka vātam",
+            "Hemiplegia in children disorder (TM2)",
+            "(a) bāla-pakṣāghātaḥ",
+            "Monoplegia disorder (TM2)",
+            "(a) ekāṅgavātaḥ",
+            "Total body paralysis disorder (TM2)",
+            "(a) sarvāṅgavātaḥ",
+            "Quadriplegia (TM2)",
+            "(a) sarvāṅgarogaḥ",
+            "Tongue paralysis disorder (TM2)",
+            "(a) jihvāstambhaḥ"
+        ]
+    },
+    {
+        "code": "SK2Y",
+        "title": "Other specified paralysis disorders (TM2)",
+        "synonyms": [
+            "Lameness (unilateral) disorder (TM2)",
+            "(a) khañjaḥ",
+            "(a) khañjatvam"
+        ]
+    },
+    {
+        "code": "SK2Z",
+        "title": "Paralysis disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SK30",
+        "title": "Seizure disorder (TM2)",
+        "synonyms": [
+            "(a) ākṣepakaḥ (b) Vaḷippu (c) Tashannuj",
+            "Whole body stiffness with immobility disorder (TM2)",
+            "(a) daṇḍakaḥ",
+            "Post-traumatic convulsion disorder (TM2)",
+            "(a) vraṇāyāmaḥ",
+            "Irremediable opisthotonos disorder (TM2)",
+            "(a) asādhyadhanuṣkaṃpa",
+            "Opisthotonos disorder (TM2)",
+            "(a) bahirāyāmaḥ (a) bāhyāyāmaḥ (a) dhanuḥstambhaḥ",
+            "Orthotonus disorder (TM2)",
+            "(a) apatānakaḥ",
+            "Orthotonus with rod like stiffness disorder (TM2)",
+            "(a) daṇḍāpatānakaḥ",
+            "Emprosthotonus disorder (TM2)",
+            "(a) antarāyāmaḥ",
+            "Convulsive fit disorder (TM2)",
+            "(a) apatantrakaḥ"
+        ]
+    },
+    {
+        "code": "SK31",
+        "title": "Epilepsy disorder (TM2)",
+        "synonyms": [
+            "(a) apasmāraḥ (b) Vaḷi ppu (c) Ṣar‘",
+            "Epilepsy due to Aiyam disorder (TM2)",
+            "(b) Kākkai Vaḷippu",
+            "Epilepsy due to derangement of Sawdā’ disorder (TM2)",
+            "(c) Ṣar‘ Dimāghī Sawdāwī",
+            "Grandmal epilepsy disorder (TM2)",
+            "(b) Vacaṉā vātam"
+        ]
+    },
+    {
+        "code": "SK3Y",
+        "title": "Other specified paroxysmal disorders (TM2)",
+        "synonyms": []
+    },
+    {
+        "code": "SK3Z",
+        "title": "Paroxysmal disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SK50",
+        "title": "Scalp affliction disorder (TM2)",
+        "synonyms": [
+            "(a) kapāla-rogaḥ (b) Kapāla tērai",
+            "Scalp tumour disorder (TM2)",
+            "(a) kapālarbudaḥ",
+            "Neurotrophic ulcer disorder (TM2)",
+            "(b) Cilaippuṇ",
+            "Numbness over scalp disorder (TM2)",
+            "(b) Maṇṭai timir",
+            "Brain disease disorder (TM2)",
+            "(b) Mūḷai nōy",
+            "Infection of palate disorder (TM2)",
+            "(a) tālukaṇṭakaḥ",
+            "Delirium caused by diseases of head disorder (TM2)",
+            "(b) Maṇṭai caṉṉi"
+        ]
+    },
+    {
+        "code": "SK51",
+        "title": "Cervicobrachial pain disorder (TM2)",
+        "synonyms": [
+            "(a) viśvācī (b) Cirakkampa vātam (c) Waja‘ al-‘Unuq ‘Aṣabī",
+            "(c) Wābila",
+            "Cervicobrachial neuralgia (TM2)",
+            "Peripheral neuritis disorder (TM2)",
+            "(a) Vātakarṣaṇam",
+            "Three humours affected leading to seizure disorder (TM2)",
+            "(b) Cuka caṉṉi",
+            "Tetanus disorder (TM2)",
+            "(b) Aṣṭa tantira vātam",
+            "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+            "(b) Timir pittam",
+            "Peripheral neuralgia disorder (TM2)",
+            "(b) Eripittam",
+            "Peripheral neuritis due to derangement of Vaḷi disorder (TM2)",
+            "(b) Vāta upakatam"
+        ]
+    },
+    {
+        "code": "SK52",
+        "title": "Tremor disorder (TM2)",
+        "synonyms": [
+            "(a) kampaḥ (b) Pāṇikkampa vātam (c) Ra‘sha",
+            "Parkinsonism (TM2)",
+            "Aggrevation of Aẕal causing tremors disorder (TM2)",
+            "(b) Naṭukku pittam",
+            "Head tremor disorder (TM2)",
+            "(a) śiraḥkampaḥ",
+            "Tremor due to cold impaired temperament disorder (TM2)",
+            "(c) Ra‘sha Bārid",
+            "Stiffness disorder (TM2)",
+            "(a) stambhaḥ",
+            "Rigidity (TM2)",
+            "Spasticity (TM2)",
+            "Tremor neck disorder (TM2)",
+            "(a) grīvāhuṇḍanam"
+        ]
+    },
+    {
+        "code": "SK53",
+        "title": "Stammering disorder (TM2)",
+        "synonyms": [
+            "(a) vāk-saṅgaḥ (b) Patita vātam (c) Loknat-e zabAn (c) Luknat"
+        ]
+    },
+    {
+        "code": "SK54",
+        "title": "Numbness disorder (TM2)",
+        "synonyms": [
+            "(a) prasuptiḥ (b) Vātakarṣaṇam (c) Khadar"
+        ]
+    },
+    {
+        "code": "SK55",
+        "title": "Weakness of thighs due to vata disorder (TM2)",
+        "synonyms": [
+            "(a) ūrustambhaḥ (b) Ūrustampavātam",
+            "Intractable stiff-thigh disorder (TM2)",
+            "(a) asādhya-ūrustambhaḥ"
+        ]
+    },
+    {
+        "code": "SK5Y",
+        "title": "Other specified head",
+        "synonyms": [
+            " brain",
+            " nerve and movement disorders (TM2)",
+            "Head and neck rigidity disorder (TM2)",
+            "(a) śirograhaḥ",
+            "(a) Grīvāśūla",
+            "Incoherent speech disorder (TM2)",
+            "(a) ghargharavākyatā",
+            "Foot drop disorder (TM2)",
+            "(a) pādabhraṃśaḥ",
+            "Lathyrism disorder (TM2)",
+            "(a) kalāyakhañjaḥ",
+            "Lock-jaw disorder (TM2)",
+            "(a) hanugrahaḥ (a) hanusraṃsa",
+            "Trismus (TM2)",
+            "Twitching eyebrow disorder (TM2)",
+            "(a) bhrūvyudāsaḥ",
+            "Cerebrasthenia disorder (TM2)",
+            "(c) Ḍu‘f al-Dimāgh",
+            "Obsession disorder (TM2)",
+            "(c) waswAs",
+            "Stroke disorder (TM2)",
+            "(c) sekteh",
+            "(c) Sakta",
+            "Stroke due to Balgham disorder (TM2)",
+            "(c) sekteh-ye balghami",
+            "(c) Sakta Balghamiyya",
+            "Stroke due to Sawdā ' disorder (TM2)",
+            "(c) sekteh-ye sowdAwi",
+            "(c) Sakta Sawdāwiyya",
+            "Ethmoid obstruction disorder (TM2)",
+            "(c) Sudda’-i-Miṣfāt",
+            "Morbid temperament of nerve disorder (TM2)",
+            "(c) sou-e mezAj-e asab",
+            "(c) Sū’-i-Mizāj ‘Aṣab",
+            "Nerve weakness disorder (TM2)",
+            "(c) za'f-e asab",
+            "(c) Ḍu‘f-i-‘Aṣab",
+            "Muscle distension disorder (TM2)",
+            "(c) tamaddod",
+            "(c) Tamaddud",
+            "Cold nerve disorder (TM2)",
+            "(c) maraz-e bAredeh asab",
+            "(c) Marad-i- ‘Aṣab Bārid"
+        ]
+    },
+    {
+        "code": "SK5Z",
+        "title": "Head",
+        "synonyms": [
+            " brain",
+            " nerve and movement disorders (TM2)",
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SK60",
+        "title": "Ocular hyperemia disorder (TM2)",
+        "synonyms": [
+            "(a) sirāpraharṣaḥ (b) Untu nerical (c) Takaddur Ṭabaqa al-Multaḥima",
+            "(a) Sirāharṣaḥ",
+            "Episcleritis disorder (TM2)",
+            "\"(a) sirotpātaḥ (b) Viraṇa nerical \""
+        ]
+    },
+    {
+        "code": "SK61",
+        "title": "Prolapse iris disorder (TM2)",
+        "synonyms": [
+            "(a) ajakājājta (c) Dhubābī",
+            "(a) ajakā (c) Ra’s al-Dhubābī",
+            "(b) Pūccāntiram"
+        ]
+    },
+    {
+        "code": "SK62",
+        "title": "Blepharitis disorder (TM2)",
+        "synonyms": [
+            "(a) vartmāvabandhakaḥ (b) Imai Taṭippu (c) Sulāq",
+            "(c) Bāmnī",
+            "Chronic blepharitis disorder (TM2)",
+            "(a) kṛmigranthiḥ",
+            "Pedicularis palpebrae (TM2)"
+        ]
+    },
+    {
+        "code": "SK63",
+        "title": "Day blindness disorder (TM2)",
+        "synonyms": [
+            "(a) pittavidagdhadṛṣṭi (b) Tūyakaṇ Kurutu (c) Jahar",
+            "(a) divāndhyam (c) Rozkorī"
+        ]
+    },
+    {
+        "code": "SK64",
+        "title": "Night blindness disorder (TM2)",
+        "synonyms": [
+            "(a) rātryāndhyam (b) Mālaikkaṇ (c) ‘Ashā’",
+            "(a) kaphavidagdhadṛṣṭi (c) Shabkorī",
+            "Night-blindness due to dosha disorder (TM2)",
+            "(a) doṣavidagdhadṛṣṭiḥ"
+        ]
+    },
+    {
+        "code": "SK65",
+        "title": "Cataract disorder (TM2)",
+        "synonyms": [
+            "(a) kācaḥ (b) Vaḷi kācam (c) Nuzūl al-Mā’",
+            "Partial or total blindness disorder (TM2)",
+            "(a) timiraḥ",
+            "Amaurosis (TM2)",
+            "Ametropia (TM2)",
+            "Partial obstruction of vision (TM2)",
+            "Cataract due to kapha disorder (TM2)",
+            "(a) ślaiṣmika-kācaḥ",
+            "Cararact due to three dosha disorder (TM2)",
+            "(a) sānnipātika-kācaḥ"
+        ]
+    },
+    {
+        "code": "SK66",
+        "title": "Conjunctivitis disorder (TM2)",
+        "synonyms": [
+            "\"(a) abhiṣyandaḥ (b) Aṉṉa kōpam (c) Ramad\"",
+            "(c) Āshob-i-Chashm",
+            "Allergic conjunctivitis disorder (TM2)",
+            "(b) Kaṇ tiṉavu",
+            "Conjunctivitis with eye lid inflammation disorder (TM2)",
+            "(a) praklinnavartma (a) kaphotkliṣṭa-vartma",
+            "Mucopurulent conjunctivitis disorder (TM2)",
+            "(a) apariklinnavartma",
+            "Ulcerative conjunctivitis disorder (TM2)",
+            "(a) bisavartma",
+            "Conjunctivitis due to derangement of Balgham disorder (TM2)",
+            "(c) Ramad Balghamī",
+            "Conjunctivitis derangement of Dam disorder (TM2)",
+            "(c) Ramad Damawī",
+            "Conjunctivitis due to derangement of Ṣafrā’ disorder (TM2)",
+            "(c) Ramad Ṣafrāwī",
+            "Conjunctivitis due to derangement of Sawdā’ disorder (TM2)",
+            "(c) Ramad Sawdāwī",
+            "Phlyctenular conjunctivitis disorder (TM2)",
+            "(a) parvaṇikā",
+            "Limbal nodules (TM2)",
+            "Corneal eye disease with fleshy growth disorder (TM2)",
+            "(b) Aannip Puu",
+            "Conjunctival tumor disorder (TM2)",
+            "(a) snāyvarma"
+        ]
+    },
+    {
+        "code": "SK67",
+        "title": "Corneal disorder (TM2)",
+        "synonyms": [
+            "(a) kṛṣṇagatarogaḥ (b) Karuviẕi nōyka (c) Amrāḍ-i-Ṭabaqa'-i-Qarniyya",
+            "Shrinking of cornea disorder (TM2)",
+            "(c) Yubs al-Qarniyya",
+            "Corneal ulcers disorder (TM2)",
+            "(a) savraṇaśukraḥ (b) Cōtikā viraṇam (c) Qurūḥ al-Qarniyya",
+            "Keratitis disorder (TM2)",
+            "\"(a) pākātyayaḥ (b) Ceri Veri\""
+        ]
+    },
+    {
+        "code": "SK68",
+        "title": "Tear sac swelling disorder (TM2)",
+        "synonyms": [
+            "(a) pūyālasaḥ (b) Kuvaḷaippaṭuvaṉ (c) Gharab Munfajir",
+            "Chronic dacrocystitis disorder (TM2)",
+            "(c) Gharab"
+        ]
+    },
+    {
+        "code": "SK69",
+        "title": "Eyelid cyst disorder (TM2)",
+        "synonyms": [
+            "(a) kumbhīkā (b) Viraṇap Paru (c) Sal‘a al-Ajfān"
+        ]
+    },
+    {
+        "code": "SK6A",
+        "title": "Dry eye disorder (TM2)",
+        "synonyms": [
+            "(a) śuṣkākṣipākaḥ (c) Yubs al-Qarniyya",
+            "(b) Aẕaṟṟi",
+            "Xeropthalmia disorder (TM2)",
+            "(a) śuṣkākṣipākaḥ"
+        ]
+    },
+    {
+        "code": "SK6B",
+        "title": "Ectropion disorder (TM2)",
+        "synonyms": [
+            "(b) Imaiyuyarcci (c) Shatra Khārijiyya"
+        ]
+    },
+    {
+        "code": "SK6C",
+        "title": "Pterygium disorder (TM2)",
+        "synonyms": [
+            "(a) prastāri-arma (b) Nākap paṭalam (c) Ẓafara",
+            "(c) Nākhūna",
+            "Progressive pterygium disorder (TM2)",
+            "(a) lohitārma",
+            " (a) kṣatārma",
+            "Pinguecula disorder (TM2)",
+            "(a) śuklārma"
+        ]
+    },
+    {
+        "code": "SK6D",
+        "title": "Lacrimation disorder (TM2)",
+        "synonyms": [
+            "(a) srāvaḥ (b) Nīr vari (c) Dam‘a"
+        ]
+    },
+    {
+        "code": "SK6E",
+        "title": "Trichiasis disorder (TM2)",
+        "synonyms": [
+            "(a) pakṣmakopaḥ (b) Muṭa mayir (c) Sha‘r Munqalib",
+            "(a) Pakṣmoparodhaḥ"
+        ]
+    },
+    {
+        "code": "SK6F",
+        "title": "Eyelid tumour disorder (TM2)",
+        "synonyms": [
+            "(a) vartmārbudaḥ (b) Tacai kaẕalai (c) Uqda al-‘Ayn",
+            "(c) Uqda’-i-Jafn"
+        ]
+    },
+    {
+        "code": "SK6G",
+        "title": "Hard swelling of eyelid disorder (TM2)",
+        "synonyms": [
+            "(a) śuṣkārśaḥ (c) Taḥajjur al-Ajfān",
+            "(b) Imai taṭippu"
+        ]
+    },
+    {
+        "code": "SK6H",
+        "title": "Eyelid wart disorder (TM2)",
+        "synonyms": [
+            "(a) vartmagata-raktārśaḥ (c) Tha’ālīl al-Ajfān"
+        ]
+    },
+    {
+        "code": "SK6J",
+        "title": "Excessive blinking disorder (TM2)",
+        "synonyms": [
+            "(a) nimeṣaḥ (c) Ṭarf al-Ajfān",
+            "(b) Avikāya viraṇam"
+        ]
+    },
+    {
+        "code": "SK6K",
+        "title": "Eyelid haematoma disorder (TM2)",
+        "synonyms": [
+            "(a) śyāvavartma (b) Irattakkaẕalai"
+        ]
+    },
+    {
+        "code": "SK6L",
+        "title": "Ptosis disorder (TM2)",
+        "synonyms": [
+            "(a) kṛcchronmīlaḥ (b) Viẕi vali (c) Istirkhā’ al-Jafn"
+        ]
+    },
+    {
+        "code": "SK6M",
+        "title": "Sticky eyelids disorder (TM2)",
+        "synonyms": [
+            "(a) śliṣṭa-vartma (c) Iltiṣāq al-Jafn",
+            "(b) Kuvaḷai nerital"
+        ]
+    },
+    {
+        "code": "SK6N",
+        "title": "Chalazion disorder (TM2)",
+        "synonyms": [
+            "(a) lagaṇaḥ (c) Barada",
+            "(b) Tacai kaẕalai"
+        ]
+    },
+    {
+        "code": "SK6P",
+        "title": "Stye disorder (TM2)",
+        "synonyms": [
+            "(a) añjananāmikā (b) Nīr paṟpa rōkam (c) Sha‘īra"
+        ]
+    },
+    {
+        "code": "SK6Q",
+        "title": "Ptilosis disorder (TM2)",
+        "synonyms": [
+            "(a) pakṣmaśātaḥ (b) Iratta Kaẕalai (c) Intithār al-Ahdāb"
+        ]
+    },
+    {
+        "code": "SK6R",
+        "title": "Non-inflammatory swelling of eye disorder (TM2)",
+        "synonyms": [
+            "(a) aśophapākaḥ (c) Intifākh Rīḥī",
+            "(b) Uruviẕi puṭaittal"
+        ]
+    },
+    {
+        "code": "SK6S",
+        "title": "Periorbital polyp disorder (TM2)",
+        "synonyms": [
+            "(a) netraja-arśaḥ (b) Viraṇap paru"
+        ]
+    },
+    {
+        "code": "SK6T",
+        "title": "Phlyctenular nodule disorder (TM2)",
+        "synonyms": [
+            "(a) sirājapiḍakā (c) Ramad Buthūrī",
+            "(a) sirāpiḍakā (c) Wadaqa",
+            "(b) Parumuḷai"
+        ]
+    },
+    {
+        "code": "SK6U",
+        "title": "Trachoma disorder (TM2)",
+        "synonyms": [
+            "(a) pothakī (b) Kuvaḷaipaṭuvaṉ (c) Jarab al-‘Ayn",
+            "Granulation of eyelids with eruptions similar to fig disorder (TM2)",
+            "(c) Jarab Tīnī (c) Suqūsalīs",
+            "Granulation of eyelids with eruptions similar to prickly heat disorder (TM2)",
+            "(c) Jarab Ḥaṣafī",
+            "Diffused granulation of eyelids disorder (TM2)",
+            "(c) Jarab Munbasiṭ",
+            "Papillary trachoma disorder (TM2)",
+            "(a) arśovartma"
+        ]
+    },
+    {
+        "code": "SK6V",
+        "title": "Corneal opacity disorder (TM2)",
+        "synonyms": [
+            "(a) avraṇaśukraḥ (b) Viraṇa Cukkiraṉ (c) Bayāḍ al-‘Ayn"
+        ]
+    },
+    {
+        "code": "SK6W",
+        "title": "Panopthalmitis disorder (TM2)",
+        "synonyms": [
+            "(a) saśophapākaḥ (b) Mataṉamantāram (c) Wardīnaj"
+        ]
+    },
+    {
+        "code": "SK6X",
+        "title": "Phthisis bulbi disorder (TM2)",
+        "synonyms": [
+            "(a) hatādhimanthaḥ (c) Sill al-‘Ayn"
+        ]
+    },
+    {
+        "code": "SK7Y",
+        "title": "Other specified eye disorders (TM2)",
+        "synonyms": [
+            "Blindness due to excess intake of food substances that produce burning sensation disorder (TM2)",
+            "(a) uṣṇavidagdhadṛṣṭiḥ (a) vidagdhoṣṇaḥ",
+            "(a) vidagdhoṣṇaḥ",
+            "Corneal eye disease with blindness and increased lacrimation disorder (TM2)",
+            "(b) Vaḷi kācam",
+            "Vascular keratitis disorder (TM2)",
+            "(c) Sabal",
+            "Pannus (TM2)",
+            "Corneal vascularisation disorder (TM2)",
+            "(a) sirāśukraḥ",
+            "Entropion disorder (TM2)",
+            "(a) vartmasaṅkocaḥ",
+            "(c) Shatra Dākhiliyya",
+            "Lagophthalmos disorder (TM2)",
+            "(c) Shatra (c) Inqilāb al-Jafn",
+            "(a) vātahata-vartma",
+            "Vitreous opacity disorder (TM2)",
+            "(b) Cuẕal vaṇṭerital",
+            "(b) Vāta pittam",
+            "Eyelid discoloration disorder (TM2)",
+            "(a) vartmakardamaḥ",
+            "Eyelid constriction disorder (TM2)",
+            "(a) kuñcanaḥ",
+            "Gravel eyelid disorder (TM2)",
+            "(a) sikatā-vartma",
+            "(a) vartmaśarkarā",
+            "Hordeolum internum disorder (TM2)",
+            "(a) utsaṅginī",
+            "Linear eyelid marks disorder (TM2)",
+            "(a) utkliṣṭavartma",
+            "Palpebral Spring catarrh disorder (TM2)",
+            "(a) kliṣṭavartma",
+            "Marginal chalazion disorder (TM2)",
+            "(a) upanāhaḥ",
+            "Dacryo cystitis disorder (TM2)",
+            "(b) Mayir puẕuveṭṭu",
+            "Eyelid pain due to pitta disorder (TM2)",
+            "(a) pittottkliṣṭaḥ",
+            "Multiple meibomitis disorder (TM2)",
+            "(a) bahalavartma",
+            "Phlyctens disorder (TM2)",
+            "(a) alajī",
+            "Bloodshot eye disorder (TM2)",
+            "(a) akṣipākaḥ",
+            "Chemosis disorder (TM2)",
+            "(a) amlādhyuṣitaḥ (a) amloṣita",
+            "Papilloma disorder (TM2)",
+            "(a) adhimāṃsajārma",
+            "Ocular pain disorder (TM2)",
+            "(a) vātaparyāyaḥ",
+            "Referred ocular pain disorder (TM2)",
+            "(a) anyatovātaḥ",
+            "Complete blindness disorder (TM2)",
+            "(a) liṅganāśaḥ",
+            "Haziness of vision disorder (TM2)",
+            "(a) dhūmadarśī (a) dhūmaraḥ",
+            "Maculopathy disorder (TM2)",
+            "(a) nakulāndhyam",
+            "Pthisis bulbi endophthalmity disorder (TM2)",
+            "(a) gambhīrā-dṛṣṭiḥ",
+            "Central Opacity of lens disorder (TM2)",
+            "(a) hrasvajāḍyam",
+            "Retinitis pigmentosa (TM2)",
+            "Sour-food induced eye disorder (TM2)",
+            "(a) vidagdhāmladṛṣṭiḥ",
+            "Sensitivity of eyes",
+            " blurred vision and long sightedness disorder (TM2)",
+            "(b) Veḷḷeẕuttu",
+            "Lymphangioma disorder (TM2)",
+            "(a) piṣṭakaḥ"
+        ]
+    },
+    {
+        "code": "SK7Z",
+        "title": "Eye disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SK80",
+        "title": "Ear abscess disorder (TM2)",
+        "synonyms": [
+            "(a) karṇa-vidradhiḥ (b) Curōṇita cevivaḷi (c) Qurūḥ al-Udhun"
+        ]
+    },
+    {
+        "code": "SK81",
+        "title": "Deafness disorder (TM2)",
+        "synonyms": [
+            "(a) bādhiryam (c) Waqr",
+            "(b) Karṇika caṉṉi",
+            "Impaired hearing disorder (TM2)",
+            "(a) Bādhirya (c) Ṭarash theql-e sAme'eh",
+            "Congenital deafness disorder (TM2)",
+            "(c) Ṣamam",
+            " (c) Lādī"
+        ]
+    },
+    {
+        "code": "SK82",
+        "title": "Otorrhoea disorder (TM2)",
+        "synonyms": [
+            "(a) karṇa-srāvaḥ (b) Cīẕ cevi eẕucci (c) Sayalān al-Udhun"
+        ]
+    },
+    {
+        "code": "SK83",
+        "title": "Pruritus of ear disorder (TM2)",
+        "synonyms": [
+            "(a) karṇa-kaṇḍū (b) Tēmalkātu karappāṉ (c) Ḥikka al-Udhun"
+        ]
+    },
+    {
+        "code": "SK84",
+        "title": "Dysacousia disorder (TM2)",
+        "synonyms": [
+            "(a) uccaiḥśrutiḥ (c) Harb al-Udhun"
+        ]
+    },
+    {
+        "code": "SK85",
+        "title": "Impacted cerumen disorder (TM2)",
+        "synonyms": [
+            "(a) karṇa-gūthakaḥ (c) Wasakh al-Udhun"
+        ]
+    },
+    {
+        "code": "SK86",
+        "title": "Tinnitus disorder (TM2)",
+        "synonyms": [
+            "(a) karṇa-nādaḥ (c) Ṭanīn-o-Dawī",
+            "(a) aśabdaśravaṇam",
+            "(b) Cevipaṭuvātam",
+            "Flute-like tinnitus disorder (TM2)",
+            "(a) karṇa-kṣveḍaḥ"
+        ]
+    },
+    {
+        "code": "SK87",
+        "title": "Otalgia disorder (TM2)",
+        "synonyms": [
+            "(a) karṇaśūlaḥ (b) Karṉāvarttam nōkkāṭu (c) Waja‘ al-Udhun",
+            "earache",
+            "Ear pain due to infection disorder (TM2)",
+            "(b) Kirumikata nōkkāṭu",
+            "(b) Nuṇpuẕu cevi cūlai",
+            "Pain in the ears due to aggrevation of Aiyam disorder (TM2)",
+            "(b) Cilēṭṭuma karṇa cūlai",
+            "(b) Aiya cevicūlai",
+            "Pain in the ears due to aggrevation of Aẕal disorder (TM2)",
+            "(b) Pittakarṇa cūlai",
+            "(b) Aẕal cevi cūlai",
+            "Pain in the ears due to aggrevation of Vaḷi disorder (TM2)",
+            "(b) Vātakarṉa cūlai",
+            "(b) Vaḷi cevi cūlai"
+        ]
+    },
+    {
+        "code": "SK88",
+        "title": "Otitis disorder (TM2)",
+        "synonyms": [
+            "(a) karṇa-śophaḥ (b) Ceviviṟai Vaḷi (c) Iltihāb al-Udhun",
+            "(a) karṇaśothaḥ",
+            "Suppurative ottitis disorder (TM2)",
+            "(a) pūtikarṇaḥ",
+            "Pustular otitis media disorder (TM2)",
+            "(b) Karṉa cūlai vātam",
+            "Secretory otitis media disorder (TM2)",
+            "(b) Cevipaṭuvātam",
+            "Otitis externa disorder (TM2)",
+            "(a) karṇapākaḥ"
+        ]
+    },
+    {
+        "code": "SK89",
+        "title": "Pustules of pinna disorder (TM2)",
+        "synonyms": [
+            "(a) Parilehi (b) Kuruti cevi paru (c) Buthūr al-Aṣdāgh"
+        ]
+    },
+    {
+        "code": "SK8Y",
+        "title": "Other specified ear disorders (TM2)",
+        "synonyms": [
+            "Meneire disease disorder (TM2)",
+            "(b) Vātakarṉakam",
+            "Ear tumour disorder (TM2)",
+            "(a) karṇārbudaḥ",
+            "Aural atresia disorder (TM2)",
+            "(b) kūcī-karṇakaḥ",
+            "Otocatarrh disorder (TM2)",
+            "(a) Nazla Udhuniyya",
+            "Ear disease due to kapha disorder (TM2)",
+            "(a) kaphajakarṇarogaḥ",
+            "Ear disease due to pitta disorder (TM2)",
+            "(a) pittajakarṇarogaḥ",
+            "Disorder of ear due to vitiated blood (TM2)",
+            "(a) raktajakarṇarogaḥ",
+            " (a) raktajakarṇaśūla",
+            "Ear disorder due to three dosha (TM2)",
+            "(a) sānnipātajakarṇarogaḥ",
+            " (a) sannipātika-karṇaśūlaḥ",
+            "Ear disorder due to vāta (TM2)",
+            "(a) vātajakarṇarogaḥ",
+            " (a) vātajakarṇaśūla",
+            "Thin earlobule disorder (TM2)",
+            "(a) tantrikaḥ",
+            "Piercing-induced earlobule inflammation disorder (TM2)",
+            "(a) paripoṭakaḥ",
+            "Earlobule inflammation disorder (TM2)",
+            "(a) utpātaḥ",
+            "Polyps of ear disorder (TM2)",
+            "(a) karṇārśaḥ",
+            "Tympanic perforation disorder (TM2)",
+            "(a) karṇa-pratināhaḥ",
+            "Ear myiasis disorder (TM2)",
+            "(a) kṛmikarṇakaḥ",
+            "Maggots in the ear cavity disorder (TM2)",
+            "(c) Dīdān al-Udhun",
+            "Aggravation of Aẕal and worm infestation disorder (TM2)",
+            "(b) Kirumi pittam",
+            "Pain in ears due to infestations disorder (TM2)",
+            "(b) Kirumikarṉa cūlai",
+            "Aural infestation disorder (TM2)",
+            "(b) kīṭa-praviṣṭa-karṇaḥ"
+        ]
+    },
+    {
+        "code": "SK8Z",
+        "title": "Ear disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SK90",
+        "title": "Epistaxis disorder (TM2)",
+        "synonyms": [
+            "(a) nāsāgata-raktapittam (c) Ru‘āf",
+            "(b) Kuruti mūkkaṭaippu"
+        ]
+    },
+    {
+        "code": "SK91",
+        "title": "Anosmia disorder (TM2)",
+        "synonyms": [
+            "(a) ghrāṇanāśaḥ (b) Vācaṉai nilaiyaṟital (c) Khasham"
+        ]
+    },
+    {
+        "code": "SK92",
+        "title": "Dry nose disorder (TM2)",
+        "synonyms": [
+            "(a) puṭakaḥ (c) Jafāf al-Anf",
+            "(b) Mūkku karappāṉ"
+        ]
+    },
+    {
+        "code": "SK93",
+        "title": "Atrophic rhinitis disorder (TM2)",
+        "synonyms": [
+            "(a) nāsāśoṣaḥ (c) Iltihāb al-Anf Ḍumūrī"
+        ]
+    },
+    {
+        "code": "SK94",
+        "title": "Nasal polyp disorder (TM2)",
+        "synonyms": [
+            "(a) nāsārśaḥ (b) Mūkku Kaẕalai (c) Bawāsīr al-Anf",
+            "(c) Urbiyān al-Anf"
+        ]
+    },
+    {
+        "code": "SK95",
+        "title": "Rhinitis disorder (TM2)",
+        "synonyms": [
+            "(a) pratiśyāyaḥ (b) Nīr mūkkaṭaippu (c) Iltihāb al-Anf",
+            "(a) pīnasaḥ",
+            "Acute rhinitis disorder (TM2)",
+            "(c) Iltihāb al-Anf Ḥādd",
+            "Chronic rhinitis disorder (TM2)",
+            "(a) apīnasaḥ",
+            "(c) Iltihāb al-Anf Muzmin",
+            "Sanguino purulent rhinitis disorder (TM2)",
+            "(a) pūyaraktam",
+            " (a) pūyaśoṇitam",
+            "Suppurative rhinitis disorder (TM2)",
+            "(a) ghrāṇapākaḥ",
+            " (a) nāsāpākaḥ",
+            "Hypertrophic rhinitis disorder (TM2)",
+            "(c) Iltihāb al-Anf Takaththurī"
+        ]
+    },
+    {
+        "code": "SK96",
+        "title": "Coryza and catarrh disorder (TM2)",
+        "synonyms": [
+            "(a) ghrāṇasrāvaḥ",
+            "(a) nāsāsrāvaḥ (b) Mūkku nīrppāyccal (c) Nazla",
+            "Coryza disorder (TM2)",
+            "(c) Zukām",
+            "Thick saltish nasal discharge disorder (TM2)",
+            "(a) bhraṃśathuḥ"
+        ]
+    },
+    {
+        "code": "SK97",
+        "title": "Nasal obstruction disorder (TM2)",
+        "synonyms": [
+            "(a) nāsānāhaḥ (b) Kaẕuttu mūkkaṭaippu (c) Sudda-i-Khayshūm",
+            "(a) pratīnāhaḥ (c) soddeh-ye khayshoum"
+        ]
+    },
+    {
+        "code": "SK98",
+        "title": "Ozaena disorder (TM2)",
+        "synonyms": [
+            "(a) pūtināsā (b) Cirāy mūkkaṭaippu (c) Bakhr al-Anf",
+            "(c) Natn al-Anf"
+        ]
+    },
+    {
+        "code": "SK99",
+        "title": "Sinusitis disorder (TM2)",
+        "synonyms": [
+            "(b) Mūkkaṭaippu nōy (c) Iltihāb-i-Tajāwīf al-Anf",
+            "(a) ardhāvabhedaka",
+            "Infective sinusitis disorder (TM2)",
+            "(b) Cīẕ mūkkaṭaippu",
+            "Sinusitis associated with blister in the nose disorder (TM2)",
+            "(b) Muḷai mūkkaṭaippu",
+            "Sinusitis caused by increased Aiyam disorder (TM2)",
+            "(b) Aiya mūkkaṭaippu",
+            "Sinusitis caused by increased Aẕal disorder (TM2)",
+            "(b) Aẕal mūkkaṭaippu",
+            "Sinusitis caused by increased Vaḷi disorder (TM2)",
+            "(b) Vaḷi mūkkaṭaippu",
+            "Sinusitis associated with epistaxis disorder (TM2)",
+            "Kuruti mūkkaṭaippu",
+            "Frontal ethmoidal sinusitis disorder (TM2)",
+            "(b) Cūriyā varttam nōkkāṭu",
+            "Maxillary ethmoidal sinusitis disorder (TM2)",
+            "(b) Cantirā varttam nōkkāṭu",
+            "Maxillary sinusitis disorder (TM2)",
+            "(b) Pittattalai nōkkāṭu"
+        ]
+    },
+    {
+        "code": "SK9A",
+        "title": "Adenoiditis disorder (TM2)",
+        "synonyms": [
+            "(a) kaṇṭhaśālūkaḥ (c) Iltihāb-i-Tajāwīf Ḥulqūmī Anfī",
+            "Early state of adenoids disorder (TM2)",
+            "(a) vicchinnaḥ"
+        ]
+    },
+    {
+        "code": "SK9Y",
+        "title": "Other specified nose disorders (TM2)",
+        "synonyms": [
+            "Nasal vestibulitis disorder (TM2)",
+            "(a) dīptaḥ",
+            "Nasal tumor disorder (TM2)",
+            "(a) nāsārbudaḥ",
+            "Oedematous rhinitis disorder (TM2)",
+            "(a) nāsāśvayathuḥ",
+            "Parosmia disorder (TM2)",
+            "(c) Fasād al-Shamm",
+            "Anosphrasia (TM2)"
+        ]
+    },
+    {
+        "code": "SK9Z",
+        "title": "Nose disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SL00",
+        "title": "Throat tumour disorder (TM2)",
+        "synonyms": [
+            "(b) Toṇṭai puṟṟu",
+            "(a) galārbudaḥ",
+            "Hypopharyngeal growth disorder (TM2)",
+            "(a) valayaḥ",
+            "Posterior pharyngeal wall tumour disorder (TM2)",
+            "(a) māṃsatānaḥ"
+        ]
+    },
+    {
+        "code": "SL01",
+        "title": "Retropharyngeal abscess disorder (TM2)",
+        "synonyms": [
+            "(a) śataghnī (c) Khurāj Ḥalaqī Khalfī"
+        ]
+    },
+    {
+        "code": "SL02",
+        "title": "Hoarseness of voice disorder (TM2)",
+        "synonyms": [
+            "(a) kaṇṭhodhvaṃsaḥ (b) Kural kammal (c) Buḥḥa al-Ṣawt",
+            "(c) Buḥūḥa al-Ṣawt",
+            "Hoarseness of voice caused by increased lymph disorder (TM2)",
+            "(b) Niṇak kural kammal"
+        ]
+    },
+    {
+        "code": "SL03",
+        "title": "Indistinct- abnormal voice disorder (TM2)",
+        "synonyms": [
+            "(a) svarabhedaḥ (c) Khalal al-Ṣawt",
+            "Dysphonia disorder (TM2)",
+            "(a) svaraghnam",
+            "Tremulous voice disorder (TM2)",
+            "(c) Khushūna al-Ṣawt"
+        ]
+    },
+    {
+        "code": "SL04",
+        "title": "Severe throat inflammation disorder (TM2)",
+        "synonyms": [
+            "(a) rohiṇī (b) Varaṭ kaṇam (c) Khunāq Wabā’ī",
+            "(c) Waram al-Ḥanjara Ḥādd Ghishā’ī Khunāqī"
+        ]
+    },
+    {
+        "code": "SL05",
+        "title": "Pharyngitis disorder (TM2)",
+        "synonyms": [
+            "(a) balāsaḥ (b) Kāca pittam (c) Waram-i-Ḥalq",
+            "Hypo pharyngeal inflammation disorder (TM2)",
+            "(a) galaughaḥ"
+        ]
+    },
+    {
+        "code": "SL06",
+        "title": "Tonsillitis disorder (TM2)",
+        "synonyms": [
+            "(a) tuṇḍikerī (c) Waram al-Lawzatayn",
+            "(b) Niṇak kural kammal"
+        ]
+    },
+    {
+        "code": "SL07",
+        "title": "Speech disorder (TM2)",
+        "synonyms": [
+            "(a) mūkatvam (c) Inqiṭā‘ al-Ṣawt"
+        ]
+    },
+    {
+        "code": "SL08",
+        "title": "Lymphadenopathy in throat region disorder (TM2)",
+        "synonyms": [
+            "(a) gaṇḍamālā (b) Kaṇṭamālai (c) Khanāzīr",
+            "Scrofula",
+            "Incurable lymphadenopathy disorder (TM2)",
+            "(a) asādhya gaṇḍamālā"
+        ]
+    },
+    {
+        "code": "SL09",
+        "title": "Laryngitis disorder (TM2)",
+        "synonyms": [
+            "(b) Kaṇṭa pittam (c) Waram al-Ḥanjara"
+        ]
+    },
+    {
+        "code": "SL0Y",
+        "title": "Other specified neck and throat disorders (TM2)",
+        "synonyms": [
+            "Laryngeal tumour disorder (TM2)",
+            "(b) Aññāṉattampam",
+            "Tumour of pharynx disorder (TM2)",
+            "(a) kaṇṭhagata-vidārī",
+            "Pharyngeal abscess disorder (TM2)",
+            "galavidradhiḥ",
+            "Feeling of roughness in throat disorder (TM2)",
+            "(c) Khushūna al-Ḥalq",
+            "Goitre disorder (TM2)",
+            "(a) galagaṇḍaḥ"
+        ]
+    },
+    {
+        "code": "SL0Z",
+        "title": "Neck and throat disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SL20",
+        "title": "Excessive sneezing disorder (TM2)",
+        "synonyms": [
+            "\"(a) kṣavathuḥ (c) ’ Uṭās\"",
+            "(c) otAs",
+            "(b) Cilēṭṭuma pittam",
+            "Induced sneezing disorder (TM2)",
+            "(a) bhṛśakṣavaḥ"
+        ]
+    },
+    {
+        "code": "SL21",
+        "title": "Hypernasal speech disorder (TM2)",
+        "synonyms": [
+            "(a) minminaḥ (c) Khunān",
+            "(b) Nācikāpīṭam"
+        ]
+    },
+    {
+        "code": "SL2Y",
+        "title": "Other specified eye",
+        "synonyms": [
+            " ear",
+            " nose",
+            " throat and neck disorders (TM2)",
+            "Cellulitis of cheek disorder (TM2)",
+            "(a) gaṇḍālajī",
+            "Vertex disorder (TM2)",
+            "(b) Ucci vaḷi",
+            "Lingular disorder due to increasing Aẕal (TM2)",
+            "(a) Nākku nōykaḷ",
+            "Aggravated Aiyam leading to stridor disorder (TM2)",
+            "(b) Cuvāca Cilēṭṭumam"
+        ]
+    },
+    {
+        "code": "SL2Z",
+        "title": "Eye",
+        "synonyms": [
+            " ear",
+            " nose",
+            " throat and neck disorders (TM2)",
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SL40",
+        "title": "Bronchial asthma disorder (TM2)",
+        "synonyms": [
+            "(a) tamakaśvāsaḥ (b) Iraippu nōy (c) Ḍīq al-Nafas",
+            "(b) iraippu irumal (c) Dama",
+            " (c) Nafas Ḍayyiq",
+            " (c) rabw",
+            "Bronchial asthma with fever",
+            " fainting disorder (TM2)",
+            "(c) pratamakaśvāsaḥ",
+            "Bronchial asthma aggravating with darkness disorder (TM2)",
+            "(c) santamakaśvāsaḥ",
+            "Catarrh-induced asthma disorder (TM2)",
+            "(c) Rabw Nazlī",
+            "(c) rabw-e nazli",
+            "Asthma due to Balgham disorder (TM2)",
+            "(c) Rabw Balghamī",
+            "(c) rabw-e balghami"
+        ]
+    },
+    {
+        "code": "SL41",
+        "title": "Cough disorder (TM2)",
+        "synonyms": [
+            "(a) kāsaḥ (b) Irumal nōy (c) Su‘āl-o-Surfa",
+            "Acute bronchitis disorder (TM2)",
+            "(c) Iltihāb al-Shu‘ab Ḥādd",
+            "Chronic bronchitis disorder (TM2)",
+            "(c) Iltihāb al-Shu‘ab Muzmin",
+            "Bronchitis disorder (TM2)",
+            "(b) Cuvāca pittam",
+            "Asthmatic cough disorder (TM2)",
+            "(b) Cuvāca irumal nōy",
+            "Cough due to derangement of Vaḷi and Aẕal disorder (TM2)",
+            "(b) Vātapitta irumal nōy",
+            "Cough due to derangement of Aẕal and Aiyam disorder (TM2)",
+            "(b) Pittakapa irumal nōy",
+            "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+            "(b) Mukkuṟṟa irumal nōy",
+            "Cough disorder due to haemophobia (TM2)",
+            "(b) Irattakācam irumal nōy",
+            "Cough disorder due to increased Aiyam (TM2)",
+            "(b) Kapa irumal nōy",
+            "Cough disorder due to increased Aẕal (TM2)",
+            "(b) Pitta irumal nōy",
+            "Cough disorder due to increased Vaḷi (TM2)",
+            "(b) Vāta irumal nōy",
+            "Cough disorder due to seasonal variations (TM2)",
+            "(b) Mantārakācam irumal nōy",
+            "Cough disorder due to waxing and wanning of moon (TM2)",
+            "(b) Pakka mantāra irumal nōy",
+            "Cough disorder occuring in sinusitis (TM2)",
+            "(b) Pīṉica irumal nōy",
+            "Post puerperal cough disorder (TM2)",
+            "(b) Cuṭar irumal nōy",
+            "Aggravated aiyam lodging in chest and face leading respiratory ailments disorder (TM2)",
+            "(b) Irumal"
+        ]
+    },
+    {
+        "code": "SL42",
+        "title": "Dyspnoea disorder (TM2)",
+        "synonyms": [
+            "(a) śvāsaḥ (b) Iraippu nōy (c) ’ Usr al-Tanaffus",
+            "Breathlessness (TM2)"
+        ]
+    },
+    {
+        "code": "SL4Y",
+        "title": "Other specified respiratory system disorders (TM2)",
+        "synonyms": [
+            "Pulmonary insufficiency disorder (TM2)",
+            "(c) Ḍu‘f al-Ri’a",
+            "(c) za'fe rieh",
+            "Haemoptysis disorder (TM2)",
+            "(c) Nafth al-Dam",
+            "Pleurisy disorder (TM2)",
+            "(c) Dhāt al-Janb",
+            "Pneumonia disorder (TM2)",
+            "(c) Dhāt al-Ri’a",
+            "Chronic Aiyam leading to cough disorder (TM2)",
+            "(a) Kācam"
+        ]
+    },
+    {
+        "code": "SL4Z",
+        "title": "Respiratory system disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SL60",
+        "title": "Slow heart disorder (TM2)",
+        "synonyms": [
+            "(a) hṛnmohaḥ (c) Buṭū’ al-Qalb"
+        ]
+    },
+    {
+        "code": "SL61",
+        "title": "Heart pain disorder (TM2)",
+        "synonyms": [
+            "(a) hṛdrogaḥ (b) Tamaraka nōy (c) Amrāḍ-i-Qalb wa Dawrān-i-Khūn",
+            "Congestive cardiac failure disorder (TM2)",
+            "(b) Ūrttuva vātam",
+            "Cardiac disease due to Aẕal with vomiting",
+            " giddiness",
+            " profuse sweating disorder (TM2)",
+            "(b) Pitta tamaraka nōy"
+        ]
+    },
+    {
+        "code": "SL62",
+        "title": "Palpitation disorder (TM2)",
+        "synonyms": [
+            "(a) hṛddravaḥ (b) Tuṭi pittam (c) Khafaqān",
+            "(b) Naadi Padappu",
+            "Palpitation disorder due to cold morbid temperament of heart (TM2)",
+            "(c) Khafaqān Bārid",
+            "Palpitation disorder due to Rīḥ and Bukhār (TM2)",
+            "(c) Khafaqān Rīḥī-o-Bukhārī",
+            "Palpitation disorder due to hot morbid temperament of heart (TM2)",
+            "(c) Khafaqān Ḥārr",
+            "Palpitation disorder due to increased sensitivity of heart (TM2)",
+            "(c) Khafaqān Ḥissī",
+            "Palpitation disorder due to obstruction (TM2)",
+            "(c) Khafaqān Suddī",
+            "Palpitation disorder due to secondary causes (TM2)",
+            "(c) Khafaqān Shirkī",
+            "Palpitation disorder due to weakness of heart (TM2)",
+            "(c) Khafaqān Ḍu‘fī"
+        ]
+    },
+    {
+        "code": "SL6Y",
+        "title": "Other specified heart disorders (TM2)",
+        "synonyms": [
+            "Chest congestion disorder (TM2)",
+            "(a) hṛdayopalepaḥ",
+            "Sensation of bouncing of heart disorder (TM2)",
+            "(c) Qadhf al-Qalb",
+            "Sensation of upward pulling of heart disorder (TM2)",
+            "(c) Dukhāniyya al-Qalb",
+            " (c) ‘Illa Dukhāniyya",
+            "Heart weakness disorder (TM2)",
+            "(c) za'fe qalb",
+            "Heart dystemperament disorder (TM2)",
+            "(c) sou-e mezAj-e qalb",
+            "(c) Sū’-i-Mizāj Qalb",
+            "Cold heart dystemperament disorder (TM2)",
+            "(c) sou-e mezAj-e bAred-e qalb",
+            "(c) Sū’-i-Mizāj Qalb Bārid"
+        ]
+    },
+    {
+        "code": "SL6Z",
+        "title": "Heart disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SL70",
+        "title": "Varicose veins disorder (TM2)",
+        "synonyms": [
+            "(a) sirāgranthiḥ (b) Nāḷa vipāta puṭaippu (c) Dawālī",
+            "(b) Naalavibatham"
+        ]
+    },
+    {
+        "code": "SL71",
+        "title": "Varicose ulcer disorder (TM2)",
+        "synonyms": [
+            "(a)sirāgatavraṇaḥ (b) Nāḷa vipāta puṇ (c) Qarḥa Dawāliyya",
+            "(b) Naalavibatha viranam"
+        ]
+    },
+    {
+        "code": "SL72",
+        "title": "Thickened arteries disorder (TM2)",
+        "synonyms": [
+            "(a) dhamanīpraticayaḥ (b) Vacu vātam (c) Tasaddud Shaḥmī Kilsī"
+        ]
+    },
+    {
+        "code": "SL7Y",
+        "title": "Other specified circulatory disorders (TM2)",
+        "synonyms": [
+            "Arteriosclerosis disorder (TM2)",
+            "(c) Taṣallub al-Sharāyīn",
+            "Vasoconstriction disorder (TM2)",
+            "(a) sirāgrahaḥ",
+            "Vasodilatation disorder (TM2)",
+            "(a) śirāsphūrtiḥ"
+        ]
+    },
+    {
+        "code": "SL7Z",
+        "title": "Circulatory disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SL80",
+        "title": "Anaemia disorder (TM2)",
+        "synonyms": [
+            "(a) pāṇḍurogaḥ (b) Veḷuppu nōy (c) Faqr al-Dam",
+            "(b) Veluppu Noi",
+            "Anaemia disorder caused by increased Aiyam (TM2)",
+            "(b) Nañcu veḷuppu nōy",
+            "Anaemia disorder caused by increased Aẕal (TM2)",
+            "(b) Aẕal veḷuppu nōy",
+            "Pernicious Anaemia disorder (TM2)",
+            "(b) Makā vātam",
+            "Anaemia disorder with hypoproteineamia (TM2)",
+            "(c) Sū’ al-Qinya",
+            "Anaemia disorder due to pica (TM2)",
+            "(c) Maṇṇuṉ veḷuppu"
+        ]
+    },
+    {
+        "code": "SL81",
+        "title": "Bleeding disorder disorder (TM2)",
+        "synonyms": [
+            "(a) raktapittam (b) Iratta pittam (c) Qatma"
+        ]
+    },
+    {
+        "code": "SL8Y",
+        "title": "Other specified blood related disorders (TM2)",
+        "synonyms": [
+            "Hypoviscous blood disorder (TM2)",
+            "(a) śoṇitakledaḥ"
+        ]
+    },
+    {
+        "code": "SL8Z",
+        "title": "Blood related disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SM00",
+        "title": "Lymphadenopathy disorder (TM2)",
+        "synonyms": [
+            "(a) apacī (b) Akkuḷ nilappūcaṇi kaṭṭi"
+        ]
+    },
+    {
+        "code": "SM01",
+        "title": "Elephantiasis disorder (TM2)",
+        "synonyms": [
+            "(a) ślīpadaḥ (b) Yāṉaikkāl (c) Dā’ al-Fīl",
+            "Filariasis (TM2)",
+            "Elephantiasis of the scrotum disorder (TM2)",
+            "(b) Catai vitai nōy",
+            "Filarial scrotum disorder (TM2)",
+            "(b) Acuva vātam",
+            "Burning sensation disorder due to trauma to vulnerable area (TM2)",
+            "(a) marmābhighātajadāhaḥ"
+        ]
+    },
+    {
+        "code": "SM0Y",
+        "title": "Other specified heart",
+        "synonyms": [
+            " blood and circulatory disorders (TM2)",
+            "Non-suppurating cellulitis disorder (TM2)",
+            "(a) jālagardabhaḥ",
+            "Petechial haemorrhages disorder (TM2)",
+            "(b) Utaravāta curōṇitam",
+            "Hypertrophy heart disorders (TM2)",
+            "(b) Kaṇṭakirākavātam",
+            "Intolerable pricking pain in the chest disorder (TM2)",
+            "(b) Pakka cūlai",
+            "Precordial pain disorder (TM2)",
+            "(a) hṛdayaruk",
+            "Cardiac asthma disorder (TM2)",
+            "(b) Aiya iraippu nōy"
+        ]
+    },
+    {
+        "code": "SM0Z",
+        "title": "Heart",
+        "synonyms": [
+            " blood and circulatory disorders (TM2)",
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SM10",
+        "title": "Stomatitis disorder (TM2)",
+        "synonyms": [
+            "(a) āsyavipākaḥ (b) Akkaram (c) Qulā‘",
+            "(a) mukhpākaḥ (c) qorheh-ye dahAn",
+            "Stomatitis disorder due to derangement of Ṣafrā' (TM2)",
+            "(c) Qulā‘ Ṣafrāwī",
+            "Stomatitis disorder due to derangement of Sawdā' (TM2)",
+            "(c) Qulā‘ Sawdāwī",
+            "Stomatitis disorder due to derangement of Balgham (TM2)",
+            "(c) Qulā‘ Balghamī",
+            "Stomatitis disorder due to derangement of Dam (TM2)",
+            "(c) Qulā‘ Damawī"
+        ]
+    },
+    {
+        "code": "SM11",
+        "title": "Dental abscess disorder (TM2)",
+        "synonyms": [
+            "(a) dantavidradhiḥ (b) Pallaṭi Kaṭṭi (c) Fārūlas",
+            "Apical abscess",
+            " root abscess disorder (TM2)",
+            "(a) śauṣiraḥ",
+            "Dental root disorder (TM2)",
+            "(a) mahāśauṣiraḥ"
+        ]
+    },
+    {
+        "code": "SM12",
+        "title": "Bruxism disorder (TM2)",
+        "synonyms": [
+            "(a) dantaghātaḥ (c) Ṣarīr al-Asnān"
+        ]
+    },
+    {
+        "code": "SM13",
+        "title": "Pyorrhoea disorder (TM2)",
+        "synonyms": [
+            "(a) dantaveṣṭakaḥ (c) Taqayyuḥ al-Litha",
+            "(b) Pallāṭṭam"
+        ]
+    },
+    {
+        "code": "SM14",
+        "title": "Gingivitis disorder (TM2)",
+        "synonyms": [
+            "(a) upakuśaḥ (b) Pallaṭi Vīkkam (c) Waram al-Litha"
+        ]
+    },
+    {
+        "code": "SM15",
+        "title": "Halitosis disorder (TM2)",
+        "synonyms": [
+            "(a) pūtimukhatā (b) Nāṉāṟṟam (c) Bakhr al-Fam",
+            "Blood-smell of mouth disorder (TM2)",
+            "(a) lohitagandhāsyatā"
+        ]
+    },
+    {
+        "code": "SM16",
+        "title": "Sialorrhoea disorder (TM2)",
+        "synonyms": [
+            "(a) mukhasrāvaḥ (b) Aiyam mikutiyuṭaṉ vāyu cērntāl uṇṭākum kuṟikuṇaṅkaḷ. (c) Kathra al-Lu‘āb",
+            "(a) praseka (c) sayalAn-e ab dahAn"
+        ]
+    },
+    {
+        "code": "SM17",
+        "title": "Palatitis disorder (TM2)",
+        "synonyms": [
+            "(a) adhruṣaḥ (c) Waram al-Ḥanak",
+            "(b) Aṇṇākkuttūṟu tāpitam"
+        ]
+    },
+    {
+        "code": "SM18",
+        "title": "Uvulitis disorder (TM2)",
+        "synonyms": [
+            "(a) galaśuṇḍikā (c) Waram-i-Lahāt",
+            "(b) Uḷ nākku vaḷarcci",
+            "Uvulitis due to derangement of Dam disorder (TM2)",
+            "(c) Waram-i-Lahāt Damawī",
+            "Uvulitis due to derangement of Sawdā' disorder (TM2)",
+            "(c) Waram-i-Lahāt Sawdāwī"
+        ]
+    },
+    {
+        "code": "SM19",
+        "title": "Ludwig’s angina disorder (TM2)",
+        "synonyms": [
+            "(a) galagrahaḥ (c) Khunāq"
+        ]
+    },
+    {
+        "code": "SM1A",
+        "title": "Odontalgia disorder (TM2)",
+        "synonyms": [
+            "Tooth ache",
+            "(a) dantabhedaḥ",
+            "(a) dālanaḥ (b) Pal kuttal (c) Waja‘ al-Asnān"
+        ]
+    },
+    {
+        "code": "SM1B",
+        "title": "Bleeding gum disorder (TM2)",
+        "synonyms": [
+            "(a) paridaraḥ (b) Pallaṭi Kotippu (c) Litha Dāmiya"
+        ]
+    },
+    {
+        "code": "SM1C",
+        "title": "Ranula disorder (TM2)",
+        "synonyms": [
+            "(a) upajihvikā (c) Ḍifda‘ al-Lisān",
+            "(b) Nākkaraṇai"
+        ]
+    },
+    {
+        "code": "SM1D",
+        "title": "Parotitis disorder (TM2)",
+        "synonyms": [
+            "(a) pāṣāṇagardabhaḥ (c) Waram Aṣl al-Udhun",
+            "Mumps (TM2)"
+        ]
+    },
+    {
+        "code": "SM1E",
+        "title": "Dental caries disorder (TM2)",
+        "synonyms": [
+            "(a) kṛmidantakaḥ (b) Pal puẕu (c) Ta’akkul al-Asnān",
+            "Dental cavities disorder (TM2)",
+            "(a) kapālikā (b) Pallaṭi tuḷai (c) Tanaqqub al-Asnān",
+            "Pyorrhoea alveolaris disorder (TM2)",
+            "(a) dantanāḍī (c) Nawāṣīr al-Litha"
+        ]
+    },
+    {
+        "code": "SM1F",
+        "title": "Dental plaque disorder (TM2)",
+        "synonyms": [
+            "(a) dantaśarkarā (b) Pallaṭi mañcaḷātal (c) Dā’ al-Ḥafr",
+            "(c) Ḥafr al-Asnān wa’l Qalḥ"
+        ]
+    },
+    {
+        "code": "SM1G",
+        "title": "Discolouration of teeth disorder (TM2)",
+        "synonyms": [
+            "(a) śyāvadantakaḥ (b) Pal karuttal (c) Taghayyur Lawn al-Asnān"
+        ]
+    },
+    {
+        "code": "SM1H",
+        "title": "Odontoseisis disorder (TM2)",
+        "synonyms": [
+            "(a) dantacālaḥ (b) Pallāṭṭam (c) Taḥarruk al-Asnān"
+        ]
+    },
+    {
+        "code": "SM1J",
+        "title": "Sensitive teeth disorder (TM2)",
+        "synonyms": [
+            "(a) dantaharṣaḥ (b) Pal kūccam (c) Dhahāb Mā’ al-Asnān"
+        ]
+    },
+    {
+        "code": "SM1K",
+        "title": "Lip chapping and bleeding disorder (TM2)",
+        "synonyms": [
+            "(a) pittaja-ōṣṭhaprakōpaḥ (b) Veṭippu utaṭu nōy (c) Taqashshur al-Shafatayn",
+            "(b) Vaḷiyutaṭu nōy",
+            "Injured lips disorder (TM2)",
+            "(a) kṣataja-ōṣṭhaprakōpaḥ",
+            "(a) abhighātaja-oṣṭhaprakopaḥ (b) Utaṭṭil aṭipaṭṭa vīkkam"
+        ]
+    },
+    {
+        "code": "SM1L",
+        "title": "Itchy swollen lip diorder (TM2)",
+        "synonyms": [
+            "(a) kaphaja-ōṣṭhaprakōpaḥ (b) Miṉumiṉuppu utaṭu nōy"
+        ]
+    },
+    {
+        "code": "SM1M",
+        "title": "Dry chapped lip disorder (TM2)",
+        "synonyms": [
+            "(c) Shaqūq al-Shafatayn",
+            "(c) jefAf-e lab",
+            "(c) taqashor-e lab",
+            "(a) vātaja-oṣṭhaprakopaḥ (b) Vaḷi Utaṭunōy (c) Tashaqquq al-Shafatayn"
+        ]
+    },
+    {
+        "code": "SM1N",
+        "title": "Xerostomia disorder (TM2)",
+        "synonyms": [
+            "(a) mukhaśoṣaḥ (b) Nīli Akkaram (c) Jafāf-i-Lisān"
+        ]
+    },
+    {
+        "code": "SM1P",
+        "title": "Ageusia disorder (TM2)",
+        "synonyms": [
+            "(a) arasajñatā (b) Cuvaiyiṉmai nōy (c) Buṭlān al-Dhawq"
+        ]
+    },
+    {
+        "code": "SM1Y",
+        "title": "Other specified oral cavity disorders (TM2)",
+        "synonyms": [
+            "Inflammation disorder of entire oral cavity (TM2)",
+            "(a) sarvasara mukharogaḥ",
+            "Lip tumour disorder (TM2)",
+            "(a) jalārbudaḥ",
+            "Palate tumour disorder (TM2)",
+            "(a) tālu-arbudaḥ",
+            "Torus palatinus disorder (TM2)",
+            "(a) kacchapaḥ",
+            " (a) kacchapī",
+            "Tongue tumour disorder (TM2)",
+            "(b) Nākkup puṟṟu",
+            "Feeling of astringent taste disorder (TM2)",
+            "(a) kaṣāyāsyatā",
+            "Feeling of sweet taste disorder (TM2)",
+            "(a) mukhamādhuryam",
+            "Coated oral cavity disorder (TM2)",
+            "(a) kaṇṭhopalepaḥ",
+            " (a) mukhalepaḥ",
+            "Impacted tooth disorder (TM2)",
+            "(a) adhimāṃsaḥ",
+            "Spongy gums disorder (TM2)",
+            "(a) śītādaḥ",
+            "Itchy palate disorder (TM2)",
+            "(c) Ḥikka al-Ḥanak",
+            "Palatal polyp disorder (TM2)",
+            "(a) tālupiḍakā",
+            " (a) tālupiṭikā",
+            "Sialadenitis disorder (TM2)",
+            "(c) Iltihāb al-Ghudda al-Rīqiyya",
+            "Cystic swelling of palate disorder (TM2)",
+            "(a) tālupuppuṭaḥ",
+            "Sub lingual cyst disorder (TM2)",
+            "(a) alāsaḥ",
+            "Periodontitis disorder (TM2)",
+            "(a) dantapuppuṭaḥ",
+            "Ectopic eruption disorder (TM2)",
+            "(a) karālaḥ",
+            "Supernumerary teeth disorder (TM2)",
+            "(a) vardhanaḥ",
+            " (a) adhidantaḥ",
+            "Hyperdontia (TM2)",
+            "Traumatic periodontitis disorder (TM2)",
+            "(a) vardhanaḥ",
+            " (a) adhidantaḥ",
+            "Disorder during teeth eruption (TM2)",
+            "(a) dantodgamaḥ",
+            "(a) dantotbhedaḥ",
+            "Loose tooth disorder (TM2)",
+            "(a) dantaśaithilyam",
+            "Pain in tooth due to Vaḷi disorder (TM2)",
+            "(b) Tanta vāyu",
+            "Fibroma of palate disorder (TM2)",
+            "(a) māṃsasaṅghātaḥ",
+            " (a) tālusaṃhatiḥ",
+            "Eruptions of oral cavity disorder (TM2)",
+            "(b) bothreh-ye dahAn",
+            "(b) Buthūr al-Fam",
+            "Tongue fissure disorder (TM2)",
+            "(c) sheqAq-e zabAn",
+            "(c) Shiqāq al-Lisān",
+            "Cheilosis disorder (TM2)",
+            "(c) Taqarruḥ al-Shidqayn",
+            "(c) tashaqoq-e lab",
+            "Gingival ulcers disorder (TM2)",
+            "(c) Qurūḥ al-Litha",
+            "Cancrum oris disorder (TM2)",
+            "(c) Ākila al-Fam"
+        ]
+    },
+    {
+        "code": "SM1Z",
+        "title": "Oral cavity disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SM30",
+        "title": "Haematemesis disorder (TM2)",
+        "synonyms": [
+            "(b) Kuruti vānti (c) Qay’ al-Dam"
+        ]
+    },
+    {
+        "code": "SM31",
+        "title": "Abdominal distension disorder (TM2)",
+        "synonyms": [
+            "(a) ādhmānam (b) Mantam (c) Nafkh al-Mi‘da",
+            "Tympanites disorder (TM2)",
+            "(a) pratyādhmānaḥ",
+            " (a) pratyānāhaḥ",
+            "Meteorism (TM2)",
+            "Borborygmus disorder (TM2)",
+            "(c) Nafkh-o-Qarāqir",
+            "Gurgling (TM2)",
+            "Flatulence disorder (TM2)",
+            "(b) Porumal",
+            "Bloating disorder (TM2)",
+            "(c) entefakh-e batn",
+            "(c) Intifākh al-Baṭn"
+        ]
+    },
+    {
+        "code": "SM32",
+        "title": "Ascites disorder (TM2)",
+        "synonyms": [
+            "(a) udara (b) Peruvayiṟu nōy (c) Istisqā’ Ziqqī",
+            "(a) udararogaḥ",
+            " (a) jalodaraḥ",
+            "Ascites disorder due to Kapha (TM2)",
+            "(a) kaphaja-udararogaḥ",
+            "Ascites disorder due to obstructed bowels (TM2)",
+            "(a) baddhagudodaraḥ",
+            "Ascites due to Pitta disorder (TM2)",
+            "(a) pittaja-udararogaḥ",
+            "Intestinal perforation disorder (TM2)",
+            "(a) chidrodaraḥ",
+            " (a) kṣatodaram",
+            "(a) kṣatodaraḥ",
+            "Ascites disorder due to three dosha (TM2)",
+            "(a) sannipātōdaraḥ-udararogaḥ",
+            "Ascites disorder due to Vata (TM2)",
+            "(a) vātaja-udararogaḥ",
+            "Abdominal enlargement disorder (TM2)",
+            "(a) ajātodakaḥ"
+        ]
+    },
+    {
+        "code": "SM33",
+        "title": "Abdominal pain disorder (TM2)",
+        "synonyms": [
+            "(a) śūlaḥ (b) Vayiṟṟu Vaḷi (c) Waja‘ al-Mi‘da",
+            "(b) Cūlai nōy",
+            "Abdomen pain and flatulance disorder (TM2)",
+            "(b) Tūra cūlai",
+            "Pain disorder in the lower abdomen (TM2)",
+            "(b) Aiya cūlai",
+            "Spasmodic pain in the abdomen disorder (TM2)",
+            "(b) Muṟi cūlai",
+            "Tenesmus disorder (TM2)",
+            "(c) Maghṣ",
+            "Gastralgia due to Riyāḥ disorder (TM2)",
+            "(c) Waja‘ al-Mi‘da Riyāḥī",
+            "Gastralgia disorder due to derangement of Ṣafrā' (TM2)",
+            "(c) Waja‘ al-Mi‘da Ṣafrāwī",
+            "Hot gastralgia disorder (TM2)",
+            "(c) Waja‘ al-Mi‘da Ḥārr",
+            "Gastralgia disorder due to derangement of Balgham (TM2)",
+            "(c) Waja‘ al-Mi‘da Bārid Balghamī",
+            "Gastralgia disorder due to derangement of Sawdā' (TM2)",
+            "(c) Waja‘ al-Mi‘da Yābis Sawdāwī",
+            "Asthenic gastralgia disorder (TM2)",
+            "(c) Waja‘ al-Mi‘da Ḍu‘fī"
+        ]
+    },
+    {
+        "code": "SM34",
+        "title": "Constipation disorder (TM2)",
+        "synonyms": [
+            "(a) vibandha (b) Malakkaṭṭu (c) Qabḍ",
+            "(b) Malakkaṭṭu (c) I‘tiqāl al-Baṭn / Ḥuṣr / Iḥtibās al-Baṭn / Iḥtibās al-Ṭabī‘a / I‘tiqāl al-Ṭabī‘a / Imsāk al-Baṭn",
+            "(a) malavibandha",
+            "Habitual constipation disorder (TM2)",
+            "(c) Ḥuṣr Mu‘tād",
+            " (c) Ḥuṣr Dā’imī",
+            "Secondary constipation disorder (TM2)",
+            "(c) Ḥuṣr ‘Arḍī",
+            "Accumulation of excess Rīḥ in the alimentary canal disorder (TM2)",
+            "(c) Rīḥ al-Bawāsīr",
+            "Slow transit constipation disorder (TM2)",
+            "(a) vilambikā"
+        ]
+    },
+    {
+        "code": "SM35",
+        "title": "Volvulus disorder (TM2)",
+        "synonyms": [
+            "(a) udāvartaḥ (b) Calastampa vātam (c) Qūlanj Iltiwā’ī"
+        ]
+    },
+    {
+        "code": "SM36",
+        "title": "Malabsorption disorder (TM2)",
+        "synonyms": [
+            "(a) grahaṇī (b) Niṇak kaẕiccal (c) Dharab-o-Khilfa",
+            "Sprue (TM2)"
+        ]
+    },
+    {
+        "code": "SM37",
+        "title": "Diarrhoea disorder (TM2)",
+        "synonyms": [
+            "(a) atisāraḥ (b) Peruṅ kaẕiccal (c) Ishāl",
+            "Hepatic diarrhoea disorder (TM2)",
+            "(c) Dhūsanṭāriya Kabidiyya",
+            "Irritable bowel syndrome disorder (TM2)",
+            "(c) Ishāl Dimāghī",
+            "Diarrhoea disorder due to fever arising from Ṣafrā’ or hectic fever (TM2)",
+            "(c) Ishāl Marārī",
+            "Diarrhoea disorder due to the involvement of spleen (TM2)",
+            "(c) Ishāl Ṭiḥālī",
+            "Blood with diarrhoea disorder due to involvement of intestine (TM2)",
+            "(c) Dhūsanṭāriya Mi‘wiyya",
+            "Diarrhoea disorder due to Aẕal aggrevation (TM2)",
+            "(b) Aticāra pittam",
+            "Enterorrhoea disorder due to derangement of Ṣafrā’ (TM2)",
+            "(c) Ishāl Mi‘wī Ṣafrāwī",
+            "Enterorrhoea disorder due to derangement of Sawdā’ (TM2)",
+            "(c) Ishāl Mi‘wī Sawdāwī",
+            "Bloody loose stools disorder (TM2)",
+            "(b) Kuruti peruṅ kaẕiccal",
+            "Loose stools disorder caused by derangement of Aiyam (TM2)",
+            "(b) Aiya peruṅ kaẕiccal",
+            "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+            "(b) Mukkuṟṟa peruṅ kaẕiccal",
+            "Loose stools disorder caused by derangement of Vaḷi (TM2)",
+            "(b) Vaḷipperuṅ kaẕiccal",
+            "Diarrhoea disorder due only to Vāta (TM2)",
+            "(a) viḍ-bhedaḥ",
+            "Loose stools disorder caused by derangement of Aẕal (TM2)",
+            "(b) Aẕal peruṅ kaẕiccal",
+            "Loose stools disorder occuring in fearness (TM2)",
+            "(b) Payam peruṅ kaẕiccal",
+            "Diarrhoea disorder during pregnancy (TM2)",
+            "(b) Karppa kirāṇi",
+            "Loose stools disorder occuring in fever (TM2)",
+            "(b) Curapperuṅ kaẕiccal"
+        ]
+    },
+    {
+        "code": "SM38",
+        "title": "Dysentery disorder (TM2)",
+        "synonyms": [
+            "(a) pravāhikā (b) Niṇak kaẕiccal (c) Zaḥīr",
+            "Dysentery disorder presenting persistent moisture around anus (TM2)",
+            "(b) Ericcal niṇak kaẕiccal",
+            "Loose stools disorder with blood and pus (TM2)",
+            "(b) Kaṭuppukkaẕiccal",
+            "Dysentery disorder occuring in pregnancy (TM2)",
+            "(b) Cūl niṇak kaẕiccal",
+            "Aggravated Aiyam disorder leading to dysentery (TM2)",
+            "(b) Aticāram"
+        ]
+    },
+    {
+        "code": "SM39",
+        "title": "Dyspepsia disorder (TM2)",
+        "synonyms": [
+            "(a) amlapittam (b) Cavviraṅka vātam (c) Fasād al-Haḍm",
+            "(c) Sū’ al-Haḍm",
+            "Dyspepsia with upward tendency disorder (TM2)",
+            "(a) ūrdhvagata-amlapittam",
+            "(a) ūrdhvaga-amlapittam",
+            "Dyspepsia with downward tendency disorder (TM2)",
+            "(a) adhōga-amlapittam",
+            "(a) adhogata-amlapittam"
+        ]
+    },
+    {
+        "code": "SM3A",
+        "title": "Hyperacidity disorder (TM2)",
+        "synonyms": [
+            "(b) Vaṉṉi pittam (c) Ḥurqa al-Mi‘da",
+            "(c) laz'e me'deh"
+        ]
+    },
+    {
+        "code": "SM3B",
+        "title": "Indigestion disorder (TM2)",
+        "synonyms": [
+            "(a) ajīrṇam (b) Ceriyāmai (c) Ḍu‘f al-Haḍm",
+            "Impaired digestion disorder (TM2)",
+            "(a) agnimāndyam",
+            "Indigestion disorder due to Aẕal (TM2)",
+            "(b) Acīraṇa pittam",
+            "Indigestion disorder due to kapha (TM2)",
+            "(a) apaktiḥ"
+        ]
+    },
+    {
+        "code": "SM3C",
+        "title": "Food stasis indigestion disorder (TM2)",
+        "synonyms": [
+            "(a) alasaka (b) Mānta nōy (c) Tukhma",
+            "Food stasis (TM2)",
+            "Food stasis (minor) disorder (TM2)",
+            "(c) Buṭlān al-Haḍm",
+            "Indigestion (TM2)",
+            " Failure of digestion (TM2)",
+            "Severe indigestion (TM2)"
+        ]
+    },
+    {
+        "code": "SM3D",
+        "title": "Duodenal ulcer disorder (TM2)",
+        "synonyms": [
+            "(a) pariṇāmaśūlaḥ (b) Vaḷi kuṉmam"
+        ]
+    },
+    {
+        "code": "SM3E",
+        "title": "Gastric ulcer disorder (TM2)",
+        "synonyms": [
+            "(a) annadravaśūlaḥ (b) Eri kuṉmam (c) Qarḥa wa Buthūr al-Mi‘da",
+            "(c) qrwh me'deh",
+            "Gastric disorder due to derangement of aiyam (TM2)",
+            "(b) Aiya kuṉmam",
+            "Gastric disorder due to derangementof Vaḷi (TM2)",
+            "(b) Vaḷi kuṉmam",
+            "Gastric disorder due to derangementof Mukkuṟṟam (TM2)",
+            "(b) Mukkuṟṟa kuṉmam",
+            "Gastric disorder due to increased flattulence (TM2)",
+            "(b) Kāl kuṉmam",
+            "Gastric disorder with vomiting (TM2)",
+            "(b) Vānti kuṉmam",
+            "Stomach abrasion disorder (TM2)",
+            "(c) sahj-e me'deh",
+            "(c) Qurūḥ-i-Mi‘da"
+        ]
+    },
+    {
+        "code": "SM3F",
+        "title": "Gastritis disorder (TM2)",
+        "synonyms": [
+            "(a) vātapaittikaśūlaḥ (b) Aẕal kuṉmam (c) Waram al-Mi‘da",
+            "Gastritis disorder due to derangement of Balgham (TM2)",
+            "(c) Waram al-Mi‘da Balghamī",
+            "Gastritis disorder due to derangement of Ṣafrā' (TM2)",
+            "(c) Waram al-Mi‘da Ṣafrāwī",
+            "Gastritis disorder due to derangement of Dam (TM2)",
+            "(c) Waram al-Mi‘da Damawī",
+            "Gastritis disorder due to derangement of Sawdā' (TM2)",
+            "(c) Waram al-Mi‘da Sawdāwī"
+        ]
+    },
+    {
+        "code": "SM3G",
+        "title": "Hernia disorder (TM2)",
+        "synonyms": [
+            "(a) antra-vṛddhiḥ (b) Kuṭal vātam (c) Fatq",
+            "Strangulated inguinal hernia disorder (TM2)",
+            "(c) Kuriṣikiriṣavātam",
+            "Direct inguinal hernia disorder (TM2)",
+            "(b) Kuṭal vitai nōy",
+            "Indirect inguinal hernia disorder (TM2)",
+            "(b) Kumuṟal vitai nōy"
+        ]
+    },
+    {
+        "code": "SM3H",
+        "title": "Nausea disorder (TM2)",
+        "synonyms": [
+            "(a) utkleśaḥ (c) Ghathayān",
+            "(b) Manta aiya nōy",
+            "Morning sickness during pregnancy (Nausea gravidarum) disorder (TM2)",
+            "(b) Cūl vānti"
+        ]
+    },
+    {
+        "code": "SM3J",
+        "title": "Retching disorder (TM2)",
+        "synonyms": [
+            "(a) vātaja-chardiḥ (b) Vaḷi Vānti (c) Tahawwu‘"
+        ]
+    },
+    {
+        "code": "SM3K",
+        "title": "Abdominal lumps disorder (TM2)",
+        "synonyms": [
+            "(a) gulmaḥ (b) Kuṉmam"
+        ]
+    },
+    {
+        "code": "SM3L",
+        "title": "Vomiting disorder (TM2)",
+        "synonyms": [
+            "(a) chardiḥ (b) Vānti (c) Qay’",
+            "Vomiting disorder during the crisis period of disease (TM2)",
+            "(c) Qay’ Buḥrānī",
+            "Vomiting disorder associated with the disease of organ other than stomach (TM2)",
+            "(c) Qay’ Shirkī"
+        ]
+    },
+    {
+        "code": "SM3Y",
+        "title": "Other specified abdominal cavity disorders (TM2)",
+        "synonyms": [
+            "Perverted appetite disorder (TM2)",
+            "(c) Fasād al-Ishtihā’",
+            "(c) Fesad-e Eshteha",
+            "Pica disorder (TM2)",
+            "(c) Waḥam",
+            "Gastric debility disorder (TM2)",
+            "(c) Ḍu‘f al-Mi‘da",
+            "(c) Za'af-e Me'deh",
+            "Gastric dyscrasia disorder (TM2)",
+            "(c) Sū’-i-Mizāj-i-Mi‘da",
+            "Feeling of abdomen as if enveloped by a cloth disorder (TM2)",
+            "(a) udarāveṣṭaḥ",
+            "Vomiting of undigested food disorder (TM2)",
+            "(c) Inqilāb al-Mi‘da",
+            "Reverse peristalsis (TM2)",
+            " Retroperistalsis (TM2)",
+            "Distressing pain of stomach disorder (TM2)",
+            "(c) Karb al-Mi‘da",
+            "Feeling of trembling movement of stomach disorder (TM2)",
+            "(c) Ikhtilāj al-Mi‘da",
+            "Painful acid eructatons disorder (TM2)",
+            "(a) amlakaḥ",
+            "Gastric regurgitation disorder (TM2)",
+            "(b) Utara vātam",
+            "Feeling of heaviness of the stomach disorder (TM2)",
+            "(c) theql-e me'deh",
+            "(c) Thiqal-i-Mi‘da",
+            "Weakened appetite disorder (TM2)",
+            "(c) za'fe shahwat-e ta'Am",
+            "(c) Ḍu‘f al-Shahwa",
+            " (c) Nuqṣān al-Shahwa",
+            " (c) Qilla al-Shahwa",
+            "Eructation disorder (TM2)",
+            "(c) joshA",
+            "(c) Jushā’",
+            " (c) Ārogh",
+            " (c) Dekār",
+            "Gastro oesophageal reflex disorder (TM2)",
+            "(c) Waja‘ al-Fuwād"
+        ]
+    },
+    {
+        "code": "SM3Z",
+        "title": "Abdominal cavity disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SM40",
+        "title": "Liver abscess disorder (TM2)",
+        "synonyms": [
+            "(a) yakr̥jjavidradhiḥ (b) Kallīral Kaṭṭi (c) Dubayla al-Kabid",
+            "(c) Dubayla-i-Jigar",
+            "Liver abscess complication disorder (TM2)",
+            "(b) Urakāri vātam"
+        ]
+    },
+    {
+        "code": "SM41",
+        "title": "Jaundice disorder (TM2)",
+        "synonyms": [
+            "(a) kāmalā (b) Mañcaḷ nōy (c) Yarqān Aṣfar",
+            "Severe jaundice disorder (TM2)",
+            "(a) lakharaka",
+            "Hepatocellular jaundice disorder (TM2)",
+            "(a) koṣṭhāśrita-kāmalā",
+            "Jaundice disorder with dry and hardened bodily tissues (TM2)",
+            "(a) kumbhakāmalā",
+            "Obstructive jaundice disorder (TM2)",
+            "(a) śākhāśrita-kāmalā",
+            "Jaundice disorder due to increased Vaḷi",
+            " Aẕal and Aiya kutram (TM2)",
+            "(b) Mukkuṟṟa mañcaḷ nōy",
+            "Advanced stage of jaundice disorder (TM2)",
+            "(a) halīmaka",
+            "Jaundice disorder of children (TM2)",
+            "(b) Kāmālai",
+            "Jaundice disorder with abdominal pain (TM2)",
+            "(b) Kuṉma mañcaḷ nōy",
+            "Jaundice disorder with dysentery (TM2)",
+            "(b) Kumpa mañcaḷ nōy",
+            "Jaundice disorder due to increased Vaḷi and Aiyam (TM2)",
+            "(b) Vaḷi aiya mañcaḷ nōy",
+            "Jaundice disorder with gait disturbances and night blindness (TM2)",
+            "(b) Vaṟaḷ mañcaḷ nōy",
+            "Jaundice disorder due to combination two humors (TM2)",
+            "(b) Tonta mañcaḷ nōy",
+            "Jaundice disorder with male sterility (TM2)",
+            "(b) Peru mañcaḷ nōy",
+            "Jaundice disorder with cardiac dysfunction (TM2)",
+            "(b) Ceṅkamala mañcaḷ nōy",
+            "Jaundice disorder caused by increased Aẕal Aiyam (TM2)",
+            "(b) Aẕal aiya mañcaḷ nōy",
+            "Jaundice disorder caused by increased Vaḷi (TM2)",
+            "(b) Vaḷi mañcaḷ nōy",
+            "Jaundice disorder due to aiyam (TM2)",
+            "(b) Aiya mañcaḷ nōy",
+            "Jaundice disorder with urethritis (TM2)",
+            "(b) Aẕaku mañcaḷ nōy",
+            "Jaundice disorder caused by increased Aẕal (TM2)",
+            "(b) Aẕal mañcaḷ nōy"
+        ]
+    },
+    {
+        "code": "SM42",
+        "title": "Hepatomegaly disorder (TM2)",
+        "synonyms": [
+            "(a) yakṛddālyudaraḥ (b) Vaḷi Kallīral Nōy (c) ‘Iẓam al-Kabid"
+        ]
+    },
+    {
+        "code": "SM43",
+        "title": "Hepatitis disorder (TM2)",
+        "synonyms": [
+            "(c) Waram al-Kabid",
+            "(b) Aṭcēpakavātam",
+            "Alcoholic liver disorder (TM2)",
+            "(b) Cartti pittam",
+            "Hepatitis disorder due to derangement of Ṣafrā' (TM2)",
+            "(c) Waram al-Kabid Ṣafrāwī",
+            "Hepatitis disorder due to derangement of Sawdā' (TM2)",
+            "(c) Waram al-Kabid Sawdāwī",
+            "Hepatitis disorder due to derangement of Balgham (TM2)",
+            "(c) Waram al-Kabid Balghamī",
+            "Hepatitis disorder due to derangement of Dam (TM2)",
+            "(c) Waram al-Kabid Damawī"
+        ]
+    },
+    {
+        "code": "SM44",
+        "title": "Splenomegaly disorder (TM2)",
+        "synonyms": [
+            "(a) plīhavruddhi (b) Mukkuṟṟa Maṇṇīral Nōy (c) Iẓam al-Ṭiḥāl",
+            "(a) plīharogaḥ (b) Pilīkavirutti"
+        ]
+    },
+    {
+        "code": "SM4Y",
+        "title": "Other specified liver and Spleen disorders (TM2)",
+        "synonyms": [
+            "Jaundice disorder with anasarca (TM2)",
+            "(b) Ūtumañcaḷ nōy",
+            "Cirrhosis of liver disorder (TM2)",
+            "(c) Ṣalāba al-Kabid",
+            "Hepatalgia disorder (TM2)",
+            "(c) Waja‘ al-Kabid",
+            " (c) Kubād",
+            "Hepatic dyscrasia disorder (TM2)",
+            "(c) Sū’ Mizāj-i-Kabid",
+            "Hepatic atrophy disorder (TM2)",
+            "(c) Taṣaghghur al-Kabid",
+            " (c) Ṣighar al-Kabid",
+            " (c) Ḍumūr al-Kabid",
+            "Collection of Riyāḥ into the liver disorder (TM2)",
+            "(c) Nafkh wa Riyāḥ al-Kabid",
+            "Splenic insufficiency disorder (TM2)",
+            "(c) Ḍu‘f al-Ṭiḥāl",
+            "(c) Za'af-e-Tahal",
+            "Accumulation of Rīḥ in the spleen disorder (TM2)",
+            "(c) Nafkh wa Riyāḥ al-Ṭiḥāl",
+            "Splenic dyscrasia disorder (TM2)",
+            "(c) Sū’ Mizāj-i-Ṭiḥāl",
+            "Gallbladder obstruction disorder (TM2)",
+            "(c) soddeh-ye merAreh",
+            "(c) Sudda’-i-Marāra",
+            "Liver obstruction disorder (TM2)",
+            "(c) soddeh-ye kabed",
+            "(c) Sudda’-i-Kabid / Sudda’-i-Jigar",
+            "Hepatic insufficiency disorder (TM2)",
+            "(c) Ḍu‘f al-Kabid",
+            "(c) Za'af-e-Kabed",
+            "Blackish discoloration of the skin disorder (TM2)",
+            "(c) Yarqān Aswad"
+        ]
+    },
+    {
+        "code": "SM4Z",
+        "title": "Liver and Spleen disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SM50",
+        "title": "Proctalgia disorder (TM2)",
+        "synonyms": [
+            "(a) gudārtiḥ (b) Pūcuvātam"
+        ]
+    },
+    {
+        "code": "SM51",
+        "title": "Anal fissure disorder (TM2)",
+        "synonyms": [
+            "(a) parikartikā (c) Shuqāq al-Maq‘ad",
+            "(b) Kaḻalmuḷai nōy"
+        ]
+    },
+    {
+        "code": "SM52",
+        "title": "Fistula in ano disorder (TM2)",
+        "synonyms": [
+            "(a) bhagandaraḥ (b) Pavuttiram (c) Nawāṣīr Nāfidha",
+            "Faecal fistula disorder (TM2)",
+            "(a) viḍ-vighātaḥ",
+            "Ano vesical fistula disorder (TM2)",
+            "(b) Mūlap pavuttiram",
+            "Anorectal fistula disorder due to increasing Vaḷi (TM2)",
+            "(b) Eruvāy kaṇṭamālai pavuttiram",
+            "Fistula in ani disorder due to increasing Aẕal (TM2)",
+            "(b) Eruvāy pavuttiram"
+        ]
+    },
+    {
+        "code": "SM53",
+        "title": "Haemorrhoids disorder (TM2)",
+        "synonyms": [
+            "(a) arśaḥ (b) Eruvāy muḷai nōy (c) Bawāsīr",
+            "Piles (TM2)",
+            "Bleeding piles disorder (TM2)",
+            "(b) Kuruti muḷai",
+            "External bleeding piles disorder with growth in the size of lotus flower (TM2)",
+            "(b) Tamaraka muḷai",
+            "External piles disorder with dryness (TM2)",
+            "(b) Eruvāy varal muḷai",
+            "External piles disorder with growth in the size of Amorphallus (TM2)",
+            "(b) Eruvāyc ceṇṭu muḷai",
+            "External piles disorder with growth in the size of bamboo bud and bloody pus discharge (TM2)",
+            "(b) Kutamūlam",
+            "External piles disorder with growth in the size of coocinia grandis and pus discharge (TM2)",
+            "(b) Kuẕi muḷai",
+            "External piles disorder with growth in the size of Curcuma longa (TM2)",
+            "(b) Eruvāy perumuḷai",
+            "External piles disorder with small growth (TM2)",
+            "(b) Eruvāy ciṟu muḷai",
+            "External piles disorder with numerous acne size growth around the anus (TM2)",
+            "(b) Veḷi muḷai",
+            "External piles disorder with skin tag (TM2)",
+            "(b) Cavvu muḷai",
+            "Pile mass in anus disorder due to increased Vaḷi ",
+            " Aẕal and Aiyam (TM2)",
+            "(b) Mukkuṟṟa muḷai nōy",
+            "Pile mass resembling tapioca disorder (TM2)",
+            "(b) Āẕi muḷai",
+            "Piles associated with glycosuria disorder (TM2)",
+            "(b) Mēka muḷai",
+            "Piles associated with intestinal pain and increased body heat disorder (TM2)",
+            "(b) Curukku muḷai",
+            "Piles associated with neurological pain and belching disorder (TM2)",
+            "(b) Viṉai muḷai",
+            "Piles associated with penile ulcers disorder (TM2)",
+            "(b) Kaẕal muḷai",
+            "Piles disorder caused by derangement of Aiyam (TM2)",
+            "(b) Aiya muḷai",
+            "Piles disorder caused by derangement of Aẕal (TM2)",
+            "(b) Aẕal muḷai",
+            "Piles disorder caused by derangement of Vaḷi (TM2)",
+            "(b) Vaḷi muḷai",
+            "Piles disorder with abdominal pain and flatulence (TM2)",
+            "(b) Eruvāy nīrmuḷai",
+            "Piles disorder with pus exudates from anus (TM2)",
+            "(b) Cīẕ muḷai",
+            "Congenital haemorrhoid disorder (TM2)",
+            "(a) sahaja-arśaḥ",
+            "Haemorrhoid disorder due to Kapha (TM2)",
+            "(a) kaphaja-arśaḥ",
+            "Haemorrhoid disorder due to Pitta (TM2)",
+            "(a) pittaja-arśaḥ",
+            "Haemorroid disorder due to Aẕal aggrevation (TM2)",
+            "(b) Mūla pittam",
+            "Haemorrhoid disorder due to blood (TM2)",
+            "(a) raktaja-arśaḥ",
+            "(a) ārdra-arśaḥ",
+            "Haemorrhoid disorder due to Vata (TM2)",
+            "(a) vātaja-arśaḥ",
+            "(a) śuṣka-arśaḥ",
+            "Haemorrhoid disorder due to all the three dosha (TM2)",
+            "(a) sannipātaja-arśaḥ"
+        ]
+    },
+    {
+        "code": "SM54",
+        "title": "Proctitis disorder (TM2)",
+        "synonyms": [
+            "(a) gudapākaḥ (c) Waram al-Maq‘ad",
+            "(a) gudakuṭṭanam",
+            "(b) Aẕal muḷai"
+        ]
+    },
+    {
+        "code": "SM55",
+        "title": "Rectal prolapse disorder (TM2)",
+        "synonyms": [
+            "(a) gudabhraṃśaḥ (b) Virēki Aṭittaḷḷal (c) Khurūj al-Maq‘ad",
+            "(c) Khurūj al-Mabraz"
+        ]
+    },
+    {
+        "code": "SM56",
+        "title": "Anal abscess disorder (TM2)",
+        "synonyms": [
+            "(a) gudajavidradhi (b) Eruvāykkaṭṭi (c) Nawāṣīr Ghayr Nāfidha",
+            "Abscess in the inguinal region disorder (TM2)",
+            "(b) Toṭai iṭukku kaṭṭi"
+        ]
+    },
+    {
+        "code": "SM5Y",
+        "title": "Other specified anorectal disorders (TM2)",
+        "synonyms": [
+            "Anal stenosis disorder (TM2)",
+            "(a) sanniruddhagudaḥ"
+        ]
+    },
+    {
+        "code": "SM5Z",
+        "title": "Anorectal disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SM70",
+        "title": "Flank pain disorder (TM2)",
+        "synonyms": [
+            "(a) pārśvarujaḥ (b) Āma cūlai (c) Shūṣa",
+            "(a) pārśvaśūlaḥ"
+        ]
+    },
+    {
+        "code": "SM71",
+        "title": "Anorexia disorder (TM2)",
+        "synonyms": [
+            "(a) arocakaḥ (c) Buṭlān al-Ishtihā’",
+            "(c) Ḍu‘f al-Ishtihā’",
+            "(b) Maṉa cuvaiyiṉmai nōy"
+        ]
+    },
+    {
+        "code": "SM72",
+        "title": "Bowel inflammation disorder (TM2)",
+        "synonyms": [
+            "(a) raktaja-pravāhikā (b) Mirut vātam (c) Saḥj wa Qurūḥ al-Am‘ā’"
+        ]
+    },
+    {
+        "code": "SM73",
+        "title": "Infantile tenesmus disorder (TM2)",
+        "synonyms": [
+            "(a) kṣīrālasakaḥ (b) Māntam (c) Maghṣ al-Aṭfāl"
+        ]
+    },
+    {
+        "code": "SM74",
+        "title": "Hiccough disorder (TM2)",
+        "synonyms": [
+            "(a) hikkā (b) Vikkal nōy (c) Fuwāq",
+            "Hiccough disorder due to Rīḥ (TM2)",
+            "(c) Fuwāq Rīḥī",
+            "Hiccough disorder due to gastroesophageal reflux (TM2)",
+            "(b) Ceriyā vikkal nōy",
+            "Vyapeta hiccough disorder (TM2)",
+            "(a) vyapetāhikkā",
+            " (a) yamalāhikkā",
+            "High sound continous hiccough disorder (TM2)",
+            "(a) mahatīhikkā",
+            "Hiccough disorder with severe intensity (TM2)",
+            "(a) gambhīrāhikkā",
+            "Hiccough disorder alleviating with food intake (TM2)",
+            "(a) kṣudrā hikkā",
+            "Aggrevation of Aẕal leading to recurrent hiccough disorder (TM2)",
+            "(b) Vikkal pittam"
+        ]
+    },
+    {
+        "code": "SM75",
+        "title": "Dynamic intestinal obstruction disorder (TM2)",
+        "synonyms": [
+            "(a) ūrdhvavātaḥ (b) Kuṭaṟpiṭippu nōy",
+            " ānāka nōy (c) Īlā’ūs"
+        ]
+    },
+    {
+        "code": "SM76",
+        "title": "Severe vomiting and diarrhoea disorder (TM2)",
+        "synonyms": [
+            "(a) visūcikā (b) Ūẕi nōy (c) Hayḍa"
+        ]
+    },
+    {
+        "code": "SM7Y",
+        "title": "Other specified gastro-intestinal disorders (TM2)",
+        "synonyms": [
+            "Aggravated Aiyam disorder leading to ulceration in throat (TM2)",
+            "(b) Viraṇa Cilēṭṭumam",
+            "Apthous ulcer disorder (TM2)",
+            "(b) Akkaram",
+            "Strangury disorder with severe constipation due to Vaḷi (TM2)",
+            "(b) Calastampa vātam",
+            "Aẕal and dyspepsia disorder (TM2)",
+            "(b) Aruci pittam",
+            "Aggrevation of Aẕal associated with black colour vomiting disorder (TM2)",
+            "(b) Karum pittam",
+            "Aggrevation of Aẕal causing haematemesis and reddish stools disorder (TM2)",
+            "(b) Cem pittam",
+            "Digestive disorder due to fever in children (TM2)",
+            "(b) Cura māntam",
+            "Lower abdominal pain with accumulation of blood in uterus disorder (TM2)",
+            "(b) Karppacūlai vātam",
+            "Muscular growth in the abdomen and pelvis disorder (TM2)",
+            "(b) Ukkāra cūlai",
+            "Papules in the tongue disorder (TM2)",
+            "(b) Nāmuḷ",
+            "Blennemesis disorder (TM2)",
+            "(a) śleṣmodgiraṇam",
+            "Excessive satiation disorder (TM2)",
+            "(a) tṛptiḥ",
+            "Insatiation disorder (TM2)",
+            "(a) atṛptiḥ",
+            "Umbilical polyp disorder (TM2)",
+            "(a) nābhija-arśaḥ",
+            "Retention of stool disorder (TM2)",
+            "(a) mala-apravṛtiḥ",
+            "Internal burning sensation disorder (TM2)",
+            "(a) antardāhaḥ",
+            "Burning stomach pain (TM2)",
+            "Heart burn (TM2)",
+            "Pyrosis (TM2)"
+        ]
+    },
+    {
+        "code": "SM7Z",
+        "title": "Gastro-intestinal disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SM80",
+        "title": "Renal abscess disorder (TM2)",
+        "synonyms": [
+            "(a) vr̥kkajavidradhiḥ (b) Mūttiranāḷakkaṭṭi (c) Dubayla al-Kulya"
+        ]
+    },
+    {
+        "code": "SM81",
+        "title": "Retention of urine disorder (TM2)",
+        "synonyms": [
+            "(a) mūtranigrahaḥ (b) Nīrkkaṭṭu (c) Iḥtibās al-Bawl"
+        ]
+    },
+    {
+        "code": "SM82",
+        "title": "Insufficiency of the urinary bladder disorder (TM2)",
+        "synonyms": [
+            "(a) mūtrāghātaḥ (b) Nīraṭaippu (c) Ḍu‘f al-Mathāna",
+            "Uro-celioncus disorder (TM2)",
+            "(a) mūtrajaṭharaḥ",
+            "Circular bladder distension disorder (TM2)",
+            "(a) bastikuṇḍalaḥ",
+            "Atonic bladder disorder (TM2)",
+            "(c) Istirkhā’ al-Mathāna"
+        ]
+    },
+    {
+        "code": "SM83",
+        "title": "Renal colic disorder (TM2)",
+        "synonyms": [
+            "(a) tūnī (b) Aẕal nīrccurukku (c) Qūlanj Kulwī",
+            "Colicky pain radiating towards bladder and upwards to abdomen disorder (TM2)",
+            "(a) pratitūnī"
+        ]
+    },
+    {
+        "code": "SM84",
+        "title": "Nephritis disorder (TM2)",
+        "synonyms": [
+            "(b) Nīrkkaṭṭu (c) Waram al-Kulya",
+            "Hot nephritis disorder (TM2)",
+            "(c) Waram al-Kulya Ḥārr",
+            "Hard nephritis disorder (TM2)",
+            "(c) Waram al-Kulya Ṣulb",
+            "Nephrosclerosis (TM2)",
+            "Anuria due to Vaḷi (pead) disorder (TM2)",
+            "(b) Nīrkkaṭṭu (pead)",
+            "Difficulty in micturition (TM2)",
+            "Cold nephritis disorder due derangement of Balgham (TM2)",
+            "(c) Waram al-Kulya Bārid Balghamī"
+        ]
+    },
+    {
+        "code": "SM85",
+        "title": "Cystitis disorder (TM2)",
+        "synonyms": [
+            "(b) Aiya Nīrccurukku (c) Waram al-Mathāna"
+        ]
+    },
+    {
+        "code": "SM86",
+        "title": "Wound of the urinary bladder disorder (TM2)",
+        "synonyms": [
+            "(b) Ciṟunīr pātaiyiṉ kāyaṅkaḷ (c) Qurūḥ al-Mathāna"
+        ]
+    },
+    {
+        "code": "SM87",
+        "title": "Dysuria disorder (TM2)",
+        "synonyms": [
+            "(a) mūtrakṛcchram (b) Nīrccurukku (c) ‘Usr al-Bawl",
+            "Burning micturition disorder (TM2)",
+            "Burning-dysuria (TM2)",
+            "(a) uṣṇavātaḥ",
+            "(a) uṣṇamāruta (c) Ḥurqa al-Bawl",
+            "Urinary tract infection disorder (TM2)",
+            "(b) Meccu vātam",
+            "Painful micturition during pregnancy disorder (TM2)",
+            "(b) Cūl Nīr curukku"
+        ]
+    },
+    {
+        "code": "SM88",
+        "title": "Dribbling of urine disorder (TM2)",
+        "synonyms": [
+            "(a) vātakuṇḍalikā (b) Coṭṭu nīr (c) Taqṭīr al-Bawl",
+            "Urinary hesitancy disorder (TM2)",
+            "(a) mūtrātītaḥ",
+            "Residual urination disorder (TM2)",
+            "(a) mūtrotsaṅgaḥ"
+        ]
+    },
+    {
+        "code": "SM89",
+        "title": "Thick urine disorder (TM2)",
+        "synonyms": [
+            "(a) mūtraukasādaḥ (c) Bawl Ghalīẓ"
+        ]
+    },
+    {
+        "code": "SM8A",
+        "title": "Haematuria disorder (TM2)",
+        "synonyms": [
+            "(a) lohitamehaḥ (b) Aẕal Nīrccurukku (c) Bawl al-Dam"
+        ]
+    },
+    {
+        "code": "SM8B",
+        "title": "Urinary incontinence disorder (TM2)",
+        "synonyms": [
+            "(a) vātabastiḥ (b) Ciṟunīriṉ māṟutalkaḷ (c) Salas al-Bawl"
+        ]
+    },
+    {
+        "code": "SM8C",
+        "title": "Urinary stone disorder (TM2)",
+        "synonyms": [
+            "(a) aśmarī (b) Kallaṭaippu (c) Ḥaṣā wa Raml al-Kulya",
+            "Cystolithiasis disorder (TM2)",
+            "Ḥaṣā al-Mathāna",
+            "Renal calculi disorder due to Kapha (TM2)",
+            "(a) kaphaja-aśmarī",
+            "Renal calculi disorder due to Pitta (TM2)",
+            "(a) pittaja-aśmarī",
+            "Renal calculi disorder due to Sukra (TM2)",
+            "(a) śukrāśmarī",
+            "Renal calculi disorder due to Vata (TM2)",
+            "(a) vātaja-aśmarī"
+        ]
+    },
+    {
+        "code": "SM8D",
+        "title": "Polyuria disorder (TM2)",
+        "synonyms": [
+            "(a) pramehaḥ (b) Nīriṉaipperukkal nōykaḷ (c) Kathra al-Bawl",
+            "Polyuria disorder due to Kapha (TM2)",
+            "(a) kaphajapramehaḥ",
+            "Polyuria disorder due to Pitta (TM2)",
+            "(a) pittaja-pramehaḥ",
+            "Polyuria disorder due to Vāta (TM2)",
+            "(a) vātajapramehaḥ",
+            "Aggravated Aiyam leading to polyurea disorder (TM2)",
+            "(b) Nīrkkōvai",
+            "(b) Nīriẕivu",
+            "Albuminuria disorder (TM2)",
+            "(a) lālāmehaḥ",
+            "Albunosuria disorder (TM2)",
+            "(a) piṣṭamehaḥ",
+            "Ash-coloured urine disorder (TM2)",
+            "(a) kṣāramehaḥ",
+            "Belluria disorder (TM2)",
+            "(a) sāndraprasādamehaḥ",
+            "Bilirubinuria disorder (TM2)",
+            "(a) hāridramehaḥ",
+            "Chyluria disorder (TM2)",
+            "(a) sāndramehaḥ",
+            "Excess and profuse urination like elephant disorder (TM2)",
+            "(a) hastimehaḥ",
+            "Frothy urine disorder (TM2)",
+            "(a) phenamehaḥ",
+            "Glycosuria disorder (TM2)",
+            "(a) ikṣuvālikāmehaḥ",
+            "Gravaluria disorder (TM2)",
+            "(a) sikatāmehaḥ",
+            "Lithuria (TM2)",
+            "Haemoglobinuria disorder (TM2)",
+            "(a) mañjiṣṭhāmehaḥ",
+            "Hydruria disorder (TM2)",
+            "(a) udakamehaḥ",
+            "Indicanuria disorder (TM2)",
+            "(a) nīlamehaḥ",
+            "Melanuria disorder (TM2)",
+            "(a) kālamehaḥ",
+            " (a) kṛṣṇamehaḥ",
+            "Polyuria disorder with cold urine (TM2)",
+            "(a) śītamehaḥ",
+            "Polyurea disorder like salt solution (TM2)",
+            "(a) lavaṇamehaḥ",
+            "Slow pace micturition disorder (TM2)",
+            "(a) śanairmehaḥ",
+            "Hyper-acidic urine disorder (TM2)",
+            "(a) amlamehaḥ",
+            "Spermaturia disorder (TM2)",
+            "(a) śukramehaḥ",
+            "Urine resembling alcohol disorder (TM2)",
+            "(a) surāmehaḥ",
+            "Urine resembling bone marrow disorder (TM2)",
+            "(a) majjāmehaḥ",
+            "Urine resembling ghee disorder (TM2)",
+            "(a) sarpirmehaḥ",
+            "Urine resembling intramuscular fat disorder (TM2)",
+            "(a) vasāmehaḥ",
+            "White urine disorder (TM2)",
+            "(a) śuklamehaḥ",
+            "Albinuria (TM2)"
+        ]
+    },
+    {
+        "code": "SM8E",
+        "title": "Oliguria disorder (TM2)",
+        "synonyms": [
+            "(a) mūtrasaṃkṣayaḥ",
+            "Anuria (TM2)",
+            "(c) Qilla al-Bawl"
+        ]
+    },
+    {
+        "code": "SM8Y",
+        "title": "Other specified urinary system disorders (TM2)",
+        "synonyms": [
+            "Cystodynia disorder (TM2)",
+            "(c) Waja‘ al-Mathāna",
+            "Renal insufficiency disorder (TM2)",
+            "(c) Ḍu‘f al-Kulya",
+            "(c) za'fe gordeh",
+            "Renal pain disorder (TM2)",
+            "(c) Waja‘ al-Kulya",
+            "(c) Dard-i- Gurda",
+            "Bladder tumour disorder (TM2)",
+            "(a) mūtragranthiḥ",
+            " (a) raktagranthiḥ",
+            "Bladder carcinoma disorder (TM2)",
+            "(b) Mūttira utira vātam"
+        ]
+    },
+    {
+        "code": "SM8Z",
+        "title": "Urinary system disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SM90",
+        "title": "Amenorrhoea disorder (TM2)",
+        "synonyms": [
+            "(a) arajaskā (b) Kukaraṇa mey cūtakataṭai (c) Iḥtibās al-Tamth",
+            "(a) rajonāśaḥ / naṣṭārtava / anārtava"
+        ]
+    },
+    {
+        "code": "SM91",
+        "title": "Endocervicitis disorder (TM2)",
+        "synonyms": [
+            "(a) karṇinī (b) Karuppaik kaẕuntu uḷpuṟa aẕaṟci"
+        ]
+    },
+    {
+        "code": "SM92",
+        "title": "Bartholin's cyst disorder (TM2)",
+        "synonyms": [
+            "(a) yonikandaḥ (b) Surappikallutaiya Athaippu"
+        ]
+    },
+    {
+        "code": "SM93",
+        "title": "Leucorrhoea disorder (TM2)",
+        "synonyms": [
+            "(a) śvetapradaraḥ (b) Veḷḷai nōy (c) Sayalān al-Raḥim"
+        ]
+    },
+    {
+        "code": "SM94",
+        "title": "Female infertility disorder (TM2)",
+        "synonyms": [
+            "(a) vandhyā (b) Peṇ malaṭu (c) ‘Uqr",
+            "Female infertility (permanent infertility) disorder (TM2)",
+            "(b) Cutta malaṭu",
+            "A woman having borne only one child disorder (TM2)",
+            "(b) katali malaṭu",
+            "(a) Kākavandhyā",
+            "A woman having borne only two children disorder (TM2)",
+            "(b) Kāka malaṭu",
+            "Profluvium seminis disorder (TM2)",
+            "(a) vāminī",
+            "Primary infertility disorder due to under developed reproductive system (TM2)",
+            "(a) ṣaṇḍhī",
+            " (a) khaṇḍitā",
+            "Cervical retroversion or retroflexion disorder (TM2)",
+            "(a) antarmukhī",
+            "Difficulty in conception disorder (TM2)",
+            "(c) osr-e habl",
+            "(c) ‘Usr-i-Ḥabl"
+        ]
+    },
+    {
+        "code": "SM95",
+        "title": "Vaginitis disorder (TM2)",
+        "synonyms": [
+            "(a) pariplutā (b) Yōṉi tāpitam",
+            "Deflorative vaginitis disorder (TM2)",
+            "(a) prākcaraṇā",
+            "Vaginitis disorder due to excessive Vaḷi (TM2)",
+            "(b) Yōṉicūlai vātam",
+            "Vaginitis disorder due to excessive coitus (TM2)",
+            "(a) aticaraṇā",
+            "Vaginal pruritus disorder (TM2)",
+            "(b) Akal namai",
+            "Vulvitis disorder (TM2)",
+            "(b) Akal tāpitam",
+            "Vulvo vaginitis disorder (TM2)",
+            "(b) Yōṉi akal tāpitam"
+        ]
+    },
+    {
+        "code": "SM96",
+        "title": "Dysmenorrhoea disorder (TM2)",
+        "synonyms": [
+            "(a) udāvartinī (b) Cūtaka Vaḷi (c) ‘Usr al-Tamth",
+            "(a) Kashtartawa",
+            "Intermenstrual bleeeding (TM2)",
+            "(b) Iṭai pūppu",
+            "Dysmennorrhea disorder due to reproductive organ diseases (TM2)",
+            "(b) Aka cūtaka Vaḷi"
+        ]
+    },
+    {
+        "code": "SM97",
+        "title": "Hypomenorrhoea disorder (TM2)",
+        "synonyms": [
+            "(a) lohitakṣayā (c) Qillat-i-Tamth"
+        ]
+    },
+    {
+        "code": "SM98",
+        "title": "Dysfunctional uterine bleeding disorder (TM2)",
+        "synonyms": [
+            "(a) asṛgdaraḥ (b) Acātāraṇa perumpāṭu (c) Kathrat-i-Ḥayḍ",
+            "(c) kethrat-e tamth",
+            "(a) Raktapradar",
+            "Abnormal uterine bleeding disorder (TM2)",
+            "(b) Cātāraṇa perumpāṭu",
+            "Menorrhagia due to increased Aẕal disorder (TM2)",
+            "(b) Pitta perumpāṭu",
+            "Menorrhagia disorder (TM2)",
+            "(b) Perumpāṭu"
+        ]
+    },
+    {
+        "code": "SM99",
+        "title": "Uterine polyps disorder (TM2)",
+        "synonyms": [
+            "(a) yoni-arśaḥ (b) Karuppai kāmpu kaẕalai (c) Bawāsīr al-Raḥim"
+        ]
+    },
+    {
+        "code": "SM9A",
+        "title": "Uterine prolapse disorder (TM2)",
+        "synonyms": [
+            "(a) mahāyoniḥ (b) Karuppai aṭittaḷḷal (c) Inzilāq al-Raḥim",
+            "(a) vivṛtā (c) Nutū’ al-Raḥim",
+            "Second degree uterine prolapse disorder (TM2)",
+            "(a) prasraṃsiṇī",
+            " (a) prasrāviṇī",
+            "Prolapse of vaginal wall disorder (TM2)",
+            "(a) phalinī",
+            " (a) aṇḍalī"
+        ]
+    },
+    {
+        "code": "SM9B",
+        "title": "Vaginismus disorder (TM2)",
+        "synonyms": [
+            "(a) viplutā (b) Cūlai Yōṉi"
+        ]
+    },
+    {
+        "code": "SM9C",
+        "title": "Metritis disorder (TM2)",
+        "synonyms": [
+            "(a) makkallaḥ (b) Karuppai uḷkavaca tāpitam (c) Waram al-Raḥim",
+            "Endometritis disorder (TM2)",
+            "(b) Karuppai uḷ aka aẕaṟci"
+        ]
+    },
+    {
+        "code": "SM9Y",
+        "title": "Other specified female Reproductive System disorders (TM2)",
+        "synonyms": [
+            "Post - menopausal disorder (TM2)",
+            "(b) Pūppu muṭivu kōḷāṟu",
+            "Breast tumour disorder (TM2)",
+            "(b) Nakiṟkaṭṭi",
+            "(c) saratAn-e pestAn",
+            "Tumour of cervix disorder (TM2)",
+            "(b) Karuppai kaẕuntu puṟṟu",
+            "Muscular growth in the uterus disorder (TM2)",
+            "(b) Nitampa cūlai",
+            "Pain and swelling in the uterus disorder (TM2)",
+            "(b) Kaṟpa cūlai",
+            "Insatiable sexual desire disorder (TM2)",
+            "(a) atyānandā",
+            "Colpitis disorder (TM2)",
+            "(a) acaraṇā",
+            "Salpingitis disorder (TM2)",
+            "(b) Karuppai ciṉai aẕaṟci (c) Iltihāb al-Qādhif",
+            "Oophritis disorder (TM2)",
+            "(b) Ciṉaippai tāpitam (c) Iltihāb Khuṣya al-Raḥim",
+            "(b) Karuppai ciṉai aẕaṟci",
+            "Colpostenosis disorder (TM2)",
+            "(a) sūcīmukhi",
+            " (a) sūcīvaktrā",
+            "Bulky uterus disorder (TM2)",
+            "(c) ‘Iẓam al-Raḥim",
+            "Impaired temperament of uterus disorder (TM2)",
+            "(c) Sū’-i-Mizāj al-Raḥim",
+            "Physometra disorder (TM2)",
+            "(c) Nafkh al-Raḥim",
+            "Uterine tumor disorder (TM2)",
+            "(b) Karuppainaṉmaṟavaikkaṭṭikaḷ (c) Sal‘a al-Raḥim",
+            "Spreading uterine tumour disorder (TM2)",
+            "(b) Karuppaippuṟṟu (b) saratAn-e rahem",
+            "Uterine weakness disorder (TM2)",
+            "(c) za'fe rahem",
+            "(c) Ḍu‘f-i-Raḥim",
+            "Uterine obstruction disorder (TM2)",
+            "(c) soddeh-ye rahem",
+            "(c) Sudda'-i-Raḥim",
+            "Uterine ulceration disorder (TM2)",
+            "(c) Qurūḥ al-Raḥim",
+            "Mastitis disorder (TM2)",
+            "(c) Waram al-Thadī"
+        ]
+    },
+    {
+        "code": "SM9Z",
+        "title": "Female Reproductive System disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SN00",
+        "title": "Balanitis disorder (TM2)",
+        "synonyms": [
+            "(a) meḍhrapākaḥ (b) Aiya Kallaṭaippu (c) Waram al-Qaḍīb",
+            "inflammation of the penis",
+            "Inflammation of penis disorder due to application of ointments etc.",
+            " (TM2)",
+            "(a) śūkarogaḥ"
+        ]
+    },
+    {
+        "code": "SN01",
+        "title": "Hydrocele disorder (TM2)",
+        "synonyms": [
+            "(a) vṛddhiḥ (b) Tantira veṭṭi vātam (c) Qīla Mā’iyya",
+            "Hydrocele disorder due to increased Aiyam (TM2)",
+            "(b) Nīr vitai nōy"
+        ]
+    },
+    {
+        "code": "SN02",
+        "title": "Erectile dysfunction disorder (TM2)",
+        "synonyms": [
+            "(a) klaibyam (b) Vīriyamiṉmai (c) Istirkhā’ al-Qaḍīb"
+        ]
+    },
+    {
+        "code": "SN03",
+        "title": "Oligospermia disorder (TM2)",
+        "synonyms": [
+            "(a) śukrakṣayaḥ (b) Āṇ malaṭu (c) Qilla al-Manī"
+        ]
+    },
+    {
+        "code": "SN04",
+        "title": "Mustard- size boils on penis disorder (TM2)",
+        "synonyms": [
+            "(a) sarṣapikā (b) Kaṭuku koppuḷam"
+        ]
+    },
+    {
+        "code": "SN05",
+        "title": "Orchitis disorder (TM2)",
+        "synonyms": [
+            "(b) Pījastampa vātam (c) Waram al-Khuṣyatayn",
+            "(c) Waram al- Unthayayn"
+        ]
+    },
+    {
+        "code": "SN06",
+        "title": "Penile growth disorder (TM2)",
+        "synonyms": [
+            "(a) meḍhraja-arśaḥ (b) Tāmaraikkāyttaṭippu (c) Tha’ālīl al-Dhakar"
+        ]
+    },
+    {
+        "code": "SN07",
+        "title": "Priapism disorder (TM2)",
+        "synonyms": [
+            "(a) śephastambhaḥ (c) Farīsmūs",
+            "(c) Ifrāṭ al-Nu‘ūẓ",
+            "(b) Timirkkuṟippuṇ"
+        ]
+    },
+    {
+        "code": "SN08",
+        "title": "Prostatic enlargement disorder (TM2)",
+        "synonyms": [
+            "(a) vātāṣṭhīlā (c) Iẓam-i-Ghudda'-i-Madhī",
+            "Benign enlargement of the prostate (TM2)",
+            "(b) Cataiyaṭaippu"
+        ]
+    },
+    {
+        "code": "SN09",
+        "title": "Spermatorrhoea disorder (TM2)",
+        "synonyms": [
+            "(a) mūtraśukraḥ (b) Veṇṇīr (c) Jarayān",
+            "(b) tavaḷa nīr"
+        ]
+    },
+    {
+        "code": "SN0A",
+        "title": "Phimosis disorder (TM2)",
+        "synonyms": [
+            "(a) niruddhaprakaśaḥ (b) Tōl taṭaippuṇ",
+            "Paraphimosis disorder (TM2)",
+            "(a) parivartikā"
+        ]
+    },
+    {
+        "code": "SN0Y",
+        "title": "Other specified male Reproductive System disorders (TM2)",
+        "synonyms": [
+            "Prepucial tears disorder (TM2)",
+            "(a) avapīḍakaḥ",
+            "Anaphrodisia disorder (TM2)",
+            "(c) Ḍu‘f al-Bāh",
+            "Loss of libido (TM2)",
+            "Prostatic carcinoma disorder (TM2)",
+            "(b) Cukkila vātam",
+            "Scrotal swelling disorder (TM2)",
+            "(a) aṇḍa-vṛddhiḥ",
+            "Premature ejaculation disorder (TM2)",
+            "(c) Sur‘a al-Inzāl",
+            "Excessive nocturnal emission disorder (TM2)",
+            "(c) Kathra al-Iḥtilām",
+            "Hydrocele disorder due to vitiated fat (TM2)",
+            "(a) medoja-vṛddhiḥ",
+            "Hydrocele disorder due to vitiated blood (TM2)",
+            "(a) raktaja-vṛddhiḥ",
+            "Hydrocele disorder due to urine coloured fluid (TM2)",
+            "(a) mūtraja-vṛddhiḥ"
+        ]
+    },
+    {
+        "code": "SN0Z",
+        "title": "Male Reproductive System disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SN10",
+        "title": "Decreased breastmilk disorder (TM2)",
+        "synonyms": [
+            "(a) stanyakṣayaḥ (c) Qilla al-Laban"
+        ]
+    },
+    {
+        "code": "SN11",
+        "title": "Vitiated breast milk disorder (TM2)",
+        "synonyms": [
+            "(a) stanyaduṣṭiḥ (b) Pāl etireṭuttal",
+            "Milk aversion disorder (TM2)",
+            "(b) Pāl kuṭiyāmai"
+        ]
+    },
+    {
+        "code": "SN12",
+        "title": "Recurrent pregnancy loss disorder (TM2)",
+        "synonyms": [
+            "(a) jātaghnī (b) Kuṇa avatāṉakam (c) Isqāṭ ‘Ādī"
+        ]
+    },
+    {
+        "code": "SN1Y",
+        "title": "Other specified pregnancy and childbirth related disorders (TM2)",
+        "synonyms": [
+            "Puerperial complications disorder (TM2)",
+            "(a) sūtikārogaḥ",
+            "General body tiredness during pregnancy disorder (TM2)",
+            "(b) Cūl Uṭal cōrvu",
+            "Disorders due to improper cutting of umbilical cord. (TM2)",
+            "(a) nāḍīkalpana-vyāpat"
+        ]
+    },
+    {
+        "code": "SN1Z",
+        "title": "Pregnancy and childbirth related disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SN30",
+        "title": "Gonorrhoea disorder (TM2)",
+        "synonyms": [
+            "(a) upadaṃśaḥ (b) Korukku nōy (c) Sozāk",
+            "(c) Sayalān Zuhrī",
+            " (c) Ḥurqa",
+            " (c) Al-Nakāl",
+            " (c) ‘Uqūba",
+            "Gonorrhoeal vaginitis disorder (TM2)",
+            "(c) Ḥurqa al-Nisā’",
+            "Gonnorheal disorder with papular eruptions (TM2)",
+            "(b) Oẕukku veḷḷai",
+            "Gonnorheal disorder with urolithiasis (TM2)",
+            "(b) Kal veḷḷai",
+            "Thread like white discharge disorder (TM2)",
+            "(b) Tantu veḷḷai",
+            "White discharge with pus disorder (TM2)",
+            "(b) Cīẕ veḷḷai",
+            "Yellowish urethreal discharge disorder (TM2)",
+            "(b) Mañcaḷ veḷḷai",
+            "Yellowish white discharge with pain in the urethra associated with mood swings disorder (TM2)",
+            "(b) Nīrkkaṭṭu veḷḷai"
+        ]
+    },
+    {
+        "code": "SN31",
+        "title": "Syphillis disorder (TM2)",
+        "synonyms": [
+            "(a) phiraṅgaroga (b) Veṭṭai nōy (c) Ātshak",
+            "(c) Ābla Farang",
+            " (c) Ḍarma",
+            " (c) Sā‘ūr",
+            " (c) Al-Afranjī",
+            "(c) Bād Farang",
+            " (c) Al-Khajīl",
+            " (c) Qarḥa Ṣulba",
+            " (c) Koft",
+            "Syphilitic ulcer disorder (TM2)",
+            "(b) korukku pun",
+            "Syphilitic abscess disorder (TM2)",
+            "(b) Kiranti"
+        ]
+    },
+    {
+        "code": "SN3Y",
+        "title": "Other specified urinary and reproductive system disorders (TM2)",
+        "synonyms": [
+            "Improper sexual activity disorder (TM2)",
+            "(a) vyavāyamithyāyogaḥ",
+            " (a) mithyāvyavāya",
+            "Over sexual activity disorder (TM2)",
+            "(a) vyavāyātiyogaḥ",
+            "Pain during intercourse disorder (TM2)",
+            "(b) Puṇarcci Vaḷi",
+            "Genital pain disorder (TM2)",
+            "(a) guhyaruk",
+            "Vaḷi aggrevation with stammering and impotence disorder (TM2)",
+            "(b) Patita vātam",
+            "Pre eclampsia disorder (TM2)",
+            "(b) Kaṇṭaka avatāṉakam",
+            "Vitiated Vaḷi along with Aiyam affecting genito urinary pathways disorder (TM2)",
+            "(b) Vāta Cilēṭṭumam",
+            "Hyderocele disorder due to Kapha (TM2)",
+            "(a) kaphaja-vṛddhiḥ",
+            "Hyderocele disorder due to Vāta (TM2)",
+            "(a) vātaja-vṛddhiḥ",
+            "Hydrocele disorder due to Pitta (TM2)",
+            "(a) pittaja-vṛddhiḥ",
+            "Scrotal pain disorder (TM2)",
+            "(a) vṛṣaṇākṣepaḥ",
+            "Tumor in pelvic cavity disorder (TM2)",
+            "(b) Kūpaka tāpita kaẕalai"
+        ]
+    },
+    {
+        "code": "SN3Z",
+        "title": "Urinary and reproductive system disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SN40",
+        "title": "Dermatitis disorder (TM2)",
+        "synonyms": [
+            "(a) rakasā (b) Karappāṉ pittam",
+            "Scrotal dermatitis disorder (TM2)",
+            "(a) vṛṣaṇakacchūḥ"
+        ]
+    },
+    {
+        "code": "SN41",
+        "title": "Discoloration of body disorder (TM2)",
+        "synonyms": [
+            "(a) kārṣṇyam (b) Valli Nhooyaallar Utal Nhirram (c) Fasād al-Lawn",
+            "Black patch disorder (TM2)",
+            "(a) nīlikā",
+            "Hyperpigmented patches on the skin disorder (TM2)",
+            "(b) Baraṣ Aswad"
+        ]
+    },
+    {
+        "code": "SN42",
+        "title": "Dryness of skin disorder (TM2)",
+        "synonyms": [
+            "(a) raukṣyam (b) Tōl vaṟaṭci (c) Shuqūq al-Aṭrāf wa’l Wajh"
+        ]
+    },
+    {
+        "code": "SN43",
+        "title": "Eczema disorder (TM2)",
+        "synonyms": [
+            "(a) vicarcikā (b) Vātak karappāṉ (c) Nār Fārsī",
+            "(c) Chājan",
+            " (c) Ukauta",
+            "Eczema disorder with dry skin (TM2)",
+            "(b) Vaṟaṭcik karappāṉ",
+            "Eczema disorder caused by increase Aiyam (TM2)",
+            "(b) Cilēṭṭumakkarappāṉ",
+            "Eczema disorder caused by increased Aẕal (TM2)",
+            "(b) Pittak karappāṉ",
+            "Eczema disorder occuring in head and ears (TM2)",
+            "Kaṇṭa karappāṉ",
+            "Eczema disorder with joint pain (TM2)",
+            "(b) Timirvātak karappāṉ",
+            "Eczema disorder occurred in scalp due to increased Vaḷi (TM2)",
+            "(b) Vaḷi kapālak karappāṉ",
+            "Eczema disorder of the nose (TM2)",
+            "(b) Mūkku Karappāṉ"
+        ]
+    },
+    {
+        "code": "SN44",
+        "title": "Foul body smelling disorder (TM2)",
+        "synonyms": [
+            "(a) aṅga-durgandhaḥ (c) ‘Araq Muntin",
+            "Bromidrosis disorder (TM2)",
+            "(c) Ṣunān"
+        ]
+    },
+    {
+        "code": "SN45",
+        "title": "Excess of sweat disorder (TM2)",
+        "synonyms": [
+            "(a) svedavṛddhiḥ (b) Ativiyarvai (c) Kathra al-‘Araq",
+            "(a) atisvedaḥ (c) Ifrāṭ al-‘Araq"
+        ]
+    },
+    {
+        "code": "SN46",
+        "title": "Scabies disorder (TM2)",
+        "synonyms": [
+            "(a) pāmā (kacchū) (b) Coṟi ciraṅku (c) Jarab"
+        ]
+    },
+    {
+        "code": "SN47",
+        "title": "Dracunculosis disorder (TM2)",
+        "synonyms": [
+            "(a) snāyukarogaḥ (c) ‘Irq Madīnī",
+            "(b) Kurutippuṇ"
+        ]
+    },
+    {
+        "code": "SN48",
+        "title": "Intertrigo disorder (TM2)",
+        "synonyms": [
+            "(a) alasaḥ (c) Mazaḥ",
+            "(b) Cēṟṟup puṇ"
+        ]
+    },
+    {
+        "code": "SN49",
+        "title": "Integumentary disorder (TM2)",
+        "synonyms": [
+            "(a) dhātugatakuṣṭhaḥ (b) Ciraṅkup perunōy (c) Judhām",
+            "(b) Pāma kuṭṭam (c) Al-‘Illa al-Kubrā",
+            "Integumentary disorder due to vata (TM2)",
+            "(a) kapālaḥ",
+            " (a) aruṇa-kuṣṭhaḥ",
+            " (a) vātikakuṣṭhaḥ",
+            "Integumentary disorder due to kapha (TM2)",
+            "(a) maṇḍalakuṣṭhaḥ",
+            " (a) kaphajakuṣṭhaḥ",
+            "Integumentary disorder due to pitta (TM2)",
+            "(a) udumbara-kuṣṭhaḥ",
+            " (a) paittika-kuṣṭhaḥ",
+            "Integumentary disorder due to pitta and kapha (TM2)",
+            "(a) puṇḍarīkaḥ",
+            "Integumentary disorder due to vata and pitta (TM2)",
+            "(a) ṛṣyajihvakaḥ"
+        ]
+    },
+    {
+        "code": "SN4A",
+        "title": "Psoriasis disorder (TM2)",
+        "synonyms": [
+            "(a) sidhmaḥ (b) Kāḷāñcakappaṭai (c) Taqashshur al-Jild",
+            "Guttate psoriasis disorder (TM2)",
+            "(a) kiṭibhaḥ"
+        ]
+    },
+    {
+        "code": "SN4B",
+        "title": "Ichthyosis disorder (TM2)",
+        "synonyms": [
+            "(a) ekakuṣṭhaḥ (c) Qūbā Mutaqashshir",
+            "(b) Vaṟaṭcik karappāṉ"
+        ]
+    },
+    {
+        "code": "SN4C",
+        "title": "Scaling of scalp and forehead skin disorder (TM2)",
+        "synonyms": [
+            "(a) keśabhūmisphuṭanam (c) Qushūr al-Jabha",
+            "(b) Veṇ karappāṉ"
+        ]
+    },
+    {
+        "code": "SN4D",
+        "title": "Vitiligo disorder (TM2)",
+        "synonyms": [
+            "Leucoderma (TM2)",
+            "(a) śvitraḥ (b) Veṇpuḷḷi (c) Baraṣ",
+            "Leucoderma disorder caused by increased Aẕal (TM2)",
+            "(b) Pitta veṇpaṭai",
+            "Leucoderma disorder caused by increased heat (TM2)",
+            "(b) Mēka veṇpaṭai"
+        ]
+    },
+    {
+        "code": "SN4E",
+        "title": "Lentigo disorder (TM2)",
+        "synonyms": [
+            "(a) tilakaḥ (c) Barash",
+            "(a) tilakālaka",
+            "(b) Kapāla viṭak kuṭṭam"
+        ]
+    },
+    {
+        "code": "SN4F",
+        "title": "Birth mark - blackish red disorder (TM2)",
+        "synonyms": [
+            "(a) jatumaṇiḥ (c) Namash"
+        ]
+    },
+    {
+        "code": "SN4G",
+        "title": "Melasma disorder (TM2)",
+        "synonyms": [
+            "(a) vyaṅgaḥ (c) Kalaf",
+            "(b) Kapāla karuṅkuṭṭam"
+        ]
+    },
+    {
+        "code": "SN4H",
+        "title": "Mole disorder (TM2)",
+        "synonyms": [
+            "(a) maṣakaḥ (b) Maccam (c) Khīlān"
+        ]
+    },
+    {
+        "code": "SN4J",
+        "title": "Black red skin lesion disorder (TM2)",
+        "synonyms": [
+            "(a) kākaṇakaḥ (b) Karu perunōy"
+        ]
+    },
+    {
+        "code": "SN4K",
+        "title": "Urticaria disorder (TM2)",
+        "synonyms": [
+            "(a) śītapittam (b) Kāṇākkaṭi (c) Sharā",
+            "Nocturnal urticaria disorder (TM2)",
+            "(c) Banāt al-Layl",
+            "Urticaria disorder with Kapha predominance (TM2)",
+            "(a) udardaḥ"
+        ]
+    },
+    {
+        "code": "SN4L",
+        "title": "Wheal disorder (TM2)",
+        "synonyms": [
+            "(a) koṭhaḥ (b) Tōltaṭippu (c) Sharā Damawī"
+        ]
+    },
+    {
+        "code": "SN4M",
+        "title": "Boil disorder (TM2)",
+        "synonyms": [
+            "(b) Koppuḷam (c) Dummal",
+            "Boils in the axilla disorder (TM2)",
+            "(b) Akkuḷ koppuḷam",
+            "Small blisters disorder (TM2)",
+            "(b) Ammai koppuḷam"
+        ]
+    },
+    {
+        "code": "SN4N",
+        "title": "Prickly heat disorder (TM2)",
+        "synonyms": [
+            "(a) rājikā (b) Vērkkuru (c) Buthūr Shawkiyya",
+            "(c) Ḥaṣaf"
+        ]
+    },
+    {
+        "code": "SN4P",
+        "title": "Pemphigus vulgaris disorder (TM2)",
+        "synonyms": [
+            "(a) visphoṭakaḥ (b) Koppuḷa perunōy (c) Naffāṭāt"
+        ]
+    },
+    {
+        "code": "SN4Q",
+        "title": "Scar marks disorder (TM2)",
+        "synonyms": [
+            "(b) Taẕumpu (c) Āthār al-Qurūḥ",
+            "(c) athar-e jeld",
+            "Scar caused by veneral ulcers disorder (TM2)",
+            "(b) Mēkat taẕumpu"
+        ]
+    },
+    {
+        "code": "SN4R",
+        "title": "Roughness of skin disorder (TM2)",
+        "synonyms": [
+            "(a) pāruṣyam (b) Vīkkam (c) Taqashshuf al-Jild",
+            "(b) taṭippu"
+        ]
+    },
+    {
+        "code": "SN4S",
+        "title": "Verruca disorder (TM2)",
+        "synonyms": [
+            "(a) carmakīlaḥ (b) Maruḷ (c) Tha’ālīl",
+            "Warts (TM2)"
+        ]
+    },
+    {
+        "code": "SN4T",
+        "title": "Herpes disorder (TM2)",
+        "synonyms": [
+            "(a) kakṣāḥ (b) Akki (c) Namla",
+            "(c) Sā‘iya",
+            "Herpes labialis disorder (TM2)",
+            "(c) Namla Shafawiyya"
+        ]
+    },
+    {
+        "code": "SN4U",
+        "title": "Ring worm infection disorder (TM2)",
+        "synonyms": [
+            "(a) dadru-kuṣṭhaḥ (b) Paṭartāmarai (c) Qūbā",
+            "Tinea versicolor disorder (TM2)",
+            "(b) Tēmal",
+            "Acute ring worm disorder (TM2)",
+            "(c) Qūbā Ḥadīth"
+        ]
+    },
+    {
+        "code": "SN4V",
+        "title": "Acne disorder (TM2)",
+        "synonyms": [
+            "(a) yuvānapiḍakā (b) Mukapparu (c) Buthūr Labaniyya",
+            "(c) Ḥabb al-Shabāb",
+            " (c) Buthūr Duhniyya",
+            " (c) Al-Ghudd al-Shā’i‘",
+            "Acne on nose disorder (TM2)",
+            "(b) Mūkku Paru"
+        ]
+    },
+    {
+        "code": "SN4W",
+        "title": "Ulcer disorder (TM2)",
+        "synonyms": [
+            "(a) vraṇaḥ (b) Puṇ (c) Jurūḥ"
+        ]
+    },
+    {
+        "code": "SN5Y",
+        "title": "Other specified skin disorders (TM2)",
+        "synonyms": [
+            "Impairment of Dam disorder (TM2)",
+            "(c) Fasād al-Dam",
+            "Malignancy of the skin disorder (TM2)",
+            "(b) Tōl puṟṟu",
+            "Thickening of the skin disorder (TM2)",
+            "(a) carmakuṣṭhaḥ",
+            "Hyperpigmentation of skin in the scalp disorder (TM2)",
+            "(b) Kapāla karuṅkarappaṉ",
+            "Dermatitis of scalp (TM2)",
+            "Tinea favus disorder (TM2)",
+            "(c) Sa‘fa Shahdiyya",
+            "Hematidrosis disorder (TM2)",
+            "(c) ‘Araq al-Dam",
+            "An inflammation of folds of the skin surrounding the finger nail disorder (TM2)",
+            "(b) Nakaccuṟṟu",
+            "Prurigo nodularis disorder (TM2)",
+            "alasakakuṣṭhaḥ/alasakuṣṭhaḥ",
+            "Multiple pruritic rashes disorder (TM2)",
+            "(a) utkoṭhaḥ",
+            "Birth mark - bluish disorder (TM2)",
+            "(a) nyacchaḥ",
+            "Congenital black white patch disorder (TM2)",
+            "(a) lāñchanam",
+            "Barley seed - macule disorder (TM2)",
+            "(a) yavaprakhyā",
+            "Pityriasis nigra disorder (TM2)",
+            "(c) Bahaq Aswad",
+            "Gas filled blisters disorder (TM2)",
+            "(c) Naffākhāt",
+            "Circular eruptions on neck and head disorder due to three dosha (TM2)",
+            "(a) irivellikā",
+            "Skin disorder with broad based eruptions (TM2)",
+            "(a) sthūlāruṣka",
+            "Elevated papule disorder (TM2)",
+            "(a) andhālajī",
+            " (a) antrālajī",
+            "Blood blister disorder (TM2)",
+            "(a) gardabhikā",
+            "Papules-lotus thorn disorder (TM2)",
+            "(a) padminīkaṇṭakaḥ",
+            "Acute spreading eruptions disorder (TM2)",
+            "(a) visarpaḥ",
+            "Fig fruit like papules disorder (TM2)",
+            "(a) vivṛtā",
+            "Bulb of lotus flower like skin lesion disorder (TM2)",
+            "(a) viddhā",
+            "Lotus pod lesion disorder (TM2)",
+            "(a) indraviddhā",
+            "Pig-bite like skin lesion disorder (TM2)",
+            "(a) varāhadaṃṣṭrakaḥ",
+            "Termitarium like skin lesion disorder (TM2)",
+            "(a) valmīkaḥ",
+            "Pityriasis alba disorder (TM2)",
+            "(c) Bahaq Abyaḍ",
+            " (c) Waḍaḥ",
+            "Annular reddish skin discoloration disorder (TM2)",
+            "(b) Taṭippup perunōy",
+            " (b) tatturu kuṭṭam",
+            "Blisters with burning sensation and thickened skin disorder (TM2)",
+            "(b) Koppuḷap perunōy",
+            " (b) vicpōṭakak kuṭṭam",
+            "Bluish discoloration of earlobe margin disorder (TM2)",
+            "(b) Kātu perunōy",
+            " (b) karṇa kuṭṭam",
+            "Body skin glitters like snake skin disorder (TM2)",
+            "(b) Ceṅkuṭṭam",
+            " (b) vipātika kuṭṭam",
+            "Dry scaly thickened skin with blackish discolouration of the body disorder (TM2)",
+            "(b) Yāṉaittōl perunōy",
+            " (b) ēkacaruma kuṭṭam",
+            "Dry skin with lesion greasy to touch burning sensation disorder (TM2)",
+            "(b) Coṟip perunōy",
+            " (b) vikarccika kuṭṭam",
+            "Greenish and pale skin eruptions disorder with pus (TM2)",
+            "(b) Tōl perunōy",
+            " (b) carma kuṭṭam",
+            "Greenish discolouration with elephant skin thickening disorder (TM2)",
+            "(b) Paṉṟittōl perunōy",
+            " (b) kīṭīpa kuṭṭam",
+            "Greenish red colured skin lesions disorder with oozing (TM2)",
+            "(b) Vaḷaiyap perunōy",
+            " (b) maṇṭalak kuṭṭam",
+            "Greenish yellow annular lesion disorder with numbness (TM2)",
+            "(b) Nāp perunōy",
+            " (b) citma kuṭṭam",
+            "Pain and fissures over the body disorder (TM2)",
+            "(b) Vaḷi p perunōy",
+            " (b) aparica kuṭṭam",
+            "Skin disorder with exudation like snake skin (TM2)",
+            "(b) Puraip perunōy",
+            " (b) catāru kuṭṭam",
+            "Skin eruptions disorder (TM2)",
+            "(b) Perunōy",
+            "Thickened skin disorder with linear fissures with throbbing pain (TM2)",
+            "(b) Tōl veṭip perunōy",
+            " (b) carmattaḷa kuṭṭam",
+            "Lotus-red rashes on head and bladder region disorder (TM2)",
+            "(a) mahāpadmaḥ",
+            "Napkin rash disorder (TM2)",
+            "(a) ahipūtanā",
+            " (a) ahipūtanakaḥ",
+            "Perianal ulcer (TM2)",
+            "Tinea pedis disorder (TM2)",
+            "(a) carmadala-kuṣṭhaḥ",
+            "Skin disorder with ulcerative reddish blue moist lesions (TM2)",
+            "(a) śatāru-kuṣṭhaḥ",
+            "Solitary large black vesicle disorder (TM2)",
+            "(a) gandhanāmā",
+            " (a) gandhamālā",
+            "Painless greengram like papules in children disorder (TM2)",
+            "(a) ajagallikā",
+            "Black vesicles disorder (TM2)",
+            "(a) śyāvapiṇḍikā",
+            "Red wheals disorder (TM2)",
+            "(a) raktamaṇḍalam"
+        ]
+    },
+    {
+        "code": "SN5Z",
+        "title": "Skin disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SN60",
+        "title": "Brittle nails disorder (TM2)",
+        "synonyms": [
+            "(a) nakhabhedaḥ (c) Ẓufra Ṭalqiyya"
+        ]
+    },
+    {
+        "code": "SN6Y",
+        "title": "Other specified nail disorders (TM2)",
+        "synonyms": [
+            "Paronychia disorder (TM2)",
+            "(a) kunakhaḥ (b) Nakaccuṟṟu (c) Dākhis",
+            "Whitlow disorder (TM2)",
+            "(a) cipyam",
+            " (a) akṣatā",
+            " (a) upanakha"
+        ]
+    },
+    {
+        "code": "SN6Z",
+        "title": "Nail disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SN70",
+        "title": "Furunculosis of scalp disorder (TM2)",
+        "synonyms": [
+            "(a) arūṃṣikā (b) Aẕal kapālak karappāṉ"
+        ]
+    },
+    {
+        "code": "SN71",
+        "title": "Baldness disorder (TM2)",
+        "synonyms": [
+            "(a) khālityam (b) Mayir utiral (c) Ṣala‘",
+            "Hair fall disorder (TM2)",
+            "(c) Intithār al-Sha‘r"
+        ]
+    },
+    {
+        "code": "SN72",
+        "title": "Folliculitis disorder (TM2)",
+        "synonyms": [
+            "(a) arūṃṣikā (c) Sa‘fa",
+            "Wet folliculitis disorder (TM2)",
+            "(c) Sa‘fa Raṭba",
+            " (c) Shīrīnaj",
+            "Dry folliculitis disorder (TM2)",
+            "(c) Sa‘fa Yābisa",
+            " (c) Sūrajī"
+        ]
+    },
+    {
+        "code": "SN73",
+        "title": "Premature greying of hair disorder (TM2)",
+        "synonyms": [
+            "(a) akālapalitaḥ (b) Iḷanarai (c) Shayb"
+        ]
+    },
+    {
+        "code": "SN7Y",
+        "title": "Other specified hair disorders (TM2)",
+        "synonyms": [
+            "Dryness over the scalp disorder (TM2)",
+            "(b) Maṇṭai vaṟaṭci",
+            "Short hair disorder (TM2)",
+            "(a) hrasvakeśaḥ",
+            "Hirsutism disorder (TM2)",
+            "(c) rouyidan-e mou-ye zA'ed",
+            "(c) Rū’īdan-i-Mū’ Zā’id",
+            "Hair split disorder (TM2)",
+            "(c) tashaqoq-e mou",
+            "(c) Tashaqquq al-Sha‘r",
+            "Split end of hair (TM2)"
+        ]
+    },
+    {
+        "code": "SN7Z",
+        "title": "Hair disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SN90",
+        "title": "Patchy alopecia disorder (TM2)",
+        "synonyms": [
+            "(a) indraluptaḥ (b) Puẕuveṭṭu (c) Dā’ al-Tha‘lab",
+            "Alopecia areata/Pelade"
+        ]
+    },
+    {
+        "code": "SN91",
+        "title": "Dandruff disorder (TM2)",
+        "synonyms": [
+            "(c) Bafā ",
+            " (c) Hubayrā ",
+            " (c) Qishr al-Ra’s ",
+            " (c) Ḥibriyya",
+            "(a) dāruṇakaḥ (b) Poṭuku",
+            " (b) Cuṇṭu (c) Ḥazāz-o-Ibriyya"
+        ]
+    },
+    {
+        "code": "SN92",
+        "title": "Carbuncle disorder (TM2)",
+        "synonyms": [
+            "(a) piḍakā (b) Piḷavai (c) Jamra",
+            "(c) Shab Chirāgh",
+            "Carbuncle present in the nose disorder (TM2)",
+            "(b) Mūkku Piḷavai",
+            "Carbuncles disorder due to diabetes (TM2)",
+            "(a) prameha-piḍakā"
+        ]
+    },
+    {
+        "code": "SN9Y",
+        "title": "Other specified skin",
+        "synonyms": [
+            " nail and hair disorders (TM2)",
+            "Testudinal lesion disorder (TM2)",
+            "(a) kacchapikā",
+            "Aggravation of Aẕal and vesiculation disorder (TM2)",
+            "(b) Mutir pittam",
+            "Aggravation of Aẕal causing perspiration disorder (TM2)",
+            "(b) Cīta pittam",
+            "Eruptions disorder (TM2)",
+            "(c) Buthūr",
+            "Small pustules disorder (TM2)",
+            "(c) Buthūr Ṣighār",
+            "Calf pustules disorder (TM2)",
+            "(c) Buthūr al-Sāq",
+            "Pustules on nape of neck disorder (TM2)",
+            "(c) Buthūr al-Qafā",
+            "Hypoesthesia disorder (TM2)",
+            "(a) prasuptiḥ",
+            "(a) tvakśūnyatā",
+            "Chilblains disorder (TM2)",
+            "(c) Intifākh al-Aṣābi‘",
+            "Corn disorder (TM2)",
+            "(a) kadaraḥ (b) Kāl āṇi",
+            " Kāyppu (c) Qurūn",
+            "Cracked heels disorder (TM2)",
+            "(a) vipādikā (b) Pittaveṭippu (c) Taqashshur al-Qadamayn",
+            "Atopic dermatitis disorder (TM2)",
+            "(a) carmadaraṇam",
+            "(a) carmadalanam",
+            "Xeroderma disorder (TM2)",
+            "(c) Shuqūq al-Aṭrāf wa’l Wajh",
+            "Molluscum disorder (TM2)",
+            "(b) Pāl uṇṇi",
+            "Pediculosis disorder (TM2)",
+            "(b) Pēṉkaḷ",
+            "Complications-incising an acute inflammatory swelling disorder (TM2)",
+            "(a) āmaśophachedaḥ",
+            "Wounds disorder caused by burns (TM2)",
+            "(b) Tīppuṇ",
+            "Wounds present in web of the feet disorder (TM2)",
+            "(b) Cēṟṟup puṇ",
+            "Callous ulcer disorder (TM2)",
+            "(c) Qarḥa ‘Asir al-Indimāl",
+            "Serpiginous ulcer disorder (TM2)",
+            "(a) akṣipākātyayaḥ",
+            "Diabetic ulcer disorder (TM2)",
+            "(b) Matumēkappuṇ",
+            "Aggravation of Aẕal disorder causing wounds and dermatitis (TM2)",
+            "(b) Viraṇa pittam",
+            "Complications of wound disorder (TM2)",
+            "(a) vraṇa-upadravaḥ",
+            "Complications faulty wound treatment disorder (TM2)",
+            "(a) vraṇa-apacāraḥ",
+            "Endogenous wound disorder (TM2)",
+            "(a) nijavraṇaḥ",
+            "Fistula disorder (TM2)",
+            "(a) nāḍīvraṇaḥ"
+        ]
+    },
+    {
+        "code": "SN9Z",
+        "title": "Skin",
+        "synonyms": [
+            " nail and hair disorders (TM2)",
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SP00",
+        "title": "Osteoporosis disorder (TM2)",
+        "synonyms": [
+            "(a) asthiśoṣaḥ (c) Wahn al-‘Iẓām",
+            "(c) Takhalkhul al-‘Iẓām",
+            " (b) Takhaththur al-‘Iẓām",
+            "Osteopenia (TM2)",
+            "(b) Eṉpu kiranti"
+        ]
+    },
+    {
+        "code": "SP0Y",
+        "title": "Other specified bone disorders (TM2)",
+        "synonyms": [
+            "Hypertrophy of bone tissue disorder (TM2)",
+            "(a) adhyasthiḥ",
+            "Inflammation of bone marrow disorder (TM2)",
+            "(a) majjāparipākaḥ",
+            "Ostealgia disorder (TM2)",
+            "(a) asthiprabhedaḥ",
+            "Lordosis disorder (TM2)",
+            "(c) Taqaṣṣu‘",
+            " (c) Ḥadaba al-Muqaddam",
+            "Scoliosis disorder (TM2)",
+            "(c) Iltiwā’"
+        ]
+    },
+    {
+        "code": "SP0Z",
+        "title": "Bone disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SP10",
+        "title": "Polyarthritis disorder (TM2)",
+        "synonyms": [
+            "(b) Cantu vātam",
+            "(c) waram-e mafsal",
+            "(a) vātaraktam (b) Vātacurōṇitam (c) Waja‘ al-Mafāṣil",
+            "Rheumatoid arthritis disorder (TM2)",
+            "(b) Vaḷiaẕal kīlvāyu",
+            "Complications of rheumatoid arthritis disorder (TM2)",
+            "(b) Payittiya vāta curōṇitam",
+            "Swollen knee deformity disorder (TM2)",
+            "(a) kroṣṭukaśīrṣaḥ",
+            "(b) Aiyavaḷi kīlvāyu",
+            " (b) Narittalai vātam",
+            "Rheumatoid arthritis (Initial stage) disorder (TM2)",
+            "(b) Utira vāta curōṇitam"
+        ]
+    },
+    {
+        "code": "SP11",
+        "title": "Rheumatism disorder (TM2)",
+        "synonyms": [
+            "(a) āmavātaḥ (b) Vaḷikkīlvāyu (c) Ḥudār",
+            "Rheumatic arthritis disorder (TM2)",
+            "(b) Vaḷikkīlvāyu",
+            "Rheumatism disorder due to blood (TM2)",
+            "(a) vātaraktam",
+            "Aggravated Aiyam with rheumatism disorder (TM2)",
+            "(b) Curōṇitam",
+            "Rheumatoid arthritis disorder due to blood (TM2)",
+            "(a) vātajavātaraktam"
+        ]
+    },
+    {
+        "code": "SP12",
+        "title": "Osteoarthritis disorder (TM2)",
+        "synonyms": [
+            "(a) sandhigatavātaḥ (b) Aẕal kīl vāyu (c) Taḥajjur wa Ṣalāba al-Mafāṣil",
+            "Arthritis disorder with near fusion of bones (TM2)",
+            "(b) Mukkuṟṟa kīlvāyu"
+        ]
+    },
+    {
+        "code": "SP13",
+        "title": "Hip joint pain disorder (TM2)",
+        "synonyms": [
+            "(a) śroṇibhedaḥ (b) Toṭai maiya varmam (c) Waja‘ al-Warik"
+        ]
+    },
+    {
+        "code": "SP14",
+        "title": "Gout disorder (TM2)",
+        "synonyms": [
+            "(a) pittaja-vātaraktam (b) Vātakarṣaṇam (c) Niqris"
+        ]
+    },
+    {
+        "code": "SP15",
+        "title": "Frozen shoulder disorder (TM2)",
+        "synonyms": [
+            "(a) avabāhukaḥ (b) Kumpa vātam (c) Waja‘-i-Mafṣal-i-Katif"
+        ]
+    },
+    {
+        "code": "SP1Y",
+        "title": "Other specified joint disorders (TM2)",
+        "synonyms": [
+            "Arthritis disorder with dysentery (TM2)",
+            "(b) Aẕalvaḷi kīlvāyu",
+            "Arthritis disorder with increased body heat and swelling (TM2)",
+            "(b) Aiyaaẕal kīlvāyu",
+            "Arthritis disorder with infection (TM2)",
+            "(b) Vaḷiaiya kīlvāyu",
+            "Dislocation of joints disorder (TM2)",
+            "(c) Khal‘ al-Mafāṣil",
+            "Menopausal arthritis disorder (TM2)",
+            "(b) Curōṇita pittam",
+            "Psoriatic arthritis disorder (TM2)",
+            "(b) Kāḷāñcakavātam",
+            "Stiff ankle disorder (TM2)",
+            "(a) gulpha-grahaḥ",
+            "Ankle deformity disorder (TM2)",
+            "(a) vātakhuḍḍatā",
+            " (a) vātakaṇṭakaḥ",
+            "Breaking pain of knees disorder (TM2)",
+            "(a) jānubhedaḥ",
+            "Sacroiliac joint stiffness disorder (TM2)",
+            "(a) trikagrahaḥ",
+            "Lax knee disorder (TM2)",
+            "(a) jānuviśleṣaḥ",
+            "Joint weakness disorder (TM2)",
+            "(c) za'fe mafsal",
+            "(c) Ḍu‘f al-Mafāṣil ",
+            " (c) Ḍu‘f al-Mafṣal"
+        ]
+    },
+    {
+        "code": "SP1Z",
+        "title": "Joint disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SP20",
+        "title": "Muscle pain",
+        "synonyms": [
+            " twisting disorder (TM2)",
+            "(a) khallī (b) Vaḷi cūlai (c) Tashannuj Īdhā’ī",
+            "twisting-pain on limbs"
+        ]
+    },
+    {
+        "code": "SP21",
+        "title": "Atony disorder (TM2)",
+        "synonyms": [
+            "(a) aṅgavibhraṁśaḥ (c) Istirkhā’",
+            "(b) Miruttu vātam"
+        ]
+    },
+    {
+        "code": "SP2Y",
+        "title": "Other specified muscle disorders (TM2)",
+        "synonyms": [
+            "Twitching of muscles disorder (TM2)",
+            "(c) Irti‘ād",
+            "Shoulder muscle atrophy disorder (TM2)",
+            "(a) aṃsaśoṣaḥ",
+            "Putrefaction disorder (TM2)",
+            "(a) māṃsakledaḥ",
+            "(c) ‘Ufūnat",
+            "Pricking pain in the extremities disorder (TM2)",
+            "(b) Mēka cūlai"
+        ]
+    },
+    {
+        "code": "SP2Z",
+        "title": "Muscle disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SP40",
+        "title": "Achillodynia disorder (TM2)",
+        "synonyms": [
+            "(a) vātakaṇṭakam (c) Waja‘ al-‘Aqib",
+            "(b) Kutivātam"
+        ]
+    },
+    {
+        "code": "SP41",
+        "title": "Sciatica disorder (TM2)",
+        "synonyms": [
+            "(a) gṛdhrasī (c) ‘Irq al-Nasā",
+            "Lumbar radiculopathies",
+            "(b) Vātastampam"
+        ]
+    },
+    {
+        "code": "SP42",
+        "title": "Lumbar spondylosis disorder (TM2)",
+        "synonyms": [
+            "(a) pṛṣṭha-grahaḥ (b) Taṇṭaka vātam (c) Waja‘ al-Ẓahr",
+            "Stiff back (TM2)",
+            " Backache (TM2)",
+            "(a) kaṭiśūla",
+            "(a) Kaṭigraha"
+        ]
+    },
+    {
+        "code": "SP43",
+        "title": "Lumbo-sacroiliac disorder (TM2)",
+        "synonyms": [
+            "(b) Vātastampam (c) Waja‘ al-Khāṣira"
+        ]
+    },
+    {
+        "code": "SP44",
+        "title": "Torticollis disorder (TM2)",
+        "synonyms": [
+            "(a) manyāstambhaḥ (b) Puṟa Icivu"
+        ]
+    },
+    {
+        "code": "SP45",
+        "title": "Cervical spondylosis disorder (TM2)",
+        "synonyms": [
+            "(a) grīvāstambhaḥ (b) Cakaṉa Vātam (c) Waja‘ al-‘Unuq",
+            "Numbness of foot disorder (TM2)",
+            "(a) pādasuptatā"
+        ]
+    },
+    {
+        "code": "SP4Y",
+        "title": "Other specified bone",
+        "synonyms": [
+            " joint and muscle disorders (TM2)",
+            "Aggravation of Vata disorder causing pain in the nape of the neck",
+            " anal canal and penis (TM2)",
+            "(b) Mūṭu vātam",
+            "Increased Vaḷi and scolisis with odema disorder (TM2)",
+            "(b) Ākuṉivātam",
+            "Vaḷi with scoliatic features disorder (TM2)",
+            "(b) Kūṉi vātam",
+            "Inflammation and numbness in the body below the head disorder (TM2)",
+            "(b) Pēy vātam",
+            "Aggravation of Vaḷi and Aẕal disorder causing inflammation of cervix and ovary (TM2)",
+            "(b) Aṣṭacūlai vātam",
+            "Plantar fasciitis disorder (TM2)",
+            "(b) Talastampam",
+            "Pricking pain in the palm and sole disorder (TM2)",
+            "(b) Kaṟai cūlai",
+            "Peripheral neuritis due to DM disorder (TM2)",
+            "Karastampam",
+            "Atrophy of arm disorder (TM2)",
+            "(a) bāhuśoṣaḥ",
+            "Leg pain disorder (TM2)",
+            "(a) pādaśūlaḥ",
+            "Distention of inguinal region disorder (TM2)",
+            "(a) vaṅkṣaṇānāhaḥ",
+            "Jaw pain disorder (TM2)",
+            "(a) hanubhedaḥ",
+            "Foot weakness disorder (TM2)",
+            "(c) za'fe rejl",
+            "(c) Ḍu‘f al-Rijl",
+            "Back coldness disorder (TM2)",
+            "(c) boroudat-e zahr",
+            "(c) Burūdat-i-Ẓahr"
+        ]
+    },
+    {
+        "code": "SP4Z",
+        "title": "Bone",
+        "synonyms": [
+            " joint and muscle disorders (TM2)",
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SP50",
+        "title": "Enteric fever disorder (TM2)",
+        "synonyms": [
+            "(b) Vātakapa curam (c) Ḥummā Mi‘wiyya"
+        ]
+    },
+    {
+        "code": "SP51",
+        "title": "Fever disorder (TM2)",
+        "synonyms": [
+            "(a) jvara (b) Taṉvaẕi curam (c) Ḥummā"
+        ]
+    },
+    {
+        "code": "SP52",
+        "title": "Fever disorder with excessive salivation (TM2)",
+        "synonyms": [
+            "(a) kaphajajvaraḥ (b) Kapa curam (c) Ḥummā Lathiqa",
+            "(c) Ḥummā Balghamiyya Lāzima",
+            "Fever disorder caused due to cough (TM2)",
+            "(b) Irumal curam",
+            "Quotidian fever disorder (TM2)",
+            "(c) Ḥummā Muwāẓiba",
+            " (c) Astrābūs",
+            "Doubling quotidian fever disorder (TM2)",
+            "(c) Ḥummā Muwāẓiba Muḍā‘ifa",
+            "Quotidian fever disorder due to putrefaction of Balgham mixed with Ṣafrā’ (TM2)",
+            "(c) Ḥummā Muwāẓiba Ṣafrāwiyya"
+        ]
+    },
+    {
+        "code": "SP53",
+        "title": "High fever disorder with yellow discouloration (TM2)",
+        "synonyms": [
+            "(a) paittikajvaraḥ (b) Pitta curam (c) Ḥummā al-Ghibb",
+            "(c) Ṭraṭā’ūs",
+            "Continuous fever disorder due to putrefaction of Ṣafrā’ inside the vessels (TM2)",
+            "(c) Ḥummā al-Ghibb Lāzima",
+            "High grade putrefaction of Ṣafrā’ disorder (TM2)",
+            "(c) Ḥummā al-Ghibb Muḥarriqa"
+        ]
+    },
+    {
+        "code": "SP54",
+        "title": "Fever with body pain disorder (TM2)",
+        "synonyms": [
+            "(a) vātikajvaraḥ (b) Vāta curam"
+        ]
+    },
+    {
+        "code": "SP55",
+        "title": "Fever with chills disorder (TM2)",
+        "synonyms": [
+            "(b) Naḷir curam ",
+            " (b) Kuḷir curam (c) Ḥummā al-Ghibb Dā’ira"
+        ]
+    },
+    {
+        "code": "SP56",
+        "title": "High grade fever disorder (TM2)",
+        "synonyms": [
+            "(b) Ceṅkaṟaic curam (c) Ḥummā ‘Ufūniyya"
+        ]
+    },
+    {
+        "code": "SP57",
+        "title": "Intermittent fever disorder (TM2)",
+        "synonyms": [
+            "(a) viṣamajvaraḥ (b) Viṭṭuvarum curam (c) Ḥummā Dā’ira",
+            "Intermittent fever appearing twice daily disorder (TM2)",
+            "(a) satata-viṣamajvaraḥ",
+            "Quartan fever disorder (TM2)",
+            "(a) caturthaka-viṣamajvaraḥ (c) Ḥummā al-Rib‘ ",
+            " (c) Ṭaṭrā",
+            "Tertian fever disorder (TM2)",
+            "(a) tṛtīyaka-viṣamajvaraḥ",
+            "Tertian fever disorder due to Kapha and Pitta (TM2)",
+            "(a) kaphapittatṛtīyakajvaraḥ",
+            "Tertian fever disorder due to Vata and Kapha (TM2)",
+            "(a) vātakaphatṛtīyakajvaraḥ",
+            "Tertian fever disorder due to Vāta and Pitta (TM2)",
+            "(a) vātapittatṛtīyakajvaraḥ",
+            "Intermittent remitting fever on every fourth day disorder (TM2)",
+            "(a) caturthakaviparyaya-viṣamajvaraḥ",
+            "Intermittent fever occurring once in a day disorder (TM2)",
+            "(a) anyedyuṣka-viṣamajvaraḥ",
+            "Quartan fever disorder due to Kapha (TM2)",
+            "(a) kaphajacaturthakajvaraḥ",
+            "Quartan fever disorder due to Vāta (TM2)",
+            "(a) vātajacaturthakajvaraḥ",
+            "Periodic fever disorder (TM2)",
+            "(b) Muṟai curam",
+            "Continuous fever disorder due to derangement of Sawdā' (TM2)",
+            "(b) Ḥummā al-Rib‘ Lāzima"
+        ]
+    },
+    {
+        "code": "SP58",
+        "title": "Continuous fever disorder (TM2)",
+        "synonyms": [
+            "(c) Ḥummā Lāzima",
+            "(a) santata (c) Ḥummā Dā’ima",
+            "(b) Viṭāccuram"
+        ]
+    },
+    {
+        "code": "SP59",
+        "title": "Fever disorder due to external factor (TM2)",
+        "synonyms": [
+            "(a) āgantujvaraḥ (b) Piṟavaẕi curam",
+            "(c) Ḥummā al-Yawm"
+        ]
+    },
+    {
+        "code": "SP5A",
+        "title": "Inflammation with morbid matter disorder (TM2)",
+        "synonyms": [
+            "(a) vraṇaśophaḥ (b) Aṭipaṭṭa vīkka (c) Waram Māddī"
+        ]
+    },
+    {
+        "code": "SP5B",
+        "title": "Consumptive disorder (TM2)",
+        "synonyms": [
+            "(a) rājayakṣmā (b) Iḷaippu nōy (c) Ḥummā Diqqiyya",
+            "(c) Diqq"
+        ]
+    },
+    {
+        "code": "SP5Y",
+        "title": "Other specified febricity disorders (TM2)",
+        "synonyms": [
+            "Epidemic fever disorder (TM2)",
+            "(c) Ḥummā Wabā’iyya",
+            "Eruptive fever disorder (TM2)",
+            "(c) Ḥummā Ṭafḥiyya",
+            "Internal fever disorder (TM2)",
+            "(c) Uḷ curam",
+            "Marshy area fever disorder (TM2)",
+            "(c) Ḥummā Ajāmiyya",
+            "Ephemeral fever disorder due to heat stroke (TM2)",
+            "(c) Ḥummā al-Yawm Shamsiyya",
+            "Ephiyalus fever disorder (TM2)",
+            "(c) Ḥummā Afyālūs",
+            "Liparia fever disorder (TM2)",
+            "(c) Ḥummā Līfūriya",
+            "Ephiyalus Liparia fever disorder (TM2)",
+            "(c) Ḥummā Afyālūs Līfūriya",
+            "Fever disorder due to derangement of Dam (TM2)",
+            "(c) Ḥummā Muṭbiqa",
+            "Synochus fever disorder (TM2)",
+            "(c) Ḥummā Muṭbiqa Ghalayāniyya",
+            " (c) Ḥummā Sūnūkhus",
+            "Sinoco fever disorder (TM2)",
+            "(b) Ḥummā Muṭbiqa‘Ufūniyya",
+            "Fever disorder afflicting primary structural components of the body (TM2)",
+            "(a) dhātugatajvaraḥ",
+            "Fever disorder due to vitiation of all the three dosha (TM2)",
+            "(a) sannipātajajvaraḥ",
+            "Fever disorder due to Vāta and Pitta (TM2)",
+            "(a) vātapittajajvaraḥ",
+            "Chicken pox disorder (TM2)",
+            "(b) Ḥumayqa",
+            " (b) Bād Ābla",
+            "Fever disorder due to Kapha and Pitta (TM2)",
+            "(a) kaphapittajajvaraḥ",
+            "Fever disorder due to Kapha and Vata (TM2)",
+            "(a) kaphavātajajvaraḥ"
+        ]
+    },
+    {
+        "code": "SP5Z",
+        "title": "Febricity disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SP60",
+        "title": "Diabetes mellitus disorder (TM2)",
+        "synonyms": [
+            "(a) madhumehaḥ (b) Nīriẕivu (c) Dhayābīṭus",
+            "(a) kṣaudramehaḥ (b) iṉippu maṇa nīr ",
+            " (b) Nīriḻivu",
+            "(c) Dūlābiya ",
+            " (c) Mu‘aṭṭisha ",
+            " (c) Dawwāriyya ",
+            " (c) Parkāriyya"
+        ]
+    },
+    {
+        "code": "SP61",
+        "title": "Emaciation disorder (TM2)",
+        "synonyms": [
+            "(a) kārśyam (b) Asvatampa vātam (c) Huzāl"
+        ]
+    },
+    {
+        "code": "SP62",
+        "title": "High fat disorder (TM2)",
+        "synonyms": [
+            "(a) medovṛddhiḥ (b) Miku koẕuppu nōy"
+        ]
+    },
+    {
+        "code": "SP63",
+        "title": "Polydipsia disorder (TM2)",
+        "synonyms": [
+            "(a) tṛṣṇā (b) Nīr vēṭkai nōy (c) ‘Aṭsh Mufriṭ",
+            "Thirst disorder due to Aiyam (TM2)",
+            "(b) Aiya nīr vēṭkai nōy",
+            "Thirst disorder due to dyspepsia (TM2)",
+            "(b) Ceriyā nīr vēṭkai nōy",
+            "Aggravation of Aẕal and increased thirst disorder (TM2)",
+            "(b) Tāka pittam"
+        ]
+    },
+    {
+        "code": "SP64",
+        "title": "Obesity disorder (TM2)",
+        "synonyms": [
+            "(a) medorogaḥ / atisthaulyam (b) Atitūla nōy (c) Siman Mufriṭ"
+        ]
+    },
+    {
+        "code": "SP6Y",
+        "title": "Other specified metabolic disorders (TM2)",
+        "synonyms": []
+    },
+    {
+        "code": "SP6Z",
+        "title": "Metabolic disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SP70",
+        "title": "Lipoma disorder (TM2)",
+        "synonyms": [
+            "(a) medojagranthi (b) Koẕuppu kaẕalai (c) Sal‘a Shaḥmiyya"
+        ]
+    },
+    {
+        "code": "SP71",
+        "title": "Benign tumour disorder (TM2)",
+        "synonyms": [
+            "(a) granthi (b) Naṉmaṟavaikkaṭṭikaḷ (c) Sal‘āt",
+            "Crystal-hard tumors disorder (TM2)",
+            "(a) śarkarārbudaḥ"
+        ]
+    },
+    {
+        "code": "SP72",
+        "title": "Deep rooted spreading tumour disorder (TM2)",
+        "synonyms": [
+            "(a) arbudaḥ (b) Vippuruti (c) Saraṭan",
+            "(b) Puṟṟu nōykaḷ"
+        ]
+    },
+    {
+        "code": "SP7Y",
+        "title": "Other specified tumours disorders (TM2)",
+        "synonyms": [
+            "Cystomas disorder (TM2)",
+            "(b) Paikkaṭṭikaḷ",
+            "Fibromyomas disorder (leiomyoma uteri) (TM2)",
+            "(b) Nārttacaikaṭṭikaḷ",
+            "(b) Karuppaitacai vaṉkaẕalai"
+        ]
+    },
+    {
+        "code": "SP7Z",
+        "title": "Tumours disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SP90",
+        "title": "Abscess disorder (TM2)",
+        "synonyms": [
+            "(a) vidradhiḥ (b) Kaṭṭi (c) Khurāj",
+            "(c) Dubayla",
+            "Hiradenitis supparativa disorder (TM2)",
+            "(b) Araiyāppu"
+        ]
+    },
+    {
+        "code": "SP91",
+        "title": "Generalised oedema disorder (TM2)",
+        "synonyms": [
+            "(a) sarvasara-śōthaḥ (b) Cōkai (c) Istisqā’ Laḥmī",
+            "Anasarca",
+            "(b) Ūtal nōy"
+        ]
+    },
+    {
+        "code": "SP92",
+        "title": "Oedema disorder (TM2)",
+        "synonyms": [
+            "(a) śvayathuḥ",
+            " śothaḥ (c) Ūdhīma",
+            "(b) Vaḷiaiya nōy"
+        ]
+    },
+    {
+        "code": "SP93",
+        "title": "Impaired immunity disorder (TM2)",
+        "synonyms": [
+            "(a) ojovaiṣamyam (b) Iyaṟkai vaṉmai kuṟaivu (c) Ḍu‘f-i-Ḥarārat Gharīziyya"
+        ]
+    },
+    {
+        "code": "SP94",
+        "title": "Inflammation disorder (TM2)",
+        "synonyms": [
+            "(a) śophaḥ",
+            " (b) Tāpitam",
+            " (c) Waram",
+            "Hot inflammation disorder (TM2)",
+            "(c) Waram Ḥārr",
+            "Cold inflammation disorder (TM2)",
+            "(c) Waram Bārid",
+            "Scirrhous inflammation disorder (TM2)",
+            "(c) Saqīrūs",
+            "Inflammation disorder with distension due to Rīḥ (TM2)",
+            "(c) Waram Rīḥī"
+        ]
+    },
+    {
+        "code": "SP95",
+        "title": "Excessive yawning disorder (TM2)",
+        "synonyms": [
+            "(a) jr̥mbhā (b) Koṭṭāvi (c) Kathra al-Tathā’ub"
+        ]
+    },
+    {
+        "code": "SP96",
+        "title": "Laziness disorder (TM2)",
+        "synonyms": [
+            "(a) ālasyam (c) Lawā-o-Fayḥadhaj"
+        ]
+    },
+    {
+        "code": "SP97",
+        "title": "Severe fatigue disorder (TM2)",
+        "synonyms": [
+            "(a) klamaḥ (b) Aẕal cūlai"
+        ]
+    },
+    {
+        "code": "SP98",
+        "title": "Syncope disorder (TM2)",
+        "synonyms": [
+            "(a) mūrcchā (b) Mūrccai (c) Ghashī",
+            "Syncope disorder due to Vata (TM2)",
+            "(a) vataja mūrcchā",
+            "Syncope disorder due to Pitta (TM2)",
+            "(a) pittaja mūrcchā",
+            "Syncope disorder due to Kapha (TM2)",
+            "(a) kaphaja mūrcchā",
+            "Syncope disorder due to all the three dosha (TM2)",
+            "(a) sannipataja mūrcchā",
+            "Syncope disorder due to vitiated blood (TM2)",
+            "(a) raktaka mūrcchā",
+            "Syncope disorder due to alcohol intake (TM2)",
+            "(a) madyaja mūrcchā",
+            "Syncope disorder due to poisoning (TM2)",
+            "(a) vishaja mūrcchā",
+            "Syncope disorder due to fatigue (TM2)",
+            "(a) glanija mūrcchā",
+            "Fainting disorder due to hysteria (TM2)",
+            "(c) Ghashī Ikhtināqī",
+            "(c) Ghashī Az Ikhtināq al-Raḥim",
+            "Fainting disorder due to poisoning (TM2)",
+            "(c) Ghashī Sammī",
+            "Fainting disorder due to excessive emotions (TM2)",
+            "(c) Ghashī Nafsānī",
+            "Fainting disorder due to severe starvation (TM2)",
+            "(c) Ghashī Jū‘ī",
+            "Fainting disorder due to congestion (TM2)",
+            "(c) Ghashī Imtilā’ī",
+            "Fainting disorder after fullness of stomach (TM2)",
+            "(c) Ghashī Mi‘dī",
+            "Aggravated Aiyam with fainting and mutism disorder (TM2)",
+            "(b) Nittiya Cilēṭṭumam",
+            "Neurogenic vasovagal reflex disorder (TM2)",
+            "(c) Ghashī Waja‘ī-o-Waramī",
+            "Fainting disorder due to obstruction in the vessels (TM2)",
+            "(c) Ghashī Suddī",
+            "Syncope disorder due to derangement of temperament (TM2)",
+            "(c) Ghashī Sū’-i-Mizājī",
+            "Fainting disorder due to fever (TM2)",
+            "(c) Ghashī Ḥummī",
+            "Blackout disorder (TM2)",
+            "(a) tamapraveśaḥ",
+            " (a) tamaḥ-atidarśanam",
+            "Fainting disorder due to Vata (TM2)",
+            "(a) tamaḥ"
+        ]
+    },
+    {
+        "code": "SP99",
+        "title": "Pruritus disorder (TM2)",
+        "synonyms": [
+            "(a) kaṇḍūḥ (b) Pitta Viṭapākam (c) Ḥikka",
+            "Pruritus ani disorder (TM2)",
+            "(c) Ḥikka al-Maq‘ad",
+            "Pruritis of fingers disorder (TM2)",
+            "(c) Ḥikka al-Aṣābi‘",
+            "Itchy fingers (TM2)",
+            "Senile pruritus disorder (TM2)",
+            "(c) Ḥikka al-Mashāyikh",
+            "Pruritus tongue disorder (TM2)",
+            "(c) Ḥikka al-Lisān",
+            "Pruritus uteri disorder (TM2)",
+            "(c) Ḥikka al-Raḥim",
+            " (c) Farīsmūs al-Nisā’",
+            "Itching in external genitalia disorder (TM2)",
+            "(b) Kuri namai",
+            "Pain all over the body and fever disorder (TM2)",
+            "(b) Cura cūlai"
+        ]
+    },
+    {
+        "code": "SP9A",
+        "title": "General debility disorder (TM2)",
+        "synonyms": [
+            "(a) daurbalyam (b) Tēka vaṉmai kuṟaivu (c) Ḍu‘f-i-‘Ām"
+        ]
+    },
+    {
+        "code": "SP9Y",
+        "title": "Other specified disorders affecting the whole body (TM2)",
+        "synonyms": [
+            "Deep rooted abscess on scalp disorder (TM2)",
+            "(a) anuśayī",
+            "Scalp abscess disorder (TM2)",
+            "(a) kapālavidradhiḥ",
+            "Palatal swelling disorder (TM2)",
+            "(a) tālupākaḥ",
+            " (a) tāluśothaḥ",
+            "Palatal abscess disorder (TM2)",
+            "(a) tāluvidradhiḥ",
+            "Sublingual abscess disorder (TM2)",
+            "(a) adhijihvā",
+            "Kudzu tuber like abscess disorder (TM2)",
+            "(a) vidārikā",
+            "Abscess in the axilla disorder (TM2)",
+            "(b) Akkuḷ kaṭṭi",
+            "Irritable abscess in the axilla disorder (TM2)",
+            "(b) Akkuḷ ericcal kaṭṭi",
+            "Abscess in the scrotum disorder (TM2)",
+            "(b) Aṇṭakkaṭṭi",
+            "Dropsy due to Aẕal disorder (TM2)",
+            "(b) Aḻal ūtal nōy",
+            "Generalized oedema disorder including internal organs and cavities (TM2)",
+            "(c) Istisqā’",
+            "Throat pain disorder due to Vaḷi (TM2)",
+            "(b) Nakāri vātam",
+            "Shock disorder (TM2)",
+            "(c) Suqūṭ al-Quwwa",
+            "Neurofibromatosis disorder (TM2)",
+            "(b) Avutumparakkuṭṭam",
+            "Cyst disorder (TM2)",
+            "(a) granthiḥ",
+            "Splitting pain disorder (TM2)",
+            "(a) bhedaḥ",
+            "Agonising pain disorder (TM2)",
+            "(a) vyathā",
+            "Burning sensation all over the body with oedema and inflammation disorder (TM2)",
+            "(b) Cittuvāta Curōṇitam",
+            "Exhaustion disorder (TM2)",
+            "(a) glāniḥ",
+            "Aggravated Aiyam leading to evacuation of bladder and rectum disorder (TM2)",
+            "(b) Muyalaka kapam",
+            "Aggravated Aiyam disorder results in septicaemia (TM2)",
+            "(b) Turkkanta kapam",
+            "Aggravated Aiyam disorder with fire element results in aggressive burning in corpse (TM2)",
+            "(b) Aṉal kapam",
+            " (b) Neruppu aiyam",
+            "Aggravated Aiyam disorder leading to hunger - starvation (TM2)",
+            "(b) Tīpaṉam",
+            "Aggravation of Vaḷi disorder with neuritis all over the body (TM2)",
+            "(b) Malaittakampa vātam",
+            "Aggravation of Vaḷi disorder and emaciation leading to death (TM2)",
+            "(b) Pirāṇālaya vātam",
+            "Aggravation of Aẕal and pain all over the body disorder (TM2)",
+            "(b) Vaḷi pittam",
+            "Aggravation of Aẕal disorder due to Aiyam (TM2)",
+            "(b) Cilēṭṭuma pittam",
+            "Aẕal disorder caused due to increased Aẕal (TM2)",
+            "(b) Aẕal pittam",
+            "Hyperthyrodisim disorder (TM2)",
+            "(b) Catastampa vātam",
+            "Aggravated Aiyam along with Vaḷi and aiyam causing fever with chills disorder (TM2)",
+            "(b) Mukkūṭṭu Kapam",
+            "Aggravated Aiyam disorder with hyper pyrexia (TM2)",
+            "(b) Cura Kapam",
+            "Dryness and pain in the whole body disorder (TM2)",
+            "(b) Ularttu cūlai",
+            "Aggravation of Vaḷi and aggravation of Aẕal disorder causing palpitation and increase of Aẕal in muscules and joints (TM2)",
+            "(b) Pācattampa vātam",
+            "Cracking body pain disorder (TM2)",
+            "(a) aṅgāvadaraṇam",
+            "Generalized body ache disorder (TM2)",
+            "(a) aṅgamardaḥ",
+            "Burning feet disorder (TM2)",
+            "(a) pādadāhaḥ",
+            "Burning sensation disorder (TM2)",
+            "(a) dāhaḥ",
+            "Burning sensation with sweating and restlessness disorder (TM2)",
+            "(a) oṣaḥ (c) Kathra al-‘Araq",
+            "Burning sensation of buccal cavity disorder (TM2)",
+            "(a) davaḥ",
+            "Burning sensation of muscle disorder (TM2)",
+            "(a) māṃsadāhaḥ",
+            "Burning sensation of sense organs disorder (TM2)",
+            "(a) davathuḥ",
+            "Burning sensation of shoulder disorder (TM2)",
+            "(a) aṃsadāhaḥ",
+            "Burning sensation in the skin disorder (TM2)",
+            "(a) tvagdāhaḥ",
+            "Generalized burning sensation disorder (TM2)",
+            "(a) vidāhaḥ",
+            "Chest pain disorder (TM2)",
+            "(a) vakṣastodaḥ",
+            "Chills disorder only due to Kapha (TM2)",
+            "(a) śaityam",
+            "Contracture disorder (TM2)",
+            "(a) saṅkocaḥ",
+            "Dwarfism disorder (TM2)",
+            "(a) vāmanatvam",
+            "Wasting of body part(s) disorder (TM2)",
+            "(a) aṅgaśuṣkatā",
+            "Fuming sensation disorder (TM2)",
+            "(a) dhūmakaḥ",
+            " (a) dhūmodgāraḥ",
+            "Body heaviness disorder (TM2)",
+            "(a) gurugātratā",
+            "Horripilation disorder (TM2)",
+            "(a) lomaharṣaḥ",
+            "Impaired thoracic mobility disorder (TM2)",
+            "(a) vakṣoparodhaḥ",
+            "Excess body odour disorder (TM2)",
+            "(a) aṅgagandhaḥ",
+            "Excessive temperature disorder (TM2)",
+            "(a) ūṣmādhikyam",
+            "Feeling of being covered by wet cloth disorder (TM2)",
+            "(a) staimityam",
+            "Calf muscle cramp disorder (TM2)",
+            "(a) piṇḍikodveṣṭanam",
+            "Physical exhaustion disorder (TM2)",
+            "(a) śramaḥ",
+            "Scorching pain disorder (TM2)",
+            "(a) ploṣaḥ",
+            "Talkativeness disorder (TM2)",
+            "(a) vācālatā",
+            "Tingling feet disorder (TM2)",
+            "(a) pādaharṣaḥ",
+            "Pricking pain disorder (TM2)",
+            "(a) todaḥ",
+            "Weakness disorder (TM2)",
+            "(a) balahāniḥ",
+            "Asthenia disorder (TM2)",
+            "(a) balāsakaḥ"
+        ]
+    },
+    {
+        "code": "SP9Z",
+        "title": "Disorders affecting the whole body (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SQ00",
+        "title": "Delirium disorder (TM2)",
+        "synonyms": [
+            "(a) atipralāpaḥ (b) Caṉṉi nōy (c) Hadhayān",
+            "(a) pralāpakaḥ",
+            "Delirium disorder with dysfunction of panchendriyam due to Aiyam (TM2)",
+            "(b) Apiniyāca caṉṉi",
+            "Delirium disorder due to Aẕal aggravation (TM2)",
+            "(b) Āvuru pittam"
+        ]
+    },
+    {
+        "code": "SQ01",
+        "title": "Hallucination disorder (TM2)",
+        "synonyms": [
+            "(a) buddhisaṁmōhaḥ (b) Piramai (c) khiyAlAt-e bAteleh",
+            "Visual hallucinations disorder (TM2)",
+            "(c) Takhayyulāt",
+            "Hallucination disorder due to aggravated Aẕal (TM2)",
+            "(b) Mārkka pittam",
+            "(b) Vikāra pittam"
+        ]
+    },
+    {
+        "code": "SQ02",
+        "title": "Hysteria disorder (TM2)",
+        "synonyms": [
+            "(b) Cūtikāvātam (c) Ikhtināq al-Raḥim"
+        ]
+    },
+    {
+        "code": "SQ03",
+        "title": "Insanity disorder (TM2)",
+        "synonyms": [
+            "(a) unmādaḥ (b) Uṉmatam (c) Junūn",
+            "(b) Veṟi (c) Waswās",
+            "(c) waswAs-e sowdAwi",
+            "Lunacy disorder (TM2)",
+            "(b) Kirikai"
+        ]
+    },
+    {
+        "code": "SQ04",
+        "title": "Depressive disorder (TM2)",
+        "synonyms": [
+            "(a) kaphaja-unmādaḥ (b) Uṉmāta pittam (c) Mālankhūliyā",
+            "Depressive pyschosis disorder due to aggravated Aẕal (TM2)",
+            "(b) Tamanta pittam",
+            "Aggravated Aiyam with depressive psychosis disorder (TM2)",
+            "(b) Vikāram",
+            "Aggravated Aiyam leading to catatonia disorder (TM2)",
+            "(b) Veṟi",
+            "Transient depression disorder (TM2)",
+            "(a) viṣādaḥ",
+            "(a) dīnatā",
+            "Psychoneurosis disorder (TM2)",
+            "(c) Mālankhūliya Marāqī",
+            " (c) Nafkh Marāqī",
+            " (c) Marāqiyya",
+            " (c) ‘Illat Nāfikha",
+            " (c) Sharsūfiya",
+            "Depressive disorder due to derangement of Ṣafrā (TM2)",
+            "(c) Mālankhūliyā Ṣafrāwī",
+            "Depressive disorder due to derangement of Sawdā’ (TM2)",
+            "(c) Mālankhūliyā Sawdāwī",
+            "Depressive disorder due to derangement of Balgham (TM2)",
+            "(c) Mālankhūliyā Balghamī",
+            "Depressive disorder due to derangement of Dam (TM2)",
+            "(c) Mālankhūliyā Damawī"
+        ]
+    },
+    {
+        "code": "SQ05",
+        "title": "Lack of concentration",
+        "synonyms": [
+            " confusion disorder (TM2)",
+            "(a) anavasthitacittatvam (c) Ikhtlāṭ al-Dhahn",
+            "(c) ekhtelAt-e zehn"
+        ]
+    },
+    {
+        "code": "SQ0Y",
+        "title": "Other specified mental disorders (TM2)",
+        "synonyms": [
+            "Amnesia disorder (TM2)",
+            "(c) Nisyān",
+            "Amnesia disorder due to coldness and moistness (TM2)",
+            "(c) Nisyān Bārid Raṭb",
+            "Amnesia disorder due to hotness and dryness (TM2)",
+            "(c) Nisyān Ḥārr Yābis",
+            "Amnesia disorder due to coldness and dryness (TM2)",
+            "(c) Nisyān Bārid Yābis",
+            "Psychic perversion disorder (TM2)",
+            "(a) atattvābhiniveśaḥ",
+            " (a) mahāgadaḥ",
+            "Delusion (TM2)"
+        ]
+    },
+    {
+        "code": "SQ0Z",
+        "title": "Mental disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SQ10",
+        "title": "Anxiety ephemeral fever disorder (TM2)",
+        "synonyms": [
+            "(a) mana-santāpaḥ (b) Paya Curam (c) Ḥummā al-Yawm Fikriyya"
+        ]
+    },
+    {
+        "code": "SQ1Y",
+        "title": "Other specified emotional disorders (TM2)",
+        "synonyms": []
+    },
+    {
+        "code": "SQ1Z",
+        "title": "Emotional disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SQ20",
+        "title": "Alcoholism disorder (TM2)",
+        "synonyms": [
+            "(a) madātyayaḥ (b) Kuṭi veṟi nōy (c) Kathrat-i-Sharāb Noshī",
+            "(a) pānātyayaḥ",
+            "Alcoholic headache disorder (TM2)",
+            "(c) Ṣudā‘ Khumārī",
+            "Intoxicating ephemeral fever disorder (TM2)",
+            "(c) Ḥummā al-Yawm Sharābiyya",
+            "Alcoholic tremors disorder (TM2)",
+            "(c) Ra‘sha Sharābiyya"
+        ]
+    },
+    {
+        "code": "SQ21",
+        "title": "Egomania disorder (TM2)",
+        "synonyms": [
+            "(b) Cerukku nōy (c) Ru‘ūnat"
+        ]
+    },
+    {
+        "code": "SQ22",
+        "title": "Non alcoholic intoxication disorder (TM2)",
+        "synonyms": [
+            "(a) madaḥ (b) Matam"
+        ]
+    },
+    {
+        "code": "SQ23",
+        "title": "Panic attack disorder (TM2)",
+        "synonyms": [
+            "(b) Mayakka nōy (c) Ghashī Nafsānī",
+            "(c) Ghashī Az ‘Awāriḍ Nafsānī"
+        ]
+    },
+    {
+        "code": "SQ24",
+        "title": "Insomnia disorder (TM2)",
+        "synonyms": [
+            "(a) nidrānāśaḥ (b) Uṟakkamiṉmai (c) Sahar",
+            "(a) asvapnaḥ",
+            "Insomnia disorder due to excessive dryness (TM2)",
+            "(c) Sahar Yābis",
+            "Insomnia disorder due to excessive moistness (TM2)",
+            "(c) Sahar Ruṭūbī"
+        ]
+    },
+    {
+        "code": "SQ2Y",
+        "title": "Other specified behavioural disorders (TM2)",
+        "synonyms": [
+            "Intoxication disorder due to drugs (other than alcohol) (TM2)",
+            "(a) madaḥ",
+            "Syncope disorder due to intoxication (TM2)",
+            "(b) Nañcu mūrccai",
+            "Disordered dieting-incompatibility (TM2)",
+            "(a) viruddhānnabhojanam",
+            " (a) viruddhāhāraḥ",
+            "Disordered dieting-untimely curd eating (TM2)",
+            "(a) dadhi-mithyopayogaḥ",
+            "Disordered dieting-excess quantity (TM2)",
+            "(a) atimātrāhāraḥ",
+            " (a) āhārātiyogaḥ",
+            "Disordered dieting-over consumption of solitary taste (TM2)",
+            "(a) rasātiyogaḥ",
+            "Disordered dieting-over eating rice (TM2)",
+            "(a) śālidhānya-atiyogaḥ",
+            "Disordered dieting-over intake of oil (TM2)",
+            "(a) tailasevana-atiyogaḥ",
+            "Disordered dieting-overeating arid land animal meat (TM2)",
+            "(a) jāṅgalamāṃsātyupayogaḥ",
+            "Disordered dieting-overeating fresh jaggery (TM2)",
+            "(a) navaguḍa-atyupayogaḥ",
+            "Disordered dieting-overeating hot potency diet (TM2)",
+            "(a) uṣṇavīrya-dravyātiyogaḥ",
+            " (a) āgneya-dravyātiyogaḥ",
+            "Catatonic excitement with meaning less talking disorder (TM2)",
+            "(b) Muṉaṅkal kirikai",
+            "Catatonic excitement with tearing their dresses disorder (TM2)",
+            "(b) Pēypiṭi kirikai",
+            "Catatonic excitement with veins pounding disorder (TM2)",
+            "(b) Vaḷippu kirikai",
+            "Catatonic withdrawal disorder (TM2)",
+            "(b) Mūṭu kirikai",
+            "Catatonic withdrawal with purposeless yelling disorder (TM2)",
+            "(b) Alaṟu kirikai",
+            "Catatonic withdrawal with raising up and lying down disorder (TM2)",
+            "(b) Vāta kirikai",
+            "Catatonic withdrawal with yawning and shutting tears disorder (TM2)",
+            "(b) Cilēttumak kirikai",
+            "Manic excitement with abusing others disorder (TM2)",
+            "(b) Mōkiṉik kirikai",
+            "Manic excitement with calling others and gulping water in excess disorder (TM2)",
+            "(b) Maruṭ kirikai",
+            "Manic excitement with gulping water in excess disorder (TM2)",
+            "(b) Nīrkuṭi kirikai",
+            "Manic excitement with running like fugitive disorder (TM2)",
+            "(b) Nātavintu kirikai",
+            "Nightmare disorder due to derangement of Balgham (TM2)",
+            "(c) Kābūs Balghamī",
+            "Nightmare disorder due to derangement of Dam (TM2)",
+            "(c) Kābūs Damawī",
+            "Complications of daysleep disorder (TM2)",
+            "(a) divāsvapna-upadravaḥ",
+            "Untimely sleeping disorder (TM2)",
+            "(a) akālaśayanam",
+            "Cogitation disturbance disorder (TM2)",
+            "(c) fesAd-e fekr",
+            "(c) Ikhtilāl al-Fikr",
+            "Malicious cogitation disorder (TM2)",
+            "(c) fekr-e radiyeh",
+            "(c) Fikr Radī",
+            "Retentive imagination disturbance disorder (TM2)",
+            "(c) fesAd takhayyol",
+            "(c) I‘tilāl al-Takhayyul"
+        ]
+    },
+    {
+        "code": "SQ2Z",
+        "title": "Behavioural disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SQ40",
+        "title": "Hypersomnia disorder (TM2)",
+        "synonyms": [
+            "(a) nidrādhikyam (c) Subāt",
+            "(c) sobAt",
+            "(b) Vāta piramai",
+            "Hypersomnia disorder due to derangement of Dam (TM2)",
+            "(c) Subāt Damawī"
+        ]
+    },
+    {
+        "code": "SQ41",
+        "title": "Lycanthropy disorder (TM2)",
+        "synonyms": [
+            "(a) pittaja-unmādaḥ (b) Acāttiya pittam (c) Quṭrub",
+            "(c) ‘Illa al-Dhi’b",
+            " (c) Junūn Dhi’bī"
+        ]
+    },
+    {
+        "code": "SQ4Y",
+        "title": "Other specified mental",
+        "synonyms": [
+            " emotional and behavioural disorders (TM2)",
+            "Schizophrenia disorder (TM2)",
+            "(b) Ōṭu pittam",
+            "Aggravated Aiyam leading to schizophrenia disorder (TM2)",
+            "(b) Pūtam",
+            "Drowsiness disorder (TM2)",
+            "(a) tandrā",
+            "Sleep paralysis disorder (TM2)",
+            "(c) kAbous",
+            "Nightmare (TM2)",
+            "(c) Kābūs",
+            "Nightmare disorder due to derangement of Sawdā' (TM2)",
+            "(c) kAbous-e sowdAwi",
+            "sleep paralysis from vapor of Sawdā (TM2)",
+            "(c) kAbous-e hAdeth az abkhareh-ye sowdAwieh"
+        ]
+    },
+    {
+        "code": "SQ4Z",
+        "title": "Mental",
+        "synonyms": [
+            " emotional and behavioural disorders (TM2)",
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SQ50",
+        "title": "Worm infestation disorder (TM2)",
+        "synonyms": [
+            "(a) kṛmiḥ (b) Puẕu nōykaḷ (c) Dīdān al-Am‘ā’",
+            "(a) sañjātakṛmi",
+            "Vomiting due to worm infestation disorder (TM2)",
+            "(c) Qay’ Dīdānī",
+            "Faecal worm infestation disorder (TM2)",
+            "(a) purīṣajakṛmiḥ",
+            "Vomiting due to helmenthic infections disorder (TM2)",
+            "(b) Puẕu vānti",
+            "Round worm Infestation disorder (TM2)",
+            "(b) Nākkuppūcci",
+            "Tape worm disorder (TM2)",
+            "(b) Macaraipuẕu",
+            "Thread worm infestation disorder (TM2)",
+            "(b) Kīri puẕu"
+        ]
+    },
+    {
+        "code": "SQ5Y",
+        "title": "Other specified infestation disorders (TM2)",
+        "synonyms": []
+    },
+    {
+        "code": "SQ5Z",
+        "title": "Infestation disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SQ60",
+        "title": "Pseudo poisoning disorder (TM2)",
+        "synonyms": [
+            "(a) śaṅkhaviṣaḥ (b) Viṭappāka rōkam"
+        ]
+    },
+    {
+        "code": "SQ61",
+        "title": "Artificial poison disorder (TM2)",
+        "synonyms": [
+            "(a) garaviṣaḥ (b) Iṭumaruntu nañcu"
+        ]
+    },
+    {
+        "code": "SQ6Y",
+        "title": "Other specified poisoning disorders (TM2)",
+        "synonyms": [
+            "Plant poisons disorder (TM2)",
+            "(a) sthāvaraviṣaḥ (b) Tāvara nañcu",
+            "Animal poisons disorder (TM2)",
+            "(a) jaṅgamaviṣaḥ (b) Cīva nañcu",
+            "Mineral poisoning disorder (TM2)",
+            "(a) dhātu-viṣaḥ (b) Ulōka nañcu"
+        ]
+    },
+    {
+        "code": "SQ6Z",
+        "title": "Poisoning disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SQ80",
+        "title": "Inadequate diet disorders (TM2)",
+        "synonyms": [
+            "(a) hīnamātrāhāraḥ (b) Ūṭṭaccattu kuṟaipāṭu nōykaḷ"
+        ]
+    },
+    {
+        "code": "SQ8Y",
+        "title": "Other specified external factors disorders (TM2)",
+        "synonyms": [
+            "Disorder due to unsalutary seasonal regime (TM2)",
+            "(a) ṛtucaryā-vaiṣamyam",
+            "Disorder due to unsalutary exercise (TM2)",
+            "(a) vyāyāma-vaiṣamyam",
+            "Lack of physical exercise disorder (TM2)",
+            "(a) avyāyāmaḥ",
+            "Lifestyle disorders (TM2)",
+            "(a) vihāravaiṣamyam",
+            "Over physical exercise disorder (TM2)",
+            "(a) ativyāyāmaḥ",
+            " (a) vyāyāmātiyogaḥ",
+            "Fainting after excessive evacuation disorder (TM2)",
+            "(c) Ghashī Istifrāghī",
+            "Fainting disorder due to excessive physical exertion and predominance of dryness in the body (TM2)",
+            "(c) Ghashī Ta‘bī-o-Yubsī",
+            "Aggravation of Aẕal due to drugs disorder disorder (TM2)",
+            "(b) Maruntīṭu pittam",
+            "Toxicity due to aggrevation of Aẕal disorder (TM2)",
+            "(b) Viṭa pittam",
+            "Incompatible seasonal regimen disorder (TM2)",
+            "(a) ṛtu-apacāraḥ",
+            "Cold-induced disorder (TM2)",
+            "(c) bimAri-e nAshi az sarmA",
+            "(c) Bīmārī Nāshī az Sarmā",
+            "Heat-induced disorder (TM2)",
+            "(c) bimAri-e nAshi az garmA",
+            "(c) Bīmārī Nāshī az Garmā",
+            "Moisture-induced disorder (TM2)",
+            "(c) bimAri-e nAshi az rotoubat",
+            "(c) Bīmārī Nāshī az Ruṭūbat",
+            "Dryness-induced disorder (TM2)",
+            "(c) bimAri-e nAshi az khoshki",
+            "(c) Bīmārī Nāshī az Khushkī"
+        ]
+    },
+    {
+        "code": "SQ8Z",
+        "title": "External factors disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    },
+    {
+        "code": "SR00",
+        "title": "Marasmus disorder (TM2)",
+        "synonyms": [
+            "(a) kumāraśoṣaḥ (b) Varaṭ kaṇam"
+        ]
+    },
+    {
+        "code": "SR01",
+        "title": "Bed wetting disorder (TM2)",
+        "synonyms": [
+            "(a) śayyāmūtratvam (c) Bawl fi’l Farāsh",
+            "(b) Palarcoṭṭunīr",
+            "Infantile acute gastroenteritis disorder (TM2)",
+            "(a) kṣīrālasakaḥ"
+        ]
+    },
+    {
+        "code": "SR02",
+        "title": "Infantile dysentry disorder (TM2)",
+        "synonyms": [
+            "(b) Māntak kaẕiccal (c) Zaḥīr al-Aṭfāl",
+            "Dysentery disorder due to respiratory disorders (TM2)",
+            "(b) Kaṇa kaẕiccal"
+        ]
+    },
+    {
+        "code": "SR03",
+        "title": "Infantile epilepsy disorder (TM2)",
+        "synonyms": [
+            "(a) Skanda Apasmara (b) Kākkai Vaḷippu (c) Ṣar‘ al-Aṭfāl"
+        ]
+    },
+    {
+        "code": "SR04",
+        "title": "Ophthalmia neonatarum disorder (TM2)",
+        "synonyms": [
+            "(a) kukūṇakaḥ (b) Amaram"
+        ]
+    },
+    {
+        "code": "SR05",
+        "title": "Childhood malnutrition disorder (TM2)",
+        "synonyms": [
+            "(a) pārigarbhikaḥ (b) Nīrāmakkaṇam",
+            "Protein energy malnutrition"
+        ]
+    },
+    {
+        "code": "SR06",
+        "title": "Oral thrush in babies disorder (TM2)",
+        "synonyms": [
+            "(b) Kumari akkaram (c) Qulā‘-i-Ṣibyān"
+        ]
+    },
+    {
+        "code": "SR0Y",
+        "title": "Other specified childhood disorders (TM2)",
+        "synonyms": [
+            "Inconsolable crying disorder (TM2)",
+            "(b) Cīṟi aẕutal",
+            "Zooṉotic disorder of children (TM2)",
+            "(b) Tōṭam",
+            "Infantile cough disorder (TM2)",
+            "(c) Su‘āl al-Aṭfāl",
+            "Delay in walking disorder (TM2)",
+            "(a) phakka-rogaḥ",
+            "Tongue abscess disorder (TM2)",
+            "(b) Nāvil tōṉṟum nōykaḷ",
+            "Eczema of children disorder (TM2)",
+            "(b) Pālakarappāṉ",
+            "Lack of decisiveness disorder (TM2)",
+            "(a) buddhimāndyam",
+            "Respiratory syndrome of children disorder (TM2)",
+            "(b) Kaṇam",
+            "Infantile spasm disorder (TM2)",
+            "(c) Tashannuj al-Aṭfāl",
+            "Infantile abdominal distention disorder (TM2)",
+            "(b) Vayiṟu vīṅkal",
+            "Infantile abdominal pain disorder (TM2)",
+            "(b) Vayiṟṟu nōvu",
+            "Infantile hiccough disorder (TM2)",
+            "(b) Vikkal"
+        ]
+    },
+    {
+        "code": "SR0Z",
+        "title": "Childhood disorders (TM2)",
+        "synonyms": [
+            " unspecified"
+        ]
+    }
+]

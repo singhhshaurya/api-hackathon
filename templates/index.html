@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NAMASTE-ICD11 Clinical Mapping System</title>
+    <meta name="description" content="Professional medical coding translation service for Ayurvedic diagnostics">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <header class="header">
+            <div class="header-content">
+                <div class="brand">
+                    <div class="logo">
+                        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <rect width="32" height="32" rx="8" fill="#059669"/>
+                            <path d="M8 16L14 22L24 10" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <div class="brand-text">
+                        <h1>NAMASTE Clinical Mapping System</h1>
+                        <p class="version">Version 1.0.0 | Production Environment</p>
+                    </div>
+                </div>
+                <div class="header-info">
+                    <div class="status-indicator">
+                        <span class="status-dot"></span>
+                        <span>System Operational</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <div class="content-grid">
+                <nav class="sidebar">
+                    <div class="nav-section">
+                        <h3>API Operations</h3>
+                        <ul class="nav-menu">
+                            <li><a href="#health" class="nav-link active" onclick="showSection('health')">System Health</a></li>
+                            <li><a href="#translate" class="nav-link" onclick="showSection('translate')">Code Translation</a></li>
+                            <li><a href="#condition" class="nav-link" onclick="showSection('condition')">FHIR Condition</a></li>
+                            <li><a href="#codesystem" class="nav-link" onclick="showSection('codesystem')">Code Systems</a></li>
+                            <li><a href="#audit" class="nav-link" onclick="showSection('audit')">Audit Logs</a></li>
+                        </ul>
+                    </div>
+                    <div class="nav-section">
+                        <h3>Authentication</h3>
+                        <div class="auth-form">
+                            <label for="auth-token">Bearer Token</label>
+                            <input type="password" id="auth-token" placeholder="Enter authorization token" value="sparrow">
+                            <small class="auth-help">Required for API access</small>
+                        </div>
+                    </div>
+                </nav>
+
+                <div class="content-area">
+                    <!-- System Health Section -->
+                    <section id="health-section" class="api-section active">
+                        <div class="section-header">
+                            <h2>System Health Check</h2>
+                            <p class="section-description">Monitor the operational status of the NAMASTE-ICD11 mapping service</p>
+                        </div>
+                        <div class="operation-card">
+                            <div class="operation-header">
+                                <div class="operation-info">
+                                    <span class="http-method get">GET</span>
+                                    <code class="endpoint">/health</code>
+                                </div>
+                                <button class="btn btn-primary" onclick="testHealth()">Execute Request</button>
+                            </div>
+                            <div class="operation-description">
+                                <p>Returns current system status and service availability</p>
+                            </div>
+                            <div id="health-result" class="result-panel"></div>
+                        </div>
+                    </section>
+
+                    <!-- Code Translation Section -->
+                    <section id="translate-section" class="api-section">
+                        <div class="section-header">
+                            <h2>NAMASTE Code Translation</h2>
+                            <p class="section-description">Translate Ayurvedic diagnostic codes to ICD-11 TM2 classifications</p>
+                        </div>
+                        <div class="operation-card">
+                            <div class="operation-header">
+                                <div class="operation-info">
+                                    <span class="http-method get">GET</span>
+                                    <code class="endpoint">/translate/{code}</code>
+                                </div>
+                                <button class="btn btn-primary" onclick="testTranslate()">Execute Request</button>
+                            </div>
+                            <div class="form-group">
+                                <label for="namaste-code" class="form-label">NAMASTE Diagnostic Code</label>
+                                <input type="text" id="namaste-code" class="form-input" placeholder="e.g., ABB-10" value="ABB-10">
+                                <small class="form-help">Enter a valid NAMASTE diagnostic code for translation</small>
+                            </div>
+                            <div id="translate-result" class="result-panel"></div>
+                        </div>
+                    </section>
+
+                    <!-- FHIR Condition Section -->
+                    <section id="condition-section" class="api-section">
+                        <div class="section-header">
+                            <h2>FHIR Condition Resource</h2>
+                            <p class="section-description">Generate FHIR R4 compliant Condition resources from NAMASTE codes</p>
+                        </div>
+                        <div class="operation-card">
+                            <div class="operation-header">
+                                <div class="operation-info">
+                                    <span class="http-method post">POST</span>
+                                    <code class="endpoint">/condition</code>
+                                </div>
+                                <button class="btn btn-primary" onclick="testCondition()">Execute Request</button>
+                            </div>
+                            <div class="form-grid">
+                                <div class="form-group">
+                                    <label for="condition-code" class="form-label">NAMASTE Code *</label>
+                                    <input type="text" id="condition-code" class="form-input" placeholder="e.g., ABB-10" value="ABB-10" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="subject-id" class="form-label">Subject ID</label>
+                                    <input type="text" id="subject-id" class="form-input" placeholder="e.g., patient-123">
+                                </div>
+                                <div class="form-group">
+                                    <label for="resource-id" class="form-label">Resource ID</label>
+                                    <input type="text" id="resource-id" class="form-input" placeholder="Auto-generated if empty">
+                                </div>
+                            </div>
+                            <div id="condition-result" class="result-panel"></div>
+                        </div>
+                    </section>
+
+                    <!-- Code Systems Section -->
+                    <section id="codesystem-section" class="api-section">
+                        <div class="section-header">
+                            <h2>Code System Information</h2>
+                            <p class="section-description">Access detailed information about supported coding systems</p>
+                        </div>
+                        <div class="operation-card">
+                            <div class="operation-header">
+                                <div class="operation-info">
+                                    <span class="http-method get">GET</span>
+                                    <code class="endpoint">/codesystem/{system}</code>
+                                </div>
+                                <button class="btn btn-primary" onclick="testCodeSystem()">Execute Request</button>
+                            </div>
+                            <div class="form-group">
+                                <label for="system-type" class="form-label">Code System</label>
+                                <select id="system-type" class="form-select">
+                                    <option value="namaste">NAMASTE (Ayurvedic Diagnostic Codes)</option>
+                                    <option value="icd11">ICD-11 (Traditional Medicine Module 2)</option>
+                                </select>
+                            </div>
+                            <div id="codesystem-result" class="result-panel"></div>
+                        </div>
+                    </section>
+
+                    <!-- Audit Logs Section -->
+                    <section id="audit-section" class="api-section">
+                        <div class="section-header">
+                            <h2>Audit Trail</h2>
+                            <p class="section-description">Review system access logs and operational audit trail</p>
+                        </div>
+                        <div class="operation-card">
+                            <div class="operation-header">
+                                <div class="operation-info">
+                                    <span class="http-method get">GET</span>
+                                    <code class="endpoint">/audit</code>
+                                </div>
+                                <button class="btn btn-primary" onclick="testAudit()">Execute Request</button>
+                            </div>
+                            <div class="form-grid">
+                                <div class="form-group">
+                                    <label for="audit-limit" class="form-label">Record Limit</label>
+                                    <input type="number" id="audit-limit" class="form-input" placeholder="50" value="50" min="1" max="1000">
+                                </div>
+                                <div class="form-group">
+                                    <label for="audit-operation" class="form-label">Operation Filter</label>
+                                    <select id="audit-operation" class="form-select">
+                                        <option value="">All Operations</option>
+                                        <option value="translate">Code Translation</option>
+                                        <option value="condition">FHIR Condition</option>
+                                        <option value="codesystem">Code System</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div id="audit-result" class="result-panel"></div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </main>
+        <footer class="footer">
+            <div class="footer-content">
+                <div class="footer-info">
+                    <p>&copy; 2025 NAMASTE Clinical Mapping System. All rights reserved.</p>
+                    <p>FHIR R4 Compliant | ISO 27001 Certified | HIPAA Compliant</p>
+                </div>
+                <div class="footer-links">
+                    <a href="#" class="footer-link">API Documentation</a>
+                    <a href="#" class="footer-link">Privacy Policy</a>
+                    <a href="#" class="footer-link">Support</a>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
