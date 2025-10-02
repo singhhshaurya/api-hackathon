@@ -64,15 +64,15 @@ concept_map = {
 # ============================================================================
 
 # Load ICD-11 TM2 data
-with open("icd11_data.json", "r", encoding="utf-8") as f:
+with open("data/icd11_data.json", "r", encoding="utf-8") as f:
     icd_list = json.load(f)
 
 # Load Sanskrit to English translation mappings
-with open("sanskrit-to-english.json", "r", encoding="utf-8") as f:
+with open("data/sanskrit-to-english.json", "r", encoding="utf-8") as f:
     alias = json.load(f)
 
 # Load NAMASTE diagnostic entries
-with open("namaste_entries.json", "r", encoding="utf-8") as f:
+with open("data/namaste_entries.json", "r", encoding="utf-8") as f:
     namaste_data_mapped = json.load(f)
     
 #FHIR CodeSystem resource structure
